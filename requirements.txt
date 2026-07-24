@@ -1,6 +1,6 @@
 requests
-PyMuPDFrequests
 PyMuPDF
 pdfplumber
 wordninja
-pdfplumber
+chromadb
+sentence-transformers
