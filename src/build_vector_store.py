@@ -16,13 +16,13 @@ Re-running this script is safe: chunk IDs are deterministic
 will just overwrite that datasheet's old vectors rather than duplicating.
 """
 
-import json
 from pathlib import Path
 
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-PROCESSED_CHUNKS_DIR = Path(__file__).parent.parent / "data" / "processed_chunks"
+from chunk_utils import load_all_chunks_with_ids
+
 VECTOR_DB_DIR = Path(__file__).parent.parent / "data" / "chroma_db"
 COLLECTION_NAME = "semiconductor_datasheets"
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
@@ -34,28 +34,9 @@ EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 BATCH_SIZE = 64
 
 
-def load_all_chunks():
-    """Load every processed chunk JSON file into one flat list."""
-    all_chunks = []
-    json_files = sorted(PROCESSED_CHUNKS_DIR.glob("*.json"))
-
-    if not json_files:
-        print(f"No processed chunk files found in {PROCESSED_CHUNKS_DIR}")
-        print("Run src/parse_datasheet.py on your PDFs first.")
-        return []
-
-    for json_file in json_files:
-        with open(json_file) as f:
-            chunks = json.load(f)
-        print(f"  loaded {len(chunks)} chunks from {json_file.name}")
-        all_chunks.extend(chunks)
-
-    return all_chunks
-
-
 def build_vector_store():
     print("Loading processed chunks...")
-    chunks = load_all_chunks()
+    chunks = load_all_chunks_with_ids()
     if not chunks:
         return
 
@@ -82,7 +63,7 @@ def build_vector_store():
         texts = [c["content"] for c in batch]
         embeddings = model.encode(texts, show_progress_bar=False).tolist()
 
-        ids = [f"{c['part_number']}_{batch_start + i}" for i, c in enumerate(batch)]
+        ids = [c["id"] for c in batch]
         metadatas = [
             {
                 "part_number": c["part_number"],
