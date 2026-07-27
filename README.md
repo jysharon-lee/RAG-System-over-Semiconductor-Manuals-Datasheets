@@ -1,5 +1,7 @@
 # Semiconductor Datasheet RAG System
 
+![Datasheet RAG Web Interface](assets/screenshot.png)
+
 An engineering-grade Retrieval-Augmented Generation (RAG) system specifically designed for navigating and extracting highly accurate numerical specifications from complex semiconductor datasheets (PDFs).
 
 ## Architecture
