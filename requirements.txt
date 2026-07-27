@@ -6,3 +6,6 @@ chromadb
 sentence-transformers
 rank_bm25
 ollama
+fastapi
+uvicorn
+pydantic

@@ -51,22 +51,16 @@ def build_context(results: list) -> str:
     return "\n".join(lines)
 
 
-def generate_answer(question: str, model_name: str = DEFAULT_MODEL, top_k: int = 5):
-    print("Loading retrieval backend...")
-    backend = load_retrieval_backend()
-
-    print(f"Retrieving context for: {question}\n")
+def get_answer_data(backend, question: str, model_name: str = DEFAULT_MODEL, top_k: int = 5) -> dict:
     outcome = retrieve_chunks(backend, question, top_k)
     results = outcome["results"]
 
     if not results:
-        print("No relevant chunks found in the vector store.")
-        return
+        return {"answer": "No relevant chunks found in the vector store.", "sources": []}
 
     context = build_context(results)
     user_message = f"Excerpts from semiconductor datasheets:\n\n{context}\n\nQuestion: {question}"
 
-    print(f"Generating answer with {model_name}...\n")
     try:
         response = ollama.chat(
             model=model_name,
@@ -75,24 +69,37 @@ def generate_answer(question: str, model_name: str = DEFAULT_MODEL, top_k: int =
                 {"role": "user", "content": user_message},
             ],
         )
+        answer = response["message"]["content"]
     except Exception as e:
-        print(f"Could not reach Ollama or run model '{model_name}': {e}")
-        print("Make sure Ollama is installed and running, and the model is pulled:")
-        print(f"  ollama pull {model_name}")
-        return
+        answer = f"Could not reach Ollama or run model '{model_name}': {e}"
 
-    answer = response["message"]["content"]
+    sources = [
+        {"id": i, "part_number": r['part_number'], "section": r['section'], "page": r['page_number'], "content": r['content']}
+        for i, r in enumerate(results, start=1)
+    ]
+    return {"answer": answer, "sources": sources}
+
+
+def generate_answer(question: str, model_name: str = DEFAULT_MODEL, top_k: int = 5):
+    print("Loading retrieval backend...")
+    backend = load_retrieval_backend()
+
+    print(f"Retrieving context for: {question}\n")
+    print(f"Generating answer with {model_name}...\n")
+    
+    data = get_answer_data(backend, question, model_name, top_k)
 
     print("=" * 70)
     print("ANSWER")
     print("=" * 70)
-    print(answer)
+    print(data["answer"])
 
-    print("\n" + "=" * 70)
-    print("SOURCES")
-    print("=" * 70)
-    for i, r in enumerate(results, start=1):
-        print(f"[Source {i}] {r['part_number']} - {r['section']} (page {r['page_number']})")
+    if data["sources"]:
+        print("\n" + "=" * 70)
+        print("SOURCES")
+        print("=" * 70)
+        for s in data["sources"]:
+            print(f"[Source {s['id']}] {s['part_number']} - {s['section']} (page {s['page']})")
 
 
 if __name__ == "__main__":
