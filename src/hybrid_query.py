@@ -80,54 +80,88 @@ def reciprocal_rank_fusion(*ranked_id_lists, k: int = RRF_K):
     return sorted(scores.items(), key=lambda x: x[1], reverse=True)
 
 
-def hybrid_query(question: str, top_k: int = 5):
-    print("Loading models and indexes...")
+def load_retrieval_backend():
+    """Load everything retrieval needs once: embedding model, vector store,
+    BM25 index, and the known part-number list. Returns a dict so callers
+    (the CLI here, and generate_answer.py) share one implementation."""
     model = SentenceTransformer(EMBEDDING_MODEL_NAME)
     client = chromadb.PersistentClient(path=str(VECTOR_DB_DIR))
 
     try:
         collection = client.get_collection(COLLECTION_NAME)
     except Exception:
-        print(f"Vector collection '{COLLECTION_NAME}' not found. Run src/build_vector_store.py first.")
-        return
+        raise RuntimeError(
+            f"Vector collection '{COLLECTION_NAME}' not found. Run src/build_vector_store.py first."
+        )
 
     if not BM25_INDEX_PATH.exists():
-        print(f"BM25 index not found at {BM25_INDEX_PATH}. Run src/build_bm25_index.py first.")
-        return
+        raise RuntimeError(f"BM25 index not found at {BM25_INDEX_PATH}. Run src/build_bm25_index.py first.")
 
     with open(BM25_INDEX_PATH, "rb") as f:
         bm25_data = pickle.load(f)
-    bm25 = bm25_data["bm25"]
-    chunks = bm25_data["chunks"]
-    chunk_by_id = {c["id"]: c for c in chunks}
 
-    known_parts = get_known_part_numbers()
-    part_number = detect_part_number(question, known_parts)
+    return {
+        "model": model,
+        "collection": collection,
+        "bm25": bm25_data["bm25"],
+        "chunks": bm25_data["chunks"],
+        "chunk_by_id": {c["id"]: c for c in bm25_data["chunks"]},
+        "known_parts": get_known_part_numbers(),
+    }
 
-    print(f"\nQuery: {question}")
-    print(f"Detected part number filter: {part_number or '(none - searching all parts)'}\n")
 
-    vector_ids = vector_search(model, collection, question, part_number, CANDIDATE_POOL_SIZE)
-    bm25_ids = bm25_search(bm25, chunks, question, part_number, CANDIDATE_POOL_SIZE)
+def retrieve_chunks(backend: dict, question: str, top_k: int = 5):
+    """Run hybrid retrieval and return a plain list of result dicts (content
+    + metadata + fusion diagnostics) - no printing, so this can be reused by
+    both the CLI below and the answer-generation script."""
+    part_number = detect_part_number(question, backend["known_parts"])
 
+    vector_ids = vector_search(backend["model"], backend["collection"], question, part_number, CANDIDATE_POOL_SIZE)
+    bm25_ids = bm25_search(backend["bm25"], backend["chunks"], question, part_number, CANDIDATE_POOL_SIZE)
     fused = reciprocal_rank_fusion(vector_ids, bm25_ids)[:top_k]
 
-    print(f"Top {len(fused)} results (fused ranking):\n")
+    results = []
     for rank, (chunk_id, score) in enumerate(fused, start=1):
-        chunk = chunk_by_id.get(chunk_id)
+        chunk = backend["chunk_by_id"].get(chunk_id)
         if not chunk:
             continue
-        in_vector = chunk_id in vector_ids
-        in_bm25 = chunk_id in bm25_ids
         sources = []
-        if in_vector:
+        if chunk_id in vector_ids:
             sources.append(f"vector#{vector_ids.index(chunk_id) + 1}")
-        if in_bm25:
+        if chunk_id in bm25_ids:
             sources.append(f"bm25#{bm25_ids.index(chunk_id) + 1}")
+        results.append({
+            "rank": rank,
+            "fused_score": score,
+            "sources": sources,
+            "part_number": chunk["part_number"],
+            "section": chunk["section"],
+            "page_number": chunk["page_number"],
+            "type": chunk["type"],
+            "content": chunk["content"],
+        })
 
-        print(f"--- Result {rank} (fused score: {score:.4f}, from: {', '.join(sources)}) ---")
-        print(f"Part: {chunk['part_number']} | Section: {chunk['section']} | Page: {chunk['page_number']} | Type: {chunk['type']}")
-        print(chunk["content"][:300])
+    return {"part_number_filter": part_number, "results": results}
+
+
+def hybrid_query(question: str, top_k: int = 5):
+    print("Loading models and indexes...")
+    try:
+        backend = load_retrieval_backend()
+    except RuntimeError as e:
+        print(e)
+        return
+
+    print(f"\nQuery: {question}")
+    outcome = retrieve_chunks(backend, question, top_k)
+    print(f"Detected part number filter: {outcome['part_number_filter'] or '(none - searching all parts)'}\n")
+
+    results = outcome["results"]
+    print(f"Top {len(results)} results (fused ranking):\n")
+    for r in results:
+        print(f"--- Result {r['rank']} (fused score: {r['fused_score']:.4f}, from: {', '.join(r['sources'])}) ---")
+        print(f"Part: {r['part_number']} | Section: {r['section']} | Page: {r['page_number']} | Type: {r['type']}")
+        print(r["content"][:300])
         print()
 
 
