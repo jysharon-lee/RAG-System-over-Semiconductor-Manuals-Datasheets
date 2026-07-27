@@ -445,10 +445,19 @@ def extract_table_chunks(pdf_path: Path, part_number: str, page_section_position
 
                 header, data_start = _merge_multi_row_header(table)
                 header = [desegment_cell(h) for h in header]
+                current_category = ""
                 for row in table[data_start:]:
                     row = [desegment_cell(str(c).strip()) if c else "" for c in row]
                     row = _redistribute_merged_cells(header, row)
                     if not any(row):
+                        continue
+
+                    # Check if this row is a category/sub-header row
+                    # (no numeric values).
+                    if not any(_has_numeric_value(c) for c in row):
+                        non_empty = [c for c in row if c]
+                        if non_empty:
+                            current_category = " - ".join(non_empty)
                         continue
 
                     # Serialize as "Header1: val1, Header2: val2, ..." instead
@@ -466,6 +475,9 @@ def extract_table_chunks(pdf_path: Path, part_number: str, page_section_position
                     # exists, otherwise keep the value on its own so the
                     # information survives.
                     pairs = []
+                    if current_category:
+                        pairs.append(f"Category: {current_category}")
+                        
                     for h, v in zip(header, row):
                         if not v:
                             continue

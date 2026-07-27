@@ -6948,28 +6948,21 @@
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Power dissipation; MIN: Internally limited"
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Category: Power dissipation - Internally limited; Input-output voltage differential; MIN: \u22120.3; MAX: 40; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Input-output voltage differential; MIN: \u22120.3; MAX: 40; UNIT: V"
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Category: Power dissipation - Internally limited; Storage temperature, T\nstg; MIN: \u221265; MAX: 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Storage temperature, T\nstg; MIN: \u221265; MAX: 150; UNIT: \u00b0C"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.1 Absolute Maximum Ratings",
-    "type": "table_row",
-    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Operating virtual junction temperature, T (legacy chip)\nJ; MIN: \u221265; MAX: 150; UNIT: \u00b0C"
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Category: Power dissipation - Internally limited; Operating virtual junction temperature, T (legacy chip)\nJ; MIN: \u221265; MAX: 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
@@ -7312,35 +7305,14 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] V\nOU; =\nT; V\nREF"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] Category: VOU - T; CAD; J= 0 \u00b5"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOU: VOU; T: T"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] CAD; J= 0 \u00b5"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOUT: VOUT"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOUT: CADJ= 1"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] Category: VOUT; IOUT: CADJ= 1"
   },
   {
     "part_number": "LM317",
@@ -7368,63 +7340,21 @@
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] A"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] Category: VIN=15; VOUT=1\nf=120; 0V\nHz"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] Category: V \u2013 - V =15 - V; IN\nIOUT=\nf=1; OUT\n500mA\n20Hz"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
     "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] VIN=15"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] VOUT=1\nf=120; 0V\nHz"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] TA=25; \u00b0C"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V \u2013; V"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V \u2013; V =15; V"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] IN\nIOUT=\nf=1; OUT\n500mA\n20Hz"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] TA=; TA=; 25\u00b0C"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] Category: V \u2013 - V =15 - V; TA=; TA=; 25\u00b0C"
   },
   {
     "part_number": "LM317",
@@ -7439,13 +7369,6 @@
     "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
     "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] 5V\n10V: C; = 10 \u00b5F"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 10,
-    "section": "6.7 Typical Characteristics (continued)",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] 5V\n10V: ADJ"
   },
   {
     "part_number": "LM317",
@@ -7481,13 +7404,6 @@
     "section": "8.2 Typical Application",
     "type": "table_row",
     "content": "[LM317, 8.2 Typical Application, page 20] 480\u2126: 120\u2126"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 26,
-    "section": "8.5.2 Layout Examples",
-    "type": "table_row",
-    "content": "[LM317, 8.5.2 Layout Examples, page 26] OUTPUT: OUTPUT"
   },
   {
     "part_number": "LM317",
@@ -7544,13 +7460,6 @@
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
     "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317KCSE3; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0 B0 K0 W: P1; Dimension designed to accommodate the component width Dimension designed to accommodate the component length Dimension designed to accommodate the component thickness Overall width of the carrier tape: Pitch between successive cavity centers"
   },
   {
     "part_number": "LM317",
