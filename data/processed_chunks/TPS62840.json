@@ -9879,1373 +9879,2248 @@
   {
     "part_number": "TPS62840",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[TPS62840, table on page 1] PART NUMBER: TPS6284x; PACKAGE: 8pin DLC(SON); BODY SIZE(NOM): 1.5mmx2mm"
+    "content": "[TPS62840, Typical Application, page 1] PART NUMBER: TPS6284x; PACKAGE: 8pin DLC(SON); BODY SIZE(NOM): 1.5mmx2mm"
   },
   {
     "part_number": "TPS62840",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[TPS62840, table on page 1] PACKAGE: 6pin YBG(WCSP); BODY SIZE(NOM): 0.97mmx1.47mm"
+    "content": "[TPS62840, Typical Application, page 1] PACKAGE: 6pin YBG(WCSP); BODY SIZE(NOM): 0.97mmx1.47mm"
   },
   {
     "part_number": "TPS62840",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[TPS62840, table on page 1] PACKAGE: 8pin DGR\n(HV S SOP); BODY SIZE(NOM): 3mmx5mm"
+    "content": "[TPS62840, Typical Application, page 1] PACKAGE: 8pin DGR\n(HV S SOP); BODY SIZE(NOM): 3mmx5mm"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] V; IN =; 1; .8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] V; IN =; 2; .5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] V; IN =; 3; .0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] V; IN =; 3; .6V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] V; IN =; 4; .2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] V\nV; IN =\n=; 5\n6; .0V\n.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 1,
+    "section": "Typical Application",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application, page 1] IN"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62840DLC; OUTPUT VO: 1.8Vto3.3V\nin100-mV steps; OUTPUT\nCURRENT: 750mA; OUTPUT\nDISCHARGE: yes; MODE PIN: yes; STOP PIN: yes; PACKAGE: SON-8\n(DLC); PACKAGE\nMARKING: E5"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62840DLC; OUTPUT VO: 1.8Vto3.3V\nin100-mV steps; OUTPUT\nCURRENT: 750mA; OUTPUT\nDISCHARGE: yes; MODE PIN: yes; STOP PIN: yes; PACKAGE: SON-8\n(DLC); PACKAGE\nMARKING: E5"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62840YBG; MODE PIN: no; STOP PIN: no; PACKAGE: WCSP-6\n(YBG); PACKAGE\nMARKING: 62840"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62840YBG; MODE PIN: no; STOP PIN: no; PACKAGE: WCSP-6\n(YBG); PACKAGE\nMARKING: 62840"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62841DLC; OUTPUT VO: 0.8Vto1.55V\nin50-mV steps; OUTPUT\nCURRENT: 750mA; OUTPUT\nDISCHARGE: yes; MODE PIN: yes; STOP PIN: yes; PACKAGE: SON-8\n(DLC); PACKAGE\nMARKING: E9"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62841DLC; OUTPUT VO: 0.8Vto1.55V\nin50-mV steps; OUTPUT\nCURRENT: 750mA; OUTPUT\nDISCHARGE: yes; MODE PIN: yes; STOP PIN: yes; PACKAGE: SON-8\n(DLC); PACKAGE\nMARKING: E9"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62841YBG; MODE PIN: no; STOP PIN: no; PACKAGE: WCSP-6\n(YBG); PACKAGE\nMARKING: 62841"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62841YBG; MODE PIN: no; STOP PIN: no; PACKAGE: WCSP-6\n(YBG); PACKAGE\nMARKING: 62841"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62841DGR; MODE PIN: yes; STOP PIN: no; PACKAGE: HV S SOP-8\n(DGR); PACKAGE\nMARKING: 62841"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62841DGR; MODE PIN: yes; STOP PIN: no; PACKAGE: HV S SOP-8\n(DGR); PACKAGE\nMARKING: 62841"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62842DGR; OUTPUT VO: 1.8V,2.0V,2.2V,\n2.4Vto3.6Vin100-mV steps; OUTPUT\nCURRENT: 750mA; OUTPUT\nDISCHARGE: yes; MODE PIN: yes; STOP PIN: no; PACKAGE: HV S SOP-8\n(DGR); PACKAGE\nMARKING: 62842"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62842DGR; OUTPUT VO: 1.8V,2.0V,2.2V,\n2.4Vto3.6Vin100-mV steps; OUTPUT\nCURRENT: 750mA; OUTPUT\nDISCHARGE: yes; MODE PIN: yes; STOP PIN: no; PACKAGE: HV S SOP-8\n(DGR); PACKAGE\nMARKING: 62842"
   },
   {
     "part_number": "TPS62840",
     "page_number": 3,
-    "section": "Table 1 (page 3)",
+    "section": "5 Device Comparison Table",
     "type": "table_row",
-    "content": "[TPS62840, table on page 3] ORDER ABLE\nPART NUMBER: TPS62849DLC; OUTPUT VO: 3.4-V fixed output voltage; STOP PIN: yes; PACKAGE: SON-8\n(DLC); PACKAGE\nMARKING: FF"
+    "content": "[TPS62840, 5 Device Comparison Table, page 3] ORDER ABLE\nPART NUMBER: TPS62849DLC; OUTPUT VO: 3.4-V fixed output voltage; STOP PIN: yes; PACKAGE: SON-8\n(DLC); PACKAGE\nMARKING: FF"
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: DGR\n(HV S SOP-8)"
+    "content": "[TPS62840, Pin Functions, page 5] NAME; DLC\n(SON-8); PIN: DGR\n(HV S SOP-8); YBG\n(WCSP-6)"
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 6; I/O: PWR; DESCRIPTION: V power supply pin.Connect the input capacitor close to this pin for best\nIN\nnoise and voltage spike suppression.A4.7-\u00b5F ceramic capacitor is\nrequired."
+    "content": "[TPS62840, Pin Functions, page 5] VIN; 2; PIN: 6; B1; I/O: PWR; DESCRIPTION: V power supply pin.Connect the input capacitor close to this pin for best\nIN\nnoise and voltage spike suppression.A4.7-\u00b5F ceramic capacitor is\nrequired."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 2; I/O: PWR; DESCRIPTION: The switch pin is connected to the internal MOSFET switches.Connect the\ninductor to this terminal."
+    "content": "[TPS62840, Pin Functions, page 5] SW; 7; PIN: 2; B2; I/O: PWR; DESCRIPTION: The switch pin is connected to the internal MOSFET switches.Connect the\ninductor to this terminal."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 8; I/O: PWR; DESCRIPTION: GND supply pin.Connect this pin close to the GND terminal of the input\nand output capacitors."
+    "content": "[TPS62840, Pin Functions, page 5] GND; 1; PIN: 8; A1; I/O: PWR; DESCRIPTION: GND supply pin.Connect this pin close to the GND terminal of the input\nand output capacitors."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 4; I/O: IN; DESCRIPTION: Connecting a resistor to GND sets the output voltage when the converter is\nenabled.For the TPS62849,connect this pinto GND."
+    "content": "[TPS62840, Pin Functions, page 5] VSET; 5; PIN: 4; C2; I/O: IN; DESCRIPTION: Connecting a resistor to GND sets the output voltage when the converter is\nenabled.For the TPS62849,connect this pinto GND."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 1; I/O: IN; DESCRIPTION: Output voltage sense pin for the internal feedback divider network and\nregulation loop.When the converter is disabled,this pin discharge sV by\nOUT\nan internal MOSFET.Connect this pin directly to the output capacitor with a\nshort trace."
+    "content": "[TPS62840, Pin Functions, page 5] VOS; 8; PIN: 1; A2; I/O: IN; DESCRIPTION: Output voltage sense pin for the internal feedback divider network and\nregulation loop.When the converter is disabled,this pin discharge sV by\nOUT\nan internal MOSFET.Connect this pin directly to the output capacitor with a\nshort trace."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 5; I/O: IN; DESCRIPTION: Enable pin.A high level enables the device and a low level turns the device\noff.The pin features an internal pull down resistor,which is disabled once\nthe device has started up and the output voltage is regulated.The pull down\nresistor is activated again,once a low level has been detected."
+    "content": "[TPS62840, Pin Functions, page 5] MODE; 3; PIN: 3; n/a; I/O: IN; DESCRIPTION: MODE pin.A low level enables Power-Save Mode operation with an\nautomatic transition between P FM and PWM modes.A high level forces the\nconverter to operated in PWM mode.This pin can be toggled during\noperation.It must be terminated."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 3; I/O: IN; DESCRIPTION: MODE pin.A low level enables Power-Save Mode operation with an\nautomatic transition between P FM and PWM modes.A high level forces the\nconverter to operated in PWM mode.This pin can be toggled during\noperation.It must be terminated."
+    "content": "[TPS62840, Pin Functions, page 5] NC; n/a; PIN: 7; n/a; DESCRIPTION: This pin is not connected internally.Do not connect this pin."
   },
   {
     "part_number": "TPS62840",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 7; DESCRIPTION: This pin is not connected internally.Do not connect this pin."
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 5,
-    "section": "Table 1 (page 5)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 5] PIN: 9; I/O: PWR; DESCRIPTION: Exposed thermal pad(1).The Power PAD must be connected to GND."
+    "content": "[TPS62840, Pin Functions, page 5] EP; n/a; PIN: 9; n/a; I/O: PWR; DESCRIPTION: Exposed thermal pad(1).The Power PAD must be connected to GND."
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u20130.3 7; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] Pin voltage(2); VIN; MIN: \u20130.3 7; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u20130.3 VIN+0.3; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] SW(DC); MIN: \u20130.3 VIN+0.3; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u20132.0 8.5; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] SW(AC),less than10ns(3); MIN: \u20132.0 8.5; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u20130.3 6.5; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] EN,MODE,STOP; MIN: \u20130.3 6.5; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u20130.3 VIN+0.3<3.6; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] VSET; MIN: \u20130.3 VIN+0.3<3.6; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u20130.3 3.7; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] VOS; MIN: \u20130.3 3.7; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u201340 150; UNIT: \u00b0C"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] Operating junction temperature,TJ; MIN: \u201340 150; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u201365 150; UNIT: \u00b0C"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] Storage temperature,Tstg; MIN: \u201365 150; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] VAL: \u00b12000; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] V(ESD); Electrostatic discharge; Human body model(HBM),per AN SI/ESDA/JE DEC JS-001,all pins(1); VAL: \u00b12000; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] VAL: \u00b1500"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] Charged device model(CDM),per JE DEC specification J ESD22-C101,all\npins(2); VAL: \u00b1500"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 1.8 6.5; UNIT: V"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] VIN; Supply voltage VIN; MIN: 1.8 6.5; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 1.51 2.2 2.9; UNIT: \u00b5H"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] L; Effective inductance; MIN: 1.51 2.2 2.9; UNIT: \u00b5H"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 3 10 40; UNIT: \u00b5F"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] COUT; Effective output capacitance; MIN: 3 10 40; UNIT: \u00b5F"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 1 4.7; UNIT: \u00b5F"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] CIN; Effective input capacitance; MIN: 1 4.7; UNIT: \u00b5F"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 100; UNIT: pF"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] CVSET; External parasitic capacitance atV SET pin; MIN: 100; UNIT: pF"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 0.909 267; UNIT: k\u2126"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] RSET; Nominal resistance range for external voltage selection resistor(E96resistor series); MIN: 0.909 267; UNIT: k\u2126"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: 1%"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] External voltage selection resistor tolerance; MIN: 1%"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: \u00b1200; UNIT: ppm/\u00b0C"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] External voltage selection resistor temperature coefficient; MIN: \u00b1200; UNIT: ppm/\u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] MIN: -40 125; UNIT: \u00b0C"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] TJ; Operating junction temperature range; MIN: -40 125; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] 8Pins DLC\nPackage: JE DEC P; 6Pins YBG\nPackage: CB51-7; 8Pins DGR\nPackage: JE DEC PCB51-5; DGR EV M: TPS62841-2EVM123"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] 8Pins DLC\nPackage: JE DEC P; 6Pins YBG\nPackage: CB51-7; 8Pins DGR\nPackage: JE DEC PCB51-5; DGR EV M: TPS62841-2EVM123"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] THERMAL METRIC(1): Junction-to-ambient thermal resistance; 8Pins DLC\nPackage: 105.6; 6Pins YBG\nPackage: 133.4; 8Pins DGR\nPackage: 54.4; DGR EV M: 46.9; UNIT: \u00b0C/W"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] R \u03b8JA; THERMAL METRIC(1): Junction-to-ambient thermal resistance; 8Pins DLC\nPackage: 105.6; 6Pins YBG\nPackage: 133.4; 8Pins DGR\nPackage: 54.4; DGR EV M: 46.9; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] THERMAL METRIC(1): Junction-to-case(top)thermal resistance; 8Pins DLC\nPackage: 75.7; 6Pins YBG\nPackage: 0.4; 8Pins DGR\nPackage: 58.1; DGR EV M: N/A; UNIT: \u00b0C/W"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] R \u03b8JC(top); THERMAL METRIC(1): Junction-to-case(top)thermal resistance; 8Pins DLC\nPackage: 75.7; 6Pins YBG\nPackage: 0.4; 8Pins DGR\nPackage: 58.1; DGR EV M: N/A; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] THERMAL METRIC(1): Junction-to-board thermal resistance; 8Pins DLC\nPackage: 31.9; 6Pins YBG\nPackage: 39.4; 8Pins DGR\nPackage: 25.9; DGR EV M: N/A; UNIT: \u00b0C/W"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] R \u03b8JB; THERMAL METRIC(1): Junction-to-board thermal resistance; 8Pins DLC\nPackage: 31.9; 6Pins YBG\nPackage: 39.4; 8Pins DGR\nPackage: 25.9; DGR EV M: N/A; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] THERMAL METRIC(1): Junction-to-top characterization parameter; 8Pins DLC\nPackage: 2.3; 6Pins YBG\nPackage: 0.1; 8Pins DGR\nPackage: 1.2; DGR EV M: 0.9; UNIT: \u00b0C/W"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] \u03c8JT; THERMAL METRIC(1): Junction-to-top characterization parameter; 8Pins DLC\nPackage: 2.3; 6Pins YBG\nPackage: 0.1; 8Pins DGR\nPackage: 1.2; DGR EV M: 0.9; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] THERMAL METRIC(1): Junction-to-board characterization parameter; 8Pins DLC\nPackage: 31.5; 6Pins YBG\nPackage: 39.4; 8Pins DGR\nPackage: 25.9; DGR EV M: 17.4; UNIT: \u00b0C/W"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] \u03c8JB; THERMAL METRIC(1): Junction-to-board characterization parameter; 8Pins DLC\nPackage: 31.5; 6Pins YBG\nPackage: 39.4; 8Pins DGR\nPackage: 25.9; DGR EV M: 17.4; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS62840",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS62840, table on page 6] THERMAL METRIC(1): Junction-to-case(bottom)thermal resistance; 8Pins DLC\nPackage: n/a; 6Pins YBG\nPackage: n/a; 8Pins DGR\nPackage: 11.7; DGR EV M: N/A; UNIT: \u00b0C/W"
+    "content": "[TPS62840, 7.4 Thermal Information, page 6] R \u03b8JC(bot); THERMAL METRIC(1): Junction-to-case(bottom)thermal resistance; 8Pins DLC\nPackage: n/a; 6Pins YBG\nPackage: n/a; 8Pins DGR\nPackage: 11.7; DGR EV M: N/A; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: No load\noperating input current; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.8V\ndevice switching; MIN: 60; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] SUPPLY"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: No load\noperating input current; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.2V\ndevice switching; MIN: 80; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_NO_LOAD; PARAMETER: No load\noperating input current; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.8V\ndevice switching; MIN: 60; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: No load\noperating input current\n(PWM Mode); TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.8V,MODE=VIN\ndevice switching; MIN: 3; UNIT: mA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_NO_LOAD; PARAMETER: No load\noperating input current; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.2V\ndevice switching; MIN: 80; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current in top in VIN; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=25\u00b0C\n(DLC package option); MIN: 36 100; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_NO_LOAD; PARAMETER: No load\noperating input current\n(PWM Mode); TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.8V,MODE=VIN\ndevice switching; MIN: 3; UNIT: mA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current in top in VOS; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=25\u00b0C\n(DLC package option); MIN: 56 120; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_VIN; PARAMETER: Operating quiescent current in top in VIN; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=25\u00b0C\n(DLC package option); MIN: 36 100; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current in top in VIN; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=-40\u00b0Cto85\u00b0C; MIN: 36 360; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_VOS; PARAMETER: Operating quiescent current in top in VOS; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=25\u00b0C\n(DLC package option); MIN: 56 120; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current in top in VOS; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=-40\u00b0Cto85\u00b0C; MIN: 56 170; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_VIN; PARAMETER: Operating quiescent current in top in VIN; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=-40\u00b0Cto85\u00b0C; MIN: 36 360; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current into VO Spin; TEST CONDITIONS: EN=VIN,VOUT=3.3V\ndevice not switching; MIN: 70; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_VOS; PARAMETER: Operating quiescent current in top in VOS; TEST CONDITIONS: EN=VIN,IOUT=0\u00b5A,VOUT=1.55Vor VOUT=\n1.8V\ndevice not switching,TJ=-40\u00b0Cto85\u00b0C; MIN: 56 170; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] TEST CONDITIONS: EN=VIN,VOUT<1.5V\ndevice not switching; MIN: 5; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_VOS; PARAMETER: Operating quiescent current into VO Spin; TEST CONDITIONS: EN=VIN,VOUT=3.3V\ndevice not switching; MIN: 70; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] TEST CONDITIONS: EN,STOP=VIN,3V<VOUT <3.3V\nTJ=-40\u00b0Cto85\u00b0C; MIN: 5 100; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] TEST CONDITIONS: EN=VIN,VOUT<1.5V\ndevice not switching; MIN: 5; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current100%Mode; TEST CONDITIONS: VIN=VOUT=3.3V,TJ=-40\u00b0Cto85\u00b0C; MIN: 120; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] TEST CONDITIONS: EN,STOP=VIN,3V<VOUT <3.3V\nTJ=-40\u00b0Cto85\u00b0C; MIN: 5 100; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Operating quiescent current in top in VIN; TEST CONDITIONS: STOP=High,VOUT=1.8V,TJ=-40\u00b0Cto85\u00b0C; MIN: 70 175; UNIT: \u00b5A"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_100%_MODE; PARAMETER: Operating quiescent current100%Mode; TEST CONDITIONS: VIN=VOUT=3.3V,TJ=-40\u00b0Cto85\u00b0C; MIN: 120; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Shutdown current; TEST CONDITIONS: EN=GND,shutdown current into VIN\nVSET=GND,TJ=-40\u00b0Cto85\u00b0C; MIN: 25 300; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IQ_VIN_STOP; PARAMETER: Operating quiescent current in top in VIN; TEST CONDITIONS: STOP=High,VOUT=1.8V,TJ=-40\u00b0Cto85\u00b0C; MIN: 70 175; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Under voltage lockout threshold; TEST CONDITIONS: Rising VIN; MIN: 1.72 1.8; UNIT: V"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] ISD; PARAMETER: Shutdown current; TEST CONDITIONS: EN=GND,shutdown current into VIN\nVSET=GND,TJ=-40\u00b0Cto85\u00b0C; MIN: 25 300; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] TEST CONDITIONS: Falling VIN; MIN: 1.45 1.75; UNIT: V"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] VTH_UVLO+; PARAMETER: Under voltage lockout threshold; TEST CONDITIONS: Rising VIN; MIN: 1.72 1.8; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: High level input voltage; MIN: 1.1; UNIT: V"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] VTH_UVLO\u2013; TEST CONDITIONS: Falling VIN; MIN: 1.45 1.75; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Low level input voltage; MIN: 0.4; UNIT: V"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] EN,MODE,STOP INPUTS"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Input bias current; TEST CONDITIONS: MODE input,TJ=-40\u00b0Cto85\u00b0C; MIN: 1 25; UNIT: nA"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] VIH_TH; PARAMETER: High level input voltage; MIN: 1.1; UNIT: V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 7] PARAMETER: Internal pull-down resistance; TEST CONDITIONS: EN,STOP inputs; MIN: 200 450; UNIT: k\u03a9"
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] VIL_TH; PARAMETER: Low level input voltage; MIN: 0.4; UNIT: V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 7,
+    "section": "7.5 Electrical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] IIN; PARAMETER: Input bias current; TEST CONDITIONS: MODE input,TJ=-40\u00b0Cto85\u00b0C; MIN: 1 25; UNIT: nA"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 7,
+    "section": "7.5 Electrical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.5 Electrical Characteristics, page 7] RPD; PARAMETER: Internal pull-down resistance; TEST CONDITIONS: EN,STOP inputs; MIN: 200 450; UNIT: k\u03a9"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: High-side MOSFET\non-resistance\n(DLC,YBG package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 430 600; UNIT: m\u03a9"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] POWER SWITCHES"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 340 465"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] RDS(ON); PARAMETER: High-side MOSFET\non-resistance\n(DLC,YBG package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 430 600; UNIT: m\u03a9"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Low-side MOSFET\non-resistance\n(DLC,YBG package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 170 240; UNIT: m\u03a9"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 340 465"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 135 180"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] PARAMETER: Low-side MOSFET\non-resistance\n(DLC,YBG package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 170 240; UNIT: m\u03a9"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: High-side MOSFET\non-resistance\n(DGR package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 460 630; UNIT: m\u03a9"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 135 180"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 370 495"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] PARAMETER: High-side MOSFET\non-resistance\n(DGR package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 460 630; UNIT: m\u03a9"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Low-side MOSFET\non-resistance\n(DGR package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 200 270; UNIT: m\u03a9"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 370 495"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 165 210"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] PARAMETER: Low-side MOSFET\non-resistance\n(DGR package); TEST CONDITIONS: VIN=3.6V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 200 270; UNIT: m\u03a9"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Soft-start\nswitch current limit(1); MIN: 0.15 0.225 0.3; UNIT: A"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] TEST CONDITIONS: VIN=5V,I=200mA,TJ=-40\u00b0Cto85\u00b0C; MIN: 165 210"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: High-side MOSFET switch current limit(1); MIN: 1.0 1.2 1.4; UNIT: A"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] ILIMF_SS; PARAMETER: Soft-start\nswitch current limit(1); MIN: 0.15 0.225 0.3; UNIT: A"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Low-side MOSFET switch current limit; MIN: 1.0; UNIT: A"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] ILIMF; PARAMETER: High-side MOSFET switch current limit(1); MIN: 1.0 1.2 1.4; UNIT: A"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Negative current limit; MIN: 533; UNIT: mA"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] PARAMETER: Low-side MOSFET switch current limit; MIN: 1.0; UNIT: A"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Current limit propagation delay; MIN: 50; UNIT: ns"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] ILIMN; PARAMETER: Negative current limit; MIN: 533; UNIT: mA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Leakage current\ninto SWp in; TEST CONDITIONS: VSW=1.8V,TJ=-40\u00b0Cto85\u00b0C; MIN: 10; UNIT: nA"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] tI_LIM_DELAY; PARAMETER: Current limit propagation delay; MIN: 50; UNIT: ns"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Output discharge current; TEST CONDITIONS: EN=GND,sink current into VO Spin,over VIN\nrange\nVOUT=1.8V,TJ=-40\u00b0Cto85\u00b0C; MIN: 16 35 44; UNIT: mA"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] ILKG_SW; PARAMETER: Leakage current\ninto SWp in; TEST CONDITIONS: VSW=1.8V,TJ=-40\u00b0Cto85\u00b0C; MIN: 10; UNIT: nA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Thermal shutdown temperature; TEST CONDITIONS: Rising junction temperature,PWM Mode; MIN: 160; UNIT: \u00b0C"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] OUTPUT VOLTAGE DISCHARGE"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Thermal shutdown hysteresis; MIN: 5; UNIT: \u00b0C"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] I DISCHARGE_VOS; PARAMETER: Output discharge current; TEST CONDITIONS: EN=GND,sink current into VO Spin,over VIN\nrange\nVOUT=1.8V,TJ=-40\u00b0Cto85\u00b0C; MIN: 16 35 44; UNIT: mA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Output voltage accuracy; TEST CONDITIONS: PWM Mode,IOUT=0mA,VOUT>=1.8V; MIN: -1.5 0 1.5; UNIT: %"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] THERMAL PROTECTION"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] TEST CONDITIONS: PWM Mode,IOUT=0mA,VOUT<=1.55V; MIN: -2 0 2; UNIT: %"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] TSD; PARAMETER: Thermal shutdown temperature; TEST CONDITIONS: Rising junction temperature,PWM Mode; MIN: 160; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: DC output voltage\nload regulation; TEST CONDITIONS: PWM Mode; MIN: 0; UNIT: %/mA"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] PARAMETER: Thermal shutdown hysteresis; MIN: 5; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: DC output voltage\nline regulation; TEST CONDITIONS: PWM Mode\nVOUT=1.8V,IOUT=200mA,over VIN range; MIN: 0; UNIT: %/V"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] OUTPUT"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Switching frequency; TEST CONDITIONS: VIN=3.6V,VOUT=1.8V,MODE=VIN\nIOUT=0mA; MIN: 1.8; UNIT: MHz"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] VOUT; PARAMETER: Output voltage accuracy; TEST CONDITIONS: PWM Mode,IOUT=0mA,VOUT>=1.8V; MIN: -1.5 0 1.5; UNIT: %"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Regulator startup delay time; TEST CONDITIONS: VIN=3.6V,from EN=low to high until device\nstarts switching; MIN: 200; UNIT: \u00b5s"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] TEST CONDITIONS: PWM Mode,IOUT=0mA,VOUT<=1.55V; MIN: -2 0 2; UNIT: %"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Regulator startup delay time; TEST CONDITIONS: EN ramps with VIN,VIN0to3.6V(<100us),until\ndevice starts switching; MIN: 10; UNIT: ms"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] VOUT; PARAMETER: DC output voltage\nload regulation; TEST CONDITIONS: PWM Mode; MIN: 0; UNIT: %/mA"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Soft-start time; TEST CONDITIONS: IOUT=0mA; MIN: 120; UNIT: \u00b5s"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] PARAMETER: DC output voltage\nline regulation; TEST CONDITIONS: PWM Mode\nVOUT=1.8V,IOUT=200mA,over VIN range; MIN: 0; UNIT: %/V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "Electrical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 8] PARAMETER: Reduced current limit soft-start time out; MIN: 700 1200; UNIT: \u00b5s"
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] fSW; PARAMETER: Switching frequency; TEST CONDITIONS: VIN=3.6V,VOUT=1.8V,MODE=VIN\nIOUT=0mA; MIN: 1.8; UNIT: MHz"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 8,
+    "section": "Electrical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] t STARTUP_DELAY; PARAMETER: Regulator startup delay time; TEST CONDITIONS: VIN=3.6V,from EN=low to high until device\nstarts switching; MIN: 200; UNIT: \u00b5s"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 8,
+    "section": "Electrical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] t STARTUP_DELAY; PARAMETER: Regulator startup delay time; TEST CONDITIONS: EN ramps with VIN,VIN0to3.6V(<100us),until\ndevice starts switching; MIN: 10; UNIT: ms"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 8,
+    "section": "Electrical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] tSS; PARAMETER: Soft-start time; TEST CONDITIONS: IOUT=0mA; MIN: 120; UNIT: \u00b5s"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 8,
+    "section": "Electrical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Electrical Characteristics (continued), page 8] tSS_ILIMF; PARAMETER: Reduced current limit soft-start time out; MIN: 700 1200; UNIT: \u00b5s"
   },
   {
     "part_number": "TPS62840",
     "page_number": 9,
-    "section": "Table 6 (page 9)",
+    "section": "7.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 9] =-: J; T=: J"
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN =; 1.8V; VIN; = 4.5; V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 9,
-    "section": "Table 6 (page 9)",
+    "section": "7.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 9] T: T; =-: J=-; 40\u00b0: 20\u00b0; C: C; T=: TJ=; 25\u00b0: 65\u00b0; C: C"
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN =; 2.5V; VIN; = 5.5; V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 9,
-    "section": "Table 6 (page 9)",
+    "section": "7.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS62840, table on page 9] T: T; =-: J=0; 40\u00b0: \u00b0C; T=: TJ=; 25\u00b0: 85\u00b0; C: C"
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN =; 3.6V; VIN; = 6.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN; = 1.8V; VIN; = 4.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN; = 2.5V; VIN; = 5.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN; = 3.6V; VIN; = 6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN; = 1.8V; VIN; = 4.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN; = 2.5V; VIN; = 5.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN; = 3.6V; VIN; = 6.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] =-: J; T=: J"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] T: T; =-: J=-; 40\u00b0: 20\u00b0; C: C; T=: TJ=; 25\u00b0: 65\u00b0; C: C"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] T: T; =-: J=0; 40\u00b0: \u00b0C; T=: TJ=; 25\u00b0: 85\u00b0; C: C"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN\nVIN; = 1.8\n= 2.0; V\nV; VIN\nVIN; = 4.5\n= 5.5; V\nV"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] VIN\nV; = 2.5\n= 3.6; V\nV; VIN; = 6.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 9,
+    "section": "7.6 Typical Characteristics",
+    "type": "table_row",
+    "content": "[TPS62840, 7.6 Typical Characteristics, page 9] IN"
   },
   {
     "part_number": "TPS62840",
     "page_number": 10,
-    "section": "Table 6 (page 10)",
+    "section": "Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 10] V: V\nV; IN =: IN =\nIN =; 1.8V: 2.5V\n3.6V; VIN: VIN\nVIN; = 4.5: = 5.5\n= 6.5; V: V\nV"
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] VIN\nV; = 1.8V\n= 2.0V; VIN\nV; = 4.5\n= 5.5; V\nV"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] IN; IN"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] VIN; = 2.5V; VIN; = 6.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V; = 3.6V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] IN"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V Thresh o\nIH; ld"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] Undef; ined R; egion"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V; Thresh ol\nIL; d"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V; IN= 1; .8V; V; IN= 3; .6V; VIN= 6; .5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V T\nIH; h re sho; ld"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] Undef; ined R; egion"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V Th\nIL; res hol; d"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V; IN= 1; .8V; V; IN=; 3.6V; VIN=; 6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V Thresh o\nIH; ld"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] Undef; ined R; egion"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V; Thresh ol; d"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] IL"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V; IN= 1; .8V; V; IN= 3; .6V; VIN= 6; .5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 10,
+    "section": "Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Characteristics (continued), page 10] V: V\nV; IN =: IN =\nIN =; 1.8V: 2.5V\n3.6V; VIN: VIN\nVIN; = 4.5: = 5.5\n= 6.5; V: V\nV"
   },
   {
     "part_number": "TPS62840",
     "page_number": 11,
-    "section": "Table 4 (page 11)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 11] Power Stage\nPMOS: NMOS"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 11] High-Side\nLimit"
   },
   {
     "part_number": "TPS62840",
     "page_number": 11,
-    "section": "Table 4 (page 11)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 11] Power Stage\nPMOS: NMOS"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 11] Gate Driver\nAnti\nShoot-Through"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 11,
+    "section": "8.2 Functional Block Diagram",
+    "type": "table_row",
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 11] Power Stage\nPMOS: NMOS"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 11,
+    "section": "8.2 Functional Block Diagram",
+    "type": "table_row",
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 11] Power Stage\nPMOS: NMOS"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: TPS62841YBG; T VOLTAGE SETTING: TPS62840YBG; V [V]\nOUT: TPS62842DGR; VSE TRES IS: MIN; T ANCE TO GND-E96: NOM; VALUES[\u03a9]: MAX"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: TPS62841YBG; T VOLTAGE SETTING: TPS62840YBG; V [V]\nOUT: TPS62842DGR; VSE TRES IS: MIN; T ANCE TO GND-E96: NOM; VALUES[\u03a9]: MAX"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: TPS62841DLC; T VOLTAGE SETTING: TPS62840DLC"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: TPS62841DLC; T VOLTAGE SETTING: TPS62840DLC"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: TPS62841DGR"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: TPS62841DGR"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 0.8; T VOLTAGE SETTING: 1.8; V [V]\nOUT: 1.8; VSE TRES IS: 0; T ANCE TO GND-E96: GND; VALUES[\u03a9]: 0.01k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 0.8; T VOLTAGE SETTING: 1.8; V [V]\nOUT: 1.8; VSE TRES IS: 0; T ANCE TO GND-E96: GND; VALUES[\u03a9]: 0.01k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 0.85; T VOLTAGE SETTING: 1.9; V [V]\nOUT: 2.0; VSE TRES IS: 0.87k; T ANCE TO GND-E96: 0.909k; VALUES[\u03a9]: 0.95k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 0.85; T VOLTAGE SETTING: 1.9; V [V]\nOUT: 2.0; VSE TRES IS: 0.87k; T ANCE TO GND-E96: 0.909k; VALUES[\u03a9]: 0.95k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 0.9; T VOLTAGE SETTING: 2.0; V [V]\nOUT: 2.2; VSE TRES IS: 1.67k; T ANCE TO GND-E96: 1.74k; VALUES[\u03a9]: 1.81k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 0.9; T VOLTAGE SETTING: 2.0; V [V]\nOUT: 2.2; VSE TRES IS: 1.67k; T ANCE TO GND-E96: 1.74k; VALUES[\u03a9]: 1.81k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 0.95; T VOLTAGE SETTING: 2.1; V [V]\nOUT: 2.4; VSE TRES IS: 2.76k; T ANCE TO GND-E96: 2.87k; VALUES[\u03a9]: 2.98k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 0.95; T VOLTAGE SETTING: 2.1; V [V]\nOUT: 2.4; VSE TRES IS: 2.76k; T ANCE TO GND-E96: 2.87k; VALUES[\u03a9]: 2.98k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.0; T VOLTAGE SETTING: 2.2; V [V]\nOUT: 2.5; VSE TRES IS: 4.15k; T ANCE TO GND-E96: 4.32k; VALUES[\u03a9]: 4.49k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.0; T VOLTAGE SETTING: 2.2; V [V]\nOUT: 2.5; VSE TRES IS: 4.15k; T ANCE TO GND-E96: 4.32k; VALUES[\u03a9]: 4.49k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.05; T VOLTAGE SETTING: 2.3; V [V]\nOUT: 2.6; VSE TRES IS: 5.80k; T ANCE TO GND-E96: 6.04k; VALUES[\u03a9]: 6.28k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.05; T VOLTAGE SETTING: 2.3; V [V]\nOUT: 2.6; VSE TRES IS: 5.80k; T ANCE TO GND-E96: 6.04k; VALUES[\u03a9]: 6.28k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.1; T VOLTAGE SETTING: 2.4; V [V]\nOUT: 2.7; VSE TRES IS: 8.11k; T ANCE TO GND-E96: 8.45k; VALUES[\u03a9]: 8.79k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.1; T VOLTAGE SETTING: 2.4; V [V]\nOUT: 2.7; VSE TRES IS: 8.11k; T ANCE TO GND-E96: 8.45k; VALUES[\u03a9]: 8.79k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.15; T VOLTAGE SETTING: 2.5; V [V]\nOUT: 2.8; VSE TRES IS: 11.04k; T ANCE TO GND-E96: 11.5k; VALUES[\u03a9]: 11.96k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.15; T VOLTAGE SETTING: 2.5; V [V]\nOUT: 2.8; VSE TRES IS: 11.04k; T ANCE TO GND-E96: 11.5k; VALUES[\u03a9]: 11.96k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.2; T VOLTAGE SETTING: 2.6; V [V]\nOUT: 2.9; VSE TRES IS: 15.17k; T ANCE TO GND-E96: 15.8k; VALUES[\u03a9]: 16.43k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.2; T VOLTAGE SETTING: 2.6; V [V]\nOUT: 2.9; VSE TRES IS: 15.17k; T ANCE TO GND-E96: 15.8k; VALUES[\u03a9]: 16.43k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.25; T VOLTAGE SETTING: 2.7; V [V]\nOUT: 3.0; VSE TRES IS: 20.64k; T ANCE TO GND-E96: 21.5k; VALUES[\u03a9]: 22.36k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.25; T VOLTAGE SETTING: 2.7; V [V]\nOUT: 3.0; VSE TRES IS: 20.64k; T ANCE TO GND-E96: 21.5k; VALUES[\u03a9]: 22.36k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.3; T VOLTAGE SETTING: 2.8; V [V]\nOUT: 3.1; VSE TRES IS: 27.55k; T ANCE TO GND-E96: 28.7k; VALUES[\u03a9]: 29.85k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.3; T VOLTAGE SETTING: 2.8; V [V]\nOUT: 3.1; VSE TRES IS: 27.55k; T ANCE TO GND-E96: 28.7k; VALUES[\u03a9]: 29.85k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.35; T VOLTAGE SETTING: 2.9; V [V]\nOUT: 3.2; VSE TRES IS: 36.77k; T ANCE TO GND-E96: 38.3k; VALUES[\u03a9]: 39.83k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.35; T VOLTAGE SETTING: 2.9; V [V]\nOUT: 3.2; VSE TRES IS: 36.77k; T ANCE TO GND-E96: 38.3k; VALUES[\u03a9]: 39.83k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.4; T VOLTAGE SETTING: 3.0; V [V]\nOUT: 3.3; VSE TRES IS: 50.21k; T ANCE TO GND-E96: 52.3k; VALUES[\u03a9]: 54.39k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.4; T VOLTAGE SETTING: 3.0; V [V]\nOUT: 3.3; VSE TRES IS: 50.21k; T ANCE TO GND-E96: 52.3k; VALUES[\u03a9]: 54.39k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.45; T VOLTAGE SETTING: 3.1; V [V]\nOUT: 3.4; VSE TRES IS: 68.64k; T ANCE TO GND-E96: 71.5k; VALUES[\u03a9]: 74.36k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.45; T VOLTAGE SETTING: 3.1; V [V]\nOUT: 3.4; VSE TRES IS: 68.64k; T ANCE TO GND-E96: 71.5k; VALUES[\u03a9]: 74.36k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.5; T VOLTAGE SETTING: 3.2; V [V]\nOUT: 3.49; VSE TRES IS: 97.92k; T ANCE TO GND-E96: 102k; VALUES[\u03a9]: 106.08k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.5; T VOLTAGE SETTING: 3.2; V [V]\nOUT: 3.49; VSE TRES IS: 97.92k; T ANCE TO GND-E96: 102k; VALUES[\u03a9]: 106.08k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 13,
-    "section": "Table 1 (page 13)",
+    "section": "8.2 Functional Block Diagram",
     "type": "table_row",
-    "content": "[TPS62840, table on page 13] OUTPU: 1.55; T VOLTAGE SETTING: 3.3; V [V]\nOUT: 3.6; VSE TRES IS: 256.32k; T ANCE TO GND-E96: 267k; VALUES[\u03a9]: 277.68k"
+    "content": "[TPS62840, 8.2 Functional Block Diagram, page 13] OUTPU: 1.55; T VOLTAGE SETTING: 3.3; V [V]\nOUT: 3.6; VSE TRES IS: 256.32k; T ANCE TO GND-E96: 267k; VALUES[\u03a9]: 277.68k"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 1 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] RE FERENC\nE: IC; DESCRIPTION: TPS6284x\nstep-down converter; MANUFACTURER(1\n): TI"
+    "content": "[TPS62840, Typical Application (continued), page 17] RE FERENC\nE: IC; DESCRIPTION: TPS6284x\nstep-down converter; MANUFACTURER(1\n): TI"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 1 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] RE FERENC\nE: C\nI; DESCRIPTION: GRM155R61A475MEAAD\nceramic capacitor; VALUE: 4.7\u00b5F/10V/X5R; SIZE[LxWxT]: (0402)[1mmx0.5mmx0.65mmmax.]; MANUFACTURER(1\n): muRata"
+    "content": "[TPS62840, Typical Application (continued), page 17] RE FERENC\nE: C\nI; DESCRIPTION: GRM155R61A475MEAAD\nceramic capacitor; VALUE: 4.7\u00b5F/10V/X5R; SIZE[LxWxT]: (0402)[1mmx0.5mmx0.65mmmax.]; MANUFACTURER(1\n): muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 1 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] RE FERENC\nE: C\nO; DESCRIPTION: GRM155R60G106ME44D\nceramic capacitor; VALUE: 10\u00b5F/4V/X5R; SIZE[LxWxT]: (0402)[1mmx0.5mmx0.65mmmax.]; MANUFACTURER(1\n): muRata"
+    "content": "[TPS62840, Typical Application (continued), page 17] RE FERENC\nE: C\nO; DESCRIPTION: GRM155R60G106ME44D\nceramic capacitor; VALUE: 10\u00b5F/4V/X5R; SIZE[LxWxT]: (0402)[1mmx0.5mmx0.65mmmax.]; MANUFACTURER(1\n): muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 1 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] RE FERENC\nE: L; DESCRIPTION: DFE201612E-2R2M=P2\ninductor; VALUE: 2.2\u00b5H/116m\u03a9DCR; SIZE[LxWxT]: (2016)[2.0mmx1.6mmx1.2mm\nmax.]; MANUFACTURER(1\n): muRata"
+    "content": "[TPS62840, Typical Application (continued), page 17] RE FERENC\nE: L; DESCRIPTION: DFE201612E-2R2M=P2\ninductor; VALUE: 2.2\u00b5H/116m\u03a9DCR; SIZE[LxWxT]: (2016)[2.0mmx1.6mmx1.2mm\nmax.]; MANUFACTURER(1\n): muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 1 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] RE FERENC\nE: R\nSET; DESCRIPTION: Resistor E96series\n1%,TC\u00b1200ppm; VALUE: See Table1"
+    "content": "[TPS62840, Typical Application (continued), page 17] RE FERENC\nE: R\nSET; DESCRIPTION: Resistor E96series\n1%,TC\u00b1200ppm; VALUE: See Table1"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 2 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] OUTPUT CAPAC I: 10\u00b5F; TOR VALUE[\u00b5F](2): 22\u00b5F"
+    "content": "[TPS62840, Typical Application (continued), page 17] OUTPUT CAPAC I: 10\u00b5F; TOR VALUE[\u00b5F](2): 22\u00b5F"
   },
   {
     "part_number": "TPS62840",
     "page_number": 17,
-    "section": "Table 2 (page 17)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 17] INDUCTOR VALUE[\u00b5H](1): 2.2; OUTPUT CAPAC I: \u221a(3); TOR VALUE[\u00b5F](2): \u221a"
+    "content": "[TPS62840, Typical Application (continued), page 17] INDUCTOR VALUE[\u00b5H](1): 2.2; OUTPUT CAPAC I: \u221a(3); TOR VALUE[\u00b5F](2): \u221a"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 1 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] INDUCTANCE[\u00b5H]: 2.2; INDUCTOR TYPE: DFE201612E; SIZE[LxWxT]: [2.0mmx1.6mmx1.2mmmax.]; SUPPLIER: muRata"
+    "content": "[TPS62840, Typical Application (continued), page 18] INDUCTANCE[\u00b5H]: 2.2; INDUCTOR TYPE: DFE201612E; SIZE[LxWxT]: [2.0mmx1.6mmx1.2mmmax.]; SUPPLIER: muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 1 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] INDUCTANCE[\u00b5H]: 2.2; INDUCTOR TYPE: DFE201210S; SIZE[LxWxT]: [2.0mmx1.2mmx1.0mmmax.]; SUPPLIER: muRata"
+    "content": "[TPS62840, Typical Application (continued), page 18] INDUCTANCE[\u00b5H]: 2.2; INDUCTOR TYPE: DFE201210S; SIZE[LxWxT]: [2.0mmx1.2mmx1.0mmmax.]; SUPPLIER: muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 2 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] CAPACITOR VALUE\n[\u03bcF]: 10; CAPACITOR TYPE: GRM155R60G106ME44D; SIZE IMPERIAL\n(METRIC): 0402\n(1005); SIZE[LxWxT]: [1mmx0.5mmx0.65mmmax.]; SUPPLIER: muRata"
+    "content": "[TPS62840, Typical Application (continued), page 18] CAPACITOR VALUE\n[\u03bcF]: 10; CAPACITOR TYPE: GRM155R60G106ME44D; SIZE IMPERIAL\n(METRIC): 0402\n(1005); SIZE[LxWxT]: [1mmx0.5mmx0.65mmmax.]; SUPPLIER: muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 3 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] CAPACITOR VALUE\n[\u03bcF]: 4.7; CAPACITOR TYPE: GRM155R61A475MEAAD; SIZE IMPERIAL\n(METRIC): 0402\n(1005); SIZE[LxWxT]: [1mmx0.5mmx0.65mmmax.]; SUPPLIER: muRata"
+    "content": "[TPS62840, Typical Application (continued), page 18] CAPACITOR VALUE\n[\u03bcF]: 4.7; CAPACITOR TYPE: GRM155R61A475MEAAD; SIZE IMPERIAL\n(METRIC): 0402\n(1005); SIZE[LxWxT]: [1mmx0.5mmx0.65mmmax.]; SUPPLIER: muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 3 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] CAPACITOR VALUE\n[\u03bcF]: 4.7; CAPACITOR TYPE: GRM31CR71H475MA12L; SIZE IMPERIAL\n(METRIC): 1206\n(3216); SIZE[LxWxT]: [3.2mmx1.6mmx1.8mmmax.]; SUPPLIER: muRata"
+    "content": "[TPS62840, Typical Application (continued), page 18] CAPACITOR VALUE\n[\u03bcF]: 4.7; CAPACITOR TYPE: GRM31CR71H475MA12L; SIZE IMPERIAL\n(METRIC): 1206\n(3216); SIZE[LxWxT]: [3.2mmx1.6mmx1.8mmmax.]; SUPPLIER: muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 3 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] CAPACITOR VALUE\n[\u03bcF]: 4.7; CAPACITOR TYPE: C1608X7S1A475M080AC; SIZE IMPERIAL\n(METRIC): 0603\n(1608); SIZE[LxWxT]: [1.6mmx0.8mmx1.0mmmax.]; SUPPLIER: TDK"
+    "content": "[TPS62840, Typical Application (continued), page 18] CAPACITOR VALUE\n[\u03bcF]: 4.7; CAPACITOR TYPE: C1608X7S1A475M080AC; SIZE IMPERIAL\n(METRIC): 0603\n(1608); SIZE[LxWxT]: [1.6mmx0.8mmx1.0mmmax.]; SUPPLIER: TDK"
   },
   {
     "part_number": "TPS62840",
     "page_number": 18,
-    "section": "Table 3 (page 18)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 18] CAPACITOR VALUE\n[\u03bcF]: 10; CAPACITOR TYPE: GRM155R60J106ME15D; SIZE IMPERIAL\n(METRIC): 0402\n(1005); SIZE[LxWxT]: [1mmx0.5mmx0.65mmmax.]; SUPPLIER: muRata"
+    "content": "[TPS62840, Typical Application (continued), page 18] CAPACITOR VALUE\n[\u03bcF]: 10; CAPACITOR TYPE: GRM155R60J106ME15D; SIZE IMPERIAL\n(METRIC): 0402\n(1005); SIZE[LxWxT]: [1mmx0.5mmx0.65mmmax.]; SUPPLIER: muRata"
   },
   {
     "part_number": "TPS62840",
     "page_number": 19,
-    "section": "Table 2 (page 19)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 19] V VO O UUT T: PP FF MM//; ==00..88VV: PP WW MM"
+    "content": "[TPS62840, Typical Application (continued), page 19] V VO O UUT T: PP FF MM//; ==00..88VV: PP WW MM; OOpp; e err a at tii; oonn"
   },
   {
     "part_number": "TPS62840",
     "page_number": 19,
-    "section": "Table 3 (page 19)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 19] V: P; OUT=: FM/; 1.2V: PWM"
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 1.8V\n2.5V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 19,
-    "section": "Table 5 (page 19)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 19] V: P; OUT=: FM/; 1.8V: PWM"
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=; 3.0V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 19,
-    "section": "Table 6 (page 19)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 19] VOUT: PFM/; =2.5V: PWM"
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nV =; 3.6V\n4.2V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 19,
-    "section": "Table 7 (page 19)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 19] V: P; OUT=: FM/; 3.3V: PWM"
+    "content": "[TPS62840, Typical Application (continued), page 19] IN\nVIN=; 5.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=; 6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] V: P; OUT=: FM/; 1.2V: PWM; Op; erati; on"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=; 1.8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 2.5V\n3.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nV =; 3.6V\n4.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] IN\nVIN=; 5.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=; 6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=; 1.8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 2.5V\n3.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 3.6V\n4.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 5.0V\n6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] V: P; OUT=: FM/; 1.8V: PWM; Op; erati; on"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VI; N=3.; 6V,; TA=-; 40oC\no"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VI; N=3.; 6V,; TA=2; 5C\no"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VI\nV; N=3.\n=6.; 6V,\n5V,; TA=8\nT=-; 5C\n40oC"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] I\nVI; N\nN=6.; 5V,; A\nTA=2; 5oC\no"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VI; N=6.; 5V,; TA=8; 5C"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VOUT: PFM/; =2.5V: PWM; Op; erati; on"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 2.5V\n3.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 3.6V\n4.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 5.0V\n6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] V: P; OUT=: FM/; 3.3V: PWM; Op; erati; on"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=; 3.3V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 3.6V\n4.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 19,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 19] VIN=\nVIN=; 5.0V\n6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] V =1.8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nVIN=2.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=3.0V\nV =3.6V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nV =4.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nVIN=5.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] V =1.8"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nVIN=2.5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=3.0\nV =3.6"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nV =4.2"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nVIN=5.0"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=6.5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=1.8V\nVIN=2.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=3.0V\nVIN=3.6V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=4.2V\nV =5.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nVIN=6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=3.6\nVIN=4.2"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=5.0\nV =6.0"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] IN\nVIN=6.5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VO\nVO; UT=0.8V\nUT=1.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VO\nVO; UT=1.8V\nUT=3.3V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=1.8\nVIN=2.5\nVIN=3.0; V\nV\nV"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VIN=3.6\nVIN=4.2\nVIN=5.0\nVIN=6.5; V\nV\nV\nV"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 20,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 20] VOU\nPF; T=0.8V\nM/PWM O; per ation"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 3 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] T=1.8V\n/PWM Operation: VIN=1.8V\nVIN=2.5V\nVIN=3.0V"
+    "content": "[TPS62840, Typical Application (continued), page 21] VIN=\nVIN=\nVIN=; 1.8V\n2.5V\n3.0V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 3 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] T=1.8V\n/PWM Operation: VIN=3.6V\nVIN=4.2V\nVIN=5.0V\nVIN=6.5V"
+    "content": "[TPS62840, Typical Application (continued), page 21] VIN=\nVIN=\nVIN=\nVIN=; 3.6V\n4.2V\n5.0V\n6.5V; VO\nPF"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 6 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] =3.: UT"
+    "content": "[TPS62840, Typical Application (continued), page 21] UT=1.\nM/PW; 2V\nM O; per; ation"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 6 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] 4V a: VIN=; t 25\u00b0C: 3.4V"
+    "content": "[TPS62840, Typical Application (continued), page 21] T=1.8V\n/PWM Operation: VIN=1.8V\nVIN=2.5V\nVIN=3.0V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 6 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] 4V a: VIN=; t 25\u00b0C: 3.5V"
+    "content": "[TPS62840, Typical Application (continued), page 21] T=1.8V\n/PWM Operation: VIN=3.6V\nVIN=4.2V\nVIN=5.0V\nVIN=6.5V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 6 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] 4V a: VIN=; t 25\u00b0C: 3.6V"
+    "content": "[TPS62840, Typical Application (continued), page 21] VIN=; 3.3V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 7 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] V: OU; =3.4V at 70\u00b0: T"
+    "content": "[TPS62840, Typical Application (continued), page 21] VIN=\nVIN=\nVIN=\nVIN=; 3.6V\n4.2V\n5.0V\n6.5V; VO\nPF"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 7 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] =3.4V at 70\u00b0: VIN=3.4V; C: VIN=3.7"
+    "content": "[TPS62840, Typical Application (continued), page 21] UT=2.\nM/PW; 5V\nM O; per; ation"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 7 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] =3.4V at 70\u00b0: VIN=3.5V; C: VIN=3.8"
+    "content": "[TPS62840, Typical Application (continued), page 21] V =3.3V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 21,
-    "section": "Table 7 (page 21)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 21] =3.4V at 70\u00b0: VIN=3.6V; C: VIN=3.9"
+    "content": "[TPS62840, Typical Application (continued), page 21] IN\nVIN=3.6V\nVIN=4.2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] VIN=5.0V\nVIN=6.5V; VO\nPF; UT=3.3V\nM/PWM O; per ation"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] =3.: UT"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] 4V a: VIN=; t 25\u00b0C: 3.4V; V; IN=3.7; V; VIN; =4V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] 4V a: VIN=; t 25\u00b0C: 3.5V; V; IN=3.8; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] 4V a: VIN=; t 25\u00b0C: 3.6V; V; IN=3.9; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] V: OU; =3.4V at 70\u00b0: T"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] =3.4V at 70\u00b0: VIN=3.4V; C: VIN=3.7; V; VIN=4; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] =3.4V at 70\u00b0: VIN=3.5V; C: VIN=3.8; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 21,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 21] =3.4V at 70\u00b0: VIN=3.6V; C: VIN=3.9; V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 2 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V: OU; =3.4: T"
+    "content": "[TPS62840, Typical Application (continued), page 22] V: OU; =3.4: T"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 2 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V a: VIN=; t 85\u00b0C: 3.4V"
+    "content": "[TPS62840, Typical Application (continued), page 22] V a: VIN=; t 85\u00b0C: 3.4V; VIN=; 3.7V; VIN; =4; V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 2 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V a: VIN=; t 85\u00b0C: 3.5V"
+    "content": "[TPS62840, Typical Application (continued), page 22] V a: VIN=; t 85\u00b0C: 3.5V; VIN=; 3.8V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 2 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V a: VIN=; t 85\u00b0C: 3.6V"
+    "content": "[TPS62840, Typical Application (continued), page 22] V a: VIN=; t 85\u00b0C: 3.6V; VIN=; 3.9V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 3 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V =1.8V: OUT"
+    "content": "[TPS62840, Typical Application (continued), page 22] V =1.8V: OUT"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 3 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V =1.8V: TA=-40\u00b0\nT =25\u00b0C"
+    "content": "[TPS62840, Typical Application (continued), page 22] V =1.8V: TA=-40\u00b0\nT =25\u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 3 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V =1.8V: A"
+    "content": "[TPS62840, Typical Application (continued), page 22] V =1.8V: A"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 3 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V =1.8V: TA=70\u00b0C"
+    "content": "[TPS62840, Typical Application (continued), page 22] V =1.8V: TA=70\u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 3 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V =1.8V: TA=85\u00b0C"
+    "content": "[TPS62840, Typical Application (continued), page 22] For; ced; PW; M; Ope; ration; V =1.8V: TA=85\u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 4 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] VOUT: TA\nT; =3.: =-4\n=2; 3V: 0\u00b0\n5\u00b0C"
+    "content": "[TPS62840, Typical Application (continued), page 22] VOUT: TA\nT; =3.: =-4\n=2; 3V: 0\u00b0\n5\u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 4 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] VOUT: A\nTA\nTA; =3.: =7\n=8; 3V: 0\u00b0C\n5\u00b0C"
+    "content": "[TPS62840, Typical Application (continued), page 22] For; ced; PW; M Ope; rati; on; VOUT: A\nTA\nTA; =3.: =7\n=8; 3V: 0\u00b0C\n5\u00b0C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 22,
-    "section": "Table 5 (page 22)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 22] V: P; OU: FM; T=0: /P; .8V: WM"
+    "content": "[TPS62840, Typical Application (continued), page 22] V: P; OU: FM; T=0: /P; .8V: WM; O; per; ation"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=1\nVIN=2"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=2\nVIN=3\nV =3"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] IN\nVIN=4\nVIN=5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=6"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VO\nPF; UT=1\nM/P; .2V\nWM; Oper; atio; n"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VI\nVI; N=1\nN=2; .8\n.0"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VI; N=2; .5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VI\nV; N=3\n=3; .0\n.6"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] I\nVI\nVI; N\nN=4\nN=5; .2\n.0"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VI; N=6; .5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] V\nP; OU\nFM; T=1\n/P; .8V\nWM; O; per; ation"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=2"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=2"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=3\nV =3"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] IN\nVIN=4\nVIN=5"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 22,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 22] VIN=6"
   },
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 2 (page 23)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 23] OUT=: FM/P; 3.3V: WM"
+    "content": "[TPS62840, Typical Application (continued), page 23] OUT=: FM/P; 3.3V: WM; Oper; atio; n"
   },
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 3 (page 23)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 23] V: Fo; OUT: rce; =1: d; .8V: PW"
+    "content": "[TPS62840, Typical Application (continued), page 23] VI; N=3.6V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 3 (page 23)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 23] =1: V; .8V: IN="
+    "content": "[TPS62840, Typical Application (continued), page 23] VI; N=4.2V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 3 (page 23)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 23] =1: V; .8V: IN="
+    "content": "[TPS62840, Typical Application (continued), page 23] VI\nVI; N=5.0V\nN=6.5V"
   },
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 3 (page 23)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 23] =1: V\nV; .8V: IN=\nIN="
+    "content": "[TPS62840, Typical Application (continued), page 23] V: Fo; OUT: rce; =1: d; .8V: PW; M; Op; era; tion"
   },
   {
     "part_number": "TPS62840",
     "page_number": 23,
-    "section": "Table 4 (page 23)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 23] UT=3.: rced; 3V: PWM"
+    "content": "[TPS62840, Typical Application (continued), page 23] =1: V; .8V: IN=; 2.0; V; V; IN=; 4.2; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] =1: V; .8V: IN=; 2.5; V; V; IN=; 5.0; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] =1: V\nV; .8V: IN=\nIN=; 3.0\n3.6; V\nV; V; IN=; 6.5; V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] UT=3.: rced; 3V: PWM; Ope; ration"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VIN; =3.6V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VIN\nV; =4.2V\n=5.0V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] IN\nVIN; =6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] P\nN; FM\no L; Op\noad; era; tio; n; VO\nVO; UT=\nUT=; 0.\n1.; 8V\n2V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VO; UT=; 1.; 8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VO; UT=; 3.; 3V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VOUT=; 0.8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VOUT=; 1.8V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VOUT=; 3.3V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] Forced\nNo Loa; PWM Op\nd; e ration"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] VIN\nV; = 3.3V\n= 4.2V; VIN = 6.0V\nV = 6.5V"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 23,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 23] IN\nVIN; = 5.0V; IN"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 24,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 24] I\nI; OUT\nOUT; = 1\n= 1; 0\u00b5A\n00\u00b5; A; IO\nIO; UT\nUT; = 1\n= 1; 0mA\n00m; A"
+  },
+  {
+    "part_number": "TPS62840",
+    "page_number": 24,
+    "section": "Typical Application (continued)",
+    "type": "table_row",
+    "content": "[TPS62840, Typical Application (continued), page 24] I; OUT; = 1; mA; IO; UT; = 2; 00m; A"
   },
   {
     "part_number": "TPS62840",
     "page_number": 27,
-    "section": "Table 1 (page 27)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 27] LDOs: Load Switches"
+    "content": "[TPS62840, Typical Application (continued), page 27] LDOs: Load Switches"
   },
   {
     "part_number": "TPS62840",
     "page_number": 27,
-    "section": "Table 2 (page 27)",
+    "section": "Typical Application (continued)",
     "type": "table_row",
-    "content": "[TPS62840, table on page 27] Audio Amplifier: Audio Codec"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62840DLCR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: VSON-HR (DLC) | 8; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): E5"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62840DLCR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: VSON-HR (DLC) | 8; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): E5"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62840YBGR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DSBGA (YBG) | 6; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SNAG CU; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): 62840"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62840YBGR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DSBGA (YBG) | 6; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SNAG CU; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): 62840"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62841DLCR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: VSON-HR (DLC) | 8; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): E9"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62841DLCR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: VSON-HR (DLC) | 8; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): E9"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62841YBGR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DSBGA (YBG) | 6; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SNAG CU; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): 62841"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62841YBGR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DSBGA (YBG) | 6; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SNAG CU; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): 62841"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62849DLCR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: VSON-HR (DLC) | 8; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): FF"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 31,
-    "section": "Table 1 (page 31)",
-    "type": "table_row",
-    "content": "[TPS62840, table on page 31] Order able part number: TPS62849DLCR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: VSON-HR (DLC) | 8; Package qty | Carrier: 3000 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-260C-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): FF"
+    "content": "[TPS62840, Typical Application (continued), page 27] Audio Amplifier: Audio Codec"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 7 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 7 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 7 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 7 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 9 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Q1: Q3; Q2: Q4"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Q1: Q3; Q2: Q4"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 10 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Q1: Q3; Q2: Q4"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Q1: Q3; Q2: Q4"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 11 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Device: TPS62840YBGR; Package\nType: DSBGA; Package\nDrawing: YBG; Pins: 6; SPQ: 3000; Reel\nDiameter\n(mm): 180.0; Reel\nWidth\nW1 (mm): 8.4; A0\n(mm): 1.14; B0\n(mm): 1.64; K0\n(mm): 0.59; P1\n(mm): 4.0; W\n(mm): 8.0; Pin1\nQuadrant: Q1"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Device: TPS62840YBGR; Package\nType: DSBGA; Package\nDrawing: YBG; Pins: 6; SPQ: 3000; Reel\nDiameter\n(mm): 180.0; Reel\nWidth\nW1 (mm): 8.4; A0\n(mm): 1.14; B0\n(mm): 1.64; K0\n(mm): 0.59; P1\n(mm): 4.0; W\n(mm): 8.0; Pin1\nQuadrant: Q1"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 11 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Device: TPS62841DGRR; Package\nType: HV S SOP; Package\nDrawing: DGR; Pins: 8; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 5.25; B0\n(mm): 3.35; K0\n(mm): 1.25; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q1"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Device: TPS62841DGRR; Package\nType: HV S SOP; Package\nDrawing: DGR; Pins: 8; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 5.25; B0\n(mm): 3.35; K0\n(mm): 1.25; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q1"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 11 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Device: TPS62841YBGR; Package\nType: DSBGA; Package\nDrawing: YBG; Pins: 6; SPQ: 3000; Reel\nDiameter\n(mm): 180.0; Reel\nWidth\nW1 (mm): 8.4; A0\n(mm): 1.14; B0\n(mm): 1.64; K0\n(mm): 0.59; P1\n(mm): 4.0; W\n(mm): 8.0; Pin1\nQuadrant: Q1"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Device: TPS62841YBGR; Package\nType: DSBGA; Package\nDrawing: YBG; Pins: 6; SPQ: 3000; Reel\nDiameter\n(mm): 180.0; Reel\nWidth\nW1 (mm): 8.4; A0\n(mm): 1.14; B0\n(mm): 1.64; K0\n(mm): 0.59; P1\n(mm): 4.0; W\n(mm): 8.0; Pin1\nQuadrant: Q1"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 11 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Device: TPS62842DGRR; Package\nType: HV S SOP; Package\nDrawing: DGR; Pins: 8; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 5.25; B0\n(mm): 3.35; K0\n(mm): 1.25; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q1"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Device: TPS62842DGRR; Package\nType: HV S SOP; Package\nDrawing: DGR; Pins: 8; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 5.25; B0\n(mm): 3.35; K0\n(mm): 1.25; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q1"
   },
   {
     "part_number": "TPS62840",
     "page_number": 33,
-    "section": "Table 11 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 33] Device: TPS62842DGRRG4; Package\nType: HV S SOP; Package\nDrawing: DGR; Pins: 8; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 5.25; B0\n(mm): 3.35; K0\n(mm): 1.25; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q1"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 33] Device: TPS62842DGRRG4; Package\nType: HV S SOP; Package\nDrawing: DGR; Pins: 8; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 5.25; B0\n(mm): 3.35; K0\n(mm): 1.25; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q1"
   },
   {
     "part_number": "TPS62840",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 34] Device: TPS62840YBGR; Package Type: DSBGA; Package Drawing: YBG; Pins: 6; SPQ: 3000; Length (mm): 182.0; Width (mm): 182.0; Height (mm): 20.0"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 34] Device: TPS62840YBGR; Package Type: DSBGA; Package Drawing: YBG; Pins: 6; SPQ: 3000; Length (mm): 182.0; Width (mm): 182.0; Height (mm): 20.0"
   },
   {
     "part_number": "TPS62840",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 34] Device: TPS62841DGRR; Package Type: HV S SOP; Package Drawing: DGR; Pins: 8; SPQ: 2500; Length (mm): 366.0; Width (mm): 364.0; Height (mm): 50.0"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 34] Device: TPS62841DGRR; Package Type: HV S SOP; Package Drawing: DGR; Pins: 8; SPQ: 2500; Length (mm): 366.0; Width (mm): 364.0; Height (mm): 50.0"
   },
   {
     "part_number": "TPS62840",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 34] Device: TPS62841YBGR; Package Type: DSBGA; Package Drawing: YBG; Pins: 6; SPQ: 3000; Length (mm): 182.0; Width (mm): 182.0; Height (mm): 20.0"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 34] Device: TPS62841YBGR; Package Type: DSBGA; Package Drawing: YBG; Pins: 6; SPQ: 3000; Length (mm): 182.0; Width (mm): 182.0; Height (mm): 20.0"
   },
   {
     "part_number": "TPS62840",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 34] Device: TPS62842DGRR; Package Type: HV S SOP; Package Drawing: DGR; Pins: 8; SPQ: 2500; Length (mm): 366.0; Width (mm): 364.0; Height (mm): 50.0"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 34] Device: TPS62842DGRR; Package Type: HV S SOP; Package Drawing: DGR; Pins: 8; SPQ: 2500; Length (mm): 366.0; Width (mm): 364.0; Height (mm): 50.0"
   },
   {
     "part_number": "TPS62840",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 34] Device: TPS62842DGRRG4; Package Type: HV S SOP; Package Drawing: DGR; Pins: 8; SPQ: 2500; Length (mm): 366.0; Width (mm): 364.0; Height (mm): 50.0"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 34] Device: TPS62842DGRRG4; Package Type: HV S SOP; Package Drawing: DGR; Pins: 8; SPQ: 2500; Length (mm): 366.0; Width (mm): 364.0; Height (mm): 50.0"
   },
   {
     "part_number": "TPS62840",
     "page_number": 36,
-    "section": "Table 6 (page 36)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 36] 0.1: 0.05"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 36] 0.1: 0.05; C"
   },
   {
     "part_number": "TPS62840",
     "page_number": 44,
-    "section": "Table 2 (page 44)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 44] STENCIL\nTHICKNESS: 0.1; SOLDER STENCIL\nOPENING: 1.51 X 1.84"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 44] STENCIL\nTHICKNESS: 0.1; SOLDER STENCIL\nOPENING: 1.51 X 1.84"
   },
   {
     "part_number": "TPS62840",
     "page_number": 44,
-    "section": "Table 2 (page 44)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 44] STENCIL\nTHICKNESS: 0.125; SOLDER STENCIL\nOPENING: 1.35 X 1.65 (SHOWN)"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 44] STENCIL\nTHICKNESS: 0.125; SOLDER STENCIL\nOPENING: 1.35 X 1.65 (SHOWN)"
   },
   {
     "part_number": "TPS62840",
     "page_number": 44,
-    "section": "Table 2 (page 44)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 44] STENCIL\nTHICKNESS: 0.150; SOLDER STENCIL\nOPENING: 1.23 X 1.51"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 44] STENCIL\nTHICKNESS: 0.150; SOLDER STENCIL\nOPENING: 1.23 X 1.51"
   },
   {
     "part_number": "TPS62840",
     "page_number": 44,
-    "section": "Table 2 (page 44)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS62840, table on page 44] STENCIL\nTHICKNESS: 0.175; SOLDER STENCIL\nOPENING: 1.14 X 1.39"
+    "content": "[TPS62840, PACKAGE OPTION ADDENDUM, page 44] STENCIL\nTHICKNESS: 0.175; SOLDER STENCIL\nOPENING: 1.14 X 1.39"
   }
 ]

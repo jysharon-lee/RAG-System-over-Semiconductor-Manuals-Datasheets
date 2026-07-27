@@ -6722,960 +6722,1086 @@
   {
     "part_number": "LM317",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[LM317, table on page 1] PART NUMBER: LM317; PACKAGE(1): DCY (SOT-223, 4); PACKAGE SIZE(2): 6.5mm \u00d7 7mm"
+    "content": "[LM317, Typical Application, page 1] PART NUMBER: LM317; PACKAGE(1): DCY (SOT-223, 4); PACKAGE SIZE(2): 6.5mm \u00d7 7mm"
   },
   {
     "part_number": "LM317",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[LM317, table on page 1] PACKAGE(1): KTT (TO-263, 3); PACKAGE SIZE(2): 10.16mm \u00d7 15.24mm"
+    "content": "[LM317, Typical Application, page 1] PACKAGE(1): KTT (TO-263, 3); PACKAGE SIZE(2): 10.16mm \u00d7 15.24mm"
   },
   {
     "part_number": "LM317",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[LM317, table on page 1] PACKAGE(1): KCS, KCT (TO-220, 3\n(3); PACKAGE SIZE(2): )\n10.16mm \u00d7 4.55mm"
+    "content": "[LM317, Typical Application, page 1] PACKAGE(1): KCS, KCT (TO-220, 3\n(3); PACKAGE SIZE(2): )\n10.16mm \u00d7 4.55mm"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] I\nOUT: 1.5A; PARAMETER: Input voltage range; LM317\n(Legacy Chip): 4.25 to 40; LM317\n(New Chip): 4.25 to 40; LM317-N: 4.25 to 40; LM317A: 4.25 to 40; LM317HV: 4.25 - 60; UNIT: V"
+    "content": "[LM317, 4 Device Comparison Table, page 4] I\nOUT: 1.5A; PARAMETER: Input voltage range; LM317\n(Legacy Chip): 4.25 to 40; LM317\n(New Chip): 4.25 to 40; LM317-N: 4.25 to 40; LM317A: 4.25 to 40; LM317HV: 4.25 - 60; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Load regulation accuracy; LM317\n(Legacy Chip): 1.5; LM317\n(New Chip): 1.5; LM317-N: 1.5; LM317A: 1; LM317HV: 1.5; UNIT: %"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Load regulation accuracy; LM317\n(Legacy Chip): 1.5; LM317\n(New Chip): 1.5; LM317-N: 1.5; LM317A: 1; LM317HV: 1.5; UNIT: %"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: PSRR (120Hz); LM317\n(Legacy Chip): 64; LM317\n(New Chip): 80; LM317-N: 80; LM317A: 80; LM317HV: 65; UNIT: dB"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: PSRR (120Hz); LM317\n(Legacy Chip): 64; LM317\n(New Chip): 80; LM317-N: 80; LM317A: 80; LM317HV: 65; UNIT: dB"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Recommended operating\ntemperature; LM317\n(Legacy Chip): 0 to 125; LM317\n(New Chip): 0 to 125; LM317-N: 0 to 125; LM317A: \u201340 to 125; LM317HV: 0 to 125; UNIT: \u00b0C"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Recommended operating\ntemperature; LM317\n(Legacy Chip): 0 to 125; LM317\n(New Chip): 0 to 125; LM317-N: 0 to 125; LM317A: \u201340 to 125; LM317HV: 0 to 125; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-220 (NDE) T\nJA; LM317\n(Legacy Chip): 23.5; LM317-N: 23.2; LM317A: 23.3; LM317HV: 23; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-220 (NDE) T\nJA; LM317\n(Legacy Chip): 23.5; LM317-N: 23.2; LM317A: 23.3; LM317HV: 23; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-200 (KCT) T\nJA; LM317\n(Legacy Chip): 37.9; LM317-N: N/A; LM317A: N/A; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-200 (KCT) T\nJA; LM317\n(Legacy Chip): 37.9; LM317-N: N/A; LM317A: N/A; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-252 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 54; LM317A: 54; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-252 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 54; LM317A: 54; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-263 T\nJA; LM317\n(Legacy Chip): 38; LM317\n(New Chip): 41; LM317-N: 41; LM317A: N/A; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-263 T\nJA; LM317\n(Legacy Chip): 38; LM317\n(New Chip): 41; LM317-N: 41; LM317A: N/A; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: SOT-223 T\nJA; LM317\n(Legacy Chip): 66.8; LM317\n(New Chip): 59.6; LM317-N: 59.6; LM317A: 59.6; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: SOT-223 T\nJA; LM317\n(Legacy Chip): 66.8; LM317\n(New Chip): 59.6; LM317-N: 59.6; LM317A: 59.6; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-92 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 186; LM317A: 186; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-92 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 186; LM317A: 186; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] I\nOUT: 0.5A; LM317\n(Legacy Chip): LM317M"
+    "content": "[LM317, 4 Device Comparison Table, page 4] I\nOUT: 0.5A; LM317\n(Legacy Chip): LM317M"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Input voltage range; LM317\n(Legacy Chip): 3.75 to 40; UNIT: V"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Input voltage range; LM317\n(Legacy Chip): 3.75 to 40; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Load regulation accuracy; LM317\n(Legacy Chip): 1.5; UNIT: %"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Load regulation accuracy; LM317\n(Legacy Chip): 1.5; UNIT: %"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: PSRR (120Hz); LM317\n(Legacy Chip): 80; UNIT: dB"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: PSRR (120Hz); LM317\n(Legacy Chip): 80; UNIT: dB"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Recommended operating\ntemperature; LM317\n(Legacy Chip): \u221240 to 125; UNIT: \u00b0C"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Recommended operating\ntemperature; LM317\n(Legacy Chip): \u221240 to 125; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: SOT-223 T\nJA; LM317\n(Legacy Chip): 60.2; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: SOT-223 T\nJA; LM317\n(Legacy Chip): 60.2; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-252 T\nJA; LM317\n(Legacy Chip): 56.9; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-252 T\nJA; LM317\n(Legacy Chip): 56.9; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] I\nOUT: 0.1A; LM317\n(Legacy Chip): LM317L; LM317-N: LM317L-N"
+    "content": "[LM317, 4 Device Comparison Table, page 4] I\nOUT: 0.1A; LM317\n(Legacy Chip): LM317L; LM317-N: LM317L-N"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Input voltage range; LM317\n(Legacy Chip): 3.75 to 40; LM317-N: 4.25 to 40; UNIT: V"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Input voltage range; LM317\n(Legacy Chip): 3.75 to 40; LM317-N: 4.25 to 40; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Load regulation accuracy; LM317\n(Legacy Chip): 1; LM317-N: 1.5; UNIT: %"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Load regulation accuracy; LM317\n(Legacy Chip): 1; LM317-N: 1.5; UNIT: %"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: PSRR (120Hz); LM317\n(Legacy Chip): 62; LM317-N: 80; UNIT: dB"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: PSRR (120Hz); LM317\n(Legacy Chip): 62; LM317-N: 80; UNIT: dB"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: Recommended operating\ntemperature; LM317\n(Legacy Chip): \u201340 to 125; LM317-N: \u201340 to 125; UNIT: \u00b0C"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: Recommended operating\ntemperature; LM317\n(Legacy Chip): \u201340 to 125; LM317-N: \u201340 to 125; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: SOT-23 T\nJA; LM317\n(Legacy Chip): 167.8; LM317-N: N/A; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: SOT-23 T\nJA; LM317\n(Legacy Chip): 167.8; LM317-N: N/A; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: SO-8 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 165; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: SO-8 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 165; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: DSBGA T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 290; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: DSBGA T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 290; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "4 Device Comparison Table",
     "type": "table_row",
-    "content": "[LM317, table on page 4] PARAMETER: TO-92 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 180; UNIT: \u00b0C/W"
+    "content": "[LM317, 4 Device Comparison Table, page 4] PARAMETER: TO-92 T\nJA; LM317\n(Legacy Chip): N/A; LM317-N: 180; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Table 2 (page 5)",
+    "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, table on page 5] PIN: NAME"
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: NAME; TO-220\n(Legacy Chip); TO-263; SOT-223; I/O; DESCRIPTION"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Table 2 (page 5)",
+    "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, table on page 5] PIN: ADJ UST"
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: ADJ UST; 1; 1; 1; \u2014; Output voltage adjustment pin. Connect to a\nresistor divider to set V .\nOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Table 2 (page 5)",
+    "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, table on page 5] PIN: INPUT"
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: INPUT; 3; 3; 3; I; Input voltage pin for the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 5,
-    "section": "Table 2 (page 5)",
+    "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, table on page 5] PIN: OUTPUT"
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: OUTPUT; 2, TAB; 2, TAB; 2, TAB; O; Output voltage pin for the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: Internally limited"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Power dissipation; MIN: Internally limited"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: \u22120.3 40; UNIT: V"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Input-output voltage differential; MIN: \u22120.3 40; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: \u221265 150; UNIT: \u00b0C"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Storage temperature, T\nstg; MIN: \u221265 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: \u221265 150; UNIT: \u00b0C"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Operating virtual junction temperature, T (legacy chip)\nJ; MIN: \u221265 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] VALUE: Legacy\nChip"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] VALUE: Legacy\nChip; New\nChip; UNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] VALUE: \u00b12500"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V\n(ESD); Electrostatic discharge; Human body model (HBM), per ANSI/ESDA/JEDEC JS-001(1); VALUE: \u00b12500; \u00b13000; V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] VALUE: \u00b11000"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Charged device model (CDM), per JEDEC specification JESD22-\nC101(2); VALUE: \u00b11000; NA"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: 1.25 37; UNIT: V"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V\nO; Output voltage; MIN: 1.25 37; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: 3 40; UNIT: V"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V \u2013 V\nI O; Input-to-output differential voltage; MIN: 3 40; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: 0.01 1.5; UNIT: A"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] I\nO; Output current; MIN: 0.01 1.5; UNIT: A"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, table on page 6] MIN: 0 125; UNIT: \u00b0C"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] T\nJ; Operating virtual junction temperature; MIN: 0 125; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: DCY\n(SOT-223)"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] THERMAL METRIC(1); LM317: DCY\n(SOT-223); KCS\n(TO-220); KCT\n(TO-220); KTT\n(TO-263); UNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 4 PINS"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] LM317: 4 PINS; 3 PINS; 3 PINS; 3 PINS"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 66.8"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8(JA); Junction-to-ambient thermal resistance; LM317: 66.8; 23.5; 37.9; 38.0; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 43.2"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JC(top); Junction-to-case (top) thermal resistance; LM317: 43.2; 15.9; 51.1; 36.5; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 16.9"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JB; Junction-to-board thermal resistance; LM317: 16.9; 7.9; 23.2; 18.9; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 3.6"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] \u03c8\nJT; Junction-to-top characterization parameter; LM317: 3.6; 3.0; 13.0; 6.9; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 16.8"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] \u03c8\nJB; Junction-to-board characterization parameter; LM317: 16.8; 7.8; 22.8; 17.9; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: NA"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JC(bot); Junction-to-case (bottom) thermal resistance; LM317: NA; 0.1; 4.2; 1.1; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: DCY\n(SOT-223)"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] THERMAL METRIC (1) (2); LM317: DCY\n(SOT-223); KTT\n(TO-263); UNIT"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 4 PINS"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] LM317: 4 PINS; 3 PINS"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 59.6"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8(JA); Junction-to-ambient thermal resistance; LM317: 59.6; 41.0; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 39.3"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JC(top); Junction-to-case (top) thermal resistance; LM317: 39.3; 43.6; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 8.4"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JB; Junction-to-board thermal resistance; LM317: 8.4; 23.6; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 1.8"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] \u03c8\nJT; Junction-to-top characterization parameter; LM317: 1.8; 10.4; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: 8.3"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] \u03c8\nJB; Junction-to-board characterization parameter; LM317: 8.3; 22.6; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "Table 2 (page 7)",
+    "section": "6.5 Thermal Information (New Chip)",
     "type": "table_row",
-    "content": "[LM317, table on page 7] LM317: \u2014"
+    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JC(bot); Junction-to-case (bottom) thermal resistance; LM317: \u2014; 0.9; \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Reference voltage; TEST CONDITIONS(1): T = 25\u00b0C\nJ; MIN: 1.25; UNIT: V"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Reference voltage; TEST CONDITIONS(1): T = 25\u00b0C\nJ; MIN: 1.25; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V,\nIN OUT\n10mA \u2264 I \u2264 1500mA, P \u2264 20W\nOUT D; MIN: 1.2 1.25 1.3"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V,\nIN OUT\n10mA \u2264 I \u2264 1500mA, P \u2264 20W\nOUT D; MIN: 1.2 1.25 1.3"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Line regulation(2); TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V(4)\nIN OUT; MIN: 0.01 0.04; UNIT: %/V"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Line regulation(2); TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V(4)\nIN OUT; T = 25\u00b0C\nJ; MIN: 0.01 0.04; UNIT: %/V"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 0.02 0.07"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] (over full operating\ntemperature range); MIN: 0.02 0.07"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Load regulation; TEST CONDITIONS(1): Legacy chip; MIN: 25; UNIT: mV"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Load regulation; TEST CONDITIONS(1): Legacy chip; I = 10mA to\nO\n1500mA, C =\nADJ\n10\u03bcF(3), T =\nJ\n25\u00b0C; V \u2264 5V\nO; MIN: 25; UNIT: mV"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 0.1 0.5; UNIT: %V\nO"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V \u2265 5V\nO; MIN: 0.1 0.5; UNIT: %V\nO"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 20 70; UNIT: mV"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] I = 10mA to\nO\n1500mA, T =\nJ\n0\u00b0C to 125\u00b0C; V \u2264 5V\nO; MIN: 20 70; UNIT: mV"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 0.3 1.5; UNIT: %V\nO"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V \u2265 5V\nO; MIN: 0.3 1.5; UNIT: %V\nO"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] TEST CONDITIONS(1): New chip; MIN: 0.1 0.5"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): New chip; 10mA \u2264 I \u2264\nOUT\nI (5)\nMAX; T = 25\u00b0C\nJ; MIN: 0.1 0.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 0.3 1.5"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] (over full operating\ntemperature range); MIN: 0.3 1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Thermal regulation; TEST CONDITIONS(1): 20ms pulse; MIN: 0.04 0.07; UNIT: %/W"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Thermal regulation; TEST CONDITIONS(1): 20ms pulse; MIN: 0.04 0.07; UNIT: %/W"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Adjustment pin current; TEST CONDITIONS(1): Over full operating temperature range; MIN: 50 100; UNIT: \u03bcA"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Adjustment pin current; TEST CONDITIONS(1): Over full operating temperature range; MIN: 50 100; UNIT: \u03bcA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Adjustment pin current change; TEST CONDITIONS(1): 10mA \u2264 I \u2264 I (4)\nOUT MAX\n3V \u2264 (V \u2212 V ) \u2264 40V\nIN OUT; MIN: 0.2 5; UNIT: \u03bcA"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Adjustment pin current change; TEST CONDITIONS(1): 10mA \u2264 I \u2264 I (4)\nOUT MAX\n3V \u2264 (V \u2212 V ) \u2264 40V\nIN OUT; Over full operating\ntemperature range; MIN: 0.2 5; UNIT: \u03bcA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Temperature stability; TEST CONDITIONS(1): Legacy chip; MIN: 0.7; UNIT: %V\nO"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Temperature stability; TEST CONDITIONS(1): Legacy chip; T \u2264 T \u2264 T\nMIN J MAX; Over full operating\ntemperature range; MIN: 0.7; UNIT: %V\nO"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] TEST CONDITIONS(1): New chip; MIN: 1%"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): New chip; MIN: 1%"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Minimum load current; TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; MIN: 3.5 10; UNIT: mA"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Minimum load current; TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; Over full operating\ntemperature range; MIN: 3.5 10; UNIT: mA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Current limit; TEST CONDITIONS(1): (V \u2212 V ) \u2264 15V\nIN OUT; MIN: 1.5 2.2; UNIT: A"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Current limit; TEST CONDITIONS(1): (V \u2212 V ) \u2264 15V\nIN OUT; P < P (3)\nD MAX; MIN: 1.5 2.2; UNIT: A"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; MIN: 0.15 0.4"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; P < P (3), T = 25\u00b0C\nD MAX J; MIN: 0.15 0.4"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: RMS output noise, % of V\nOUT; TEST CONDITIONS(1): 10Hz \u2264 f \u2264 10kHz; MIN: 0.003; UNIT: %"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: RMS output noise, % of V\nOUT; TEST CONDITIONS(1): 10Hz \u2264 f \u2264 10kHz; MIN: 0.003; UNIT: %"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Ripple rejection ratio; TEST CONDITIONS(1): Legacy chip; MIN: 57; UNIT: dB"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Ripple rejection ratio; TEST CONDITIONS(1): Legacy chip; V = 10V, f = 120Hz, C = 0\u03bcF(4)\nOUT ADJ; MIN: 57; UNIT: dB"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 62 64"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V = 10V, f = 120Hz, C = 10\u03bcF(4)\nOUT ADJ; MIN: 62 64"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] TEST CONDITIONS(1): New chip; MIN: 65"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): New chip; V = 10V, f = 120Hz, C = 0\u03bcF (over full\nOUT ADJ\noperating temperature range); MIN: 65"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] MIN: 66 80"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V = 10V, f = 120Hz, C = 10\u03bcF (over\nOUT ADJ\nfull operating temperature range); MIN: 66 80"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 8] PARAMETER: Long-term stability; TEST CONDITIONS(1): T = 25\u00b0C\nJ; MIN: 0.3 1; UNIT: %/1k hr"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Long-term stability; TEST CONDITIONS(1): T = 25\u00b0C\nJ; MIN: 0.3 1; UNIT: %/1k hr"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Table 2 (page 9)",
+    "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 9] T =\nA: T; 25\u00b0C\nT =\u201340\u00b0\nA: = 125\u00b0C\nA"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] T =\nA: T; 25\u00b0C\nT =\u201340\u00b0\nA: = 125\u00b0C\nA"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
-    "section": "Table 2 (page 9)",
+    "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, table on page 9] T =\nA: = 10 V Nom"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] T =\nA: = 10 V Nom"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] T=\nA; \u201340; \u00b0C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] T; =\nA; 25\u00b0; C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] T=\nA; 125; \u00b0C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] V\nOU; =\nT; V\nREF"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOU; T"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] VOU; T"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] CAD; J= 0 \u00b5"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOUT"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] VOUT"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 9,
+    "section": "6.7 Typical Characteristics",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] CADJ= 1"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Table 5 (page 10)",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, table on page 10] V\nV: IO\nT; IN=1\nOUT=: UT=5\nA=25; 5V\n10V: 00mA\n\u00b0C"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] T =\u2013\nA; 40\u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Table 5 (page 10)",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, table on page 10] 5V\n10V: C"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] T; = 25\nA; \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 10,
-    "section": "Table 5 (page 10)",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, table on page 10] 5V\n10V: ADJ"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] T; = 12; 5\u00b0C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] A"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] VIN=15"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] VOUT=1\nf=120; 0V\nHz"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] TA=25; \u00b0C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V \u2013; V"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V \u2013; V =15; V"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] IN\nIOUT=\nf=1; OUT\n500mA\n20Hz"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] TA=; TA=; 25\u00b0C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] V\nV: IO\nT; IN=1\nOUT=: UT=5\nA=25; 5V\n10V: 00mA\n\u00b0C; CADJ= 0; \u00b5F"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] 5V\n10V: C; = 10 \u00b5F"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 10,
+    "section": "6.7 Typical Characteristics (continued)",
+    "type": "table_row",
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 10] 5V\n10V: ADJ"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Table 1 (page 11)",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, table on page 11] Figure 6-13. Ripple Rejection vs Output Voltage (New Chip): Figure 6-15. Ripple Rejection vs Output Current (New Chip); Figure 6-14. Ripple Rejection vs Frequency (New Chip): Figure 6-16. Current Limit Threshold (New Chip)"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 11] Figure 6-13. Ripple Rejection vs Output Voltage (New Chip): Figure 6-15. Ripple Rejection vs Output Current (New Chip); Figure 6-14. Ripple Rejection vs Frequency (New Chip): Figure 6-16. Current Limit Threshold (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 11,
-    "section": "Table 1 (page 11)",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, table on page 11] Figure 6-13. Ripple Rejection vs Output Voltage (New Chip): Figure 6-17. Adjustment Current vs Temperature (New Chip); Figure 6-14. Ripple Rejection vs Frequency (New Chip): Figure 6-18. Dropout Voltage vs Temperature (New Chip)"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 11] Figure 6-13. Ripple Rejection vs Output Voltage (New Chip): Figure 6-17. Adjustment Current vs Temperature (New Chip); Figure 6-14. Ripple Rejection vs Frequency (New Chip): Figure 6-18. Dropout Voltage vs Temperature (New Chip)"
   },
   {
     "part_number": "LM317",
     "page_number": 12,
-    "section": "Table 1 (page 12)",
+    "section": "6.7 Typical Characteristics (continued)",
     "type": "table_row",
-    "content": "[LM317, table on page 12] Figure 6-19. Temperature Stability (New Chip): Figure 6-21. Output Impedance vs Frequency (New Chip); Figure 6-20. Minimum Operating Current (New Chip): Figure 6-22. Line Transient Response (New Chip)"
+    "content": "[LM317, 6.7 Typical Characteristics (continued), page 12] Figure 6-19. Temperature Stability (New Chip): Figure 6-21. Output Impedance vs Frequency (New Chip); Figure 6-20. Minimum Operating Current (New Chip): Figure 6-22. Line Transient Response (New Chip)"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 15,
+    "section": "8.2 Typical Application",
+    "type": "table_row",
+    "content": "[LM317, 8.2 Typical Application, page 15] R2"
   },
   {
     "part_number": "LM317",
     "page_number": 20,
-    "section": "Table 4 (page 20)",
+    "section": "8.2 Typical Application",
     "type": "table_row",
-    "content": "[LM317, table on page 20] 480\u2126: 120\u2126"
+    "content": "[LM317, 8.2 Typical Application, page 20] R3\n50 k\u2126\n2N2905"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 20,
+    "section": "8.2 Typical Application",
+    "type": "table_row",
+    "content": "[LM317, 8.2 Typical Application, page 20] 480\u2126: 120\u2126"
   },
   {
     "part_number": "LM317",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "8.5.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM317, table on page 26] OUTPUT: OUTPUT"
+    "content": "[LM317, 8.5.2 Layout Examples, page 26] OUTPUT: OUTPUT"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCY; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317DCY; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCY.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317DCY.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCY.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317DCY.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCYG3; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317DCYG3; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 80 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCYR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 2500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317DCYR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 2500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCYR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 2500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317KCS; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCYR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 2500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317KCS.A; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317DCYRG3; Status\n(1): Active; Material type\n(2): Production; Package | Pins: SOT-223 (DCY) | 4; Package qty | Carrier: 2500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-2-260C-1 YEAR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): L3"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KCS; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KCS.A; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KCSE3; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KTTR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 3; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): ROHS Exempt; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KTTR; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 3; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KTTR.A; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 3; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KTTR.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 3; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 30,
-    "section": "Table 1 (page 30)",
-    "type": "table_row",
-    "content": "[LM317, table on page 30] Order able part number: LM317KTTRG3; Status\n(1): Active; Material type\n(2): Production; Package | Pins: DDPAK/\nTO-263 (KTT) | 3; Package qty | Carrier: 500 | LARGE T&R; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 30] Order able part number: LM317KCSE3; Status\n(1): NRND; Material type\n(2): Production; Package | Pins: TO-220 (KCS) | 3; Package qty | Carrier: 50 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): N/A for Pkg Type; Op temp (\u00b0C): 0 to 125; Part marking\n(6): LM317"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 7 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 7 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 7 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 7 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 9 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Q1: Q3; Q2: Q4"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Q1: Q3; Q2: Q4"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 10 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Q1: Q3; Q2: Q4"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Q1: Q3; Q2: Q4"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 11 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Device: LM317DCYR; Package\nType: SOT-223; Package\nDrawing: DCY; Pins: 4; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 6.85; B0\n(mm): 7.3; K0\n(mm): 1.88; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Device: LM317DCYR; Package\nType: SOT-223; Package\nDrawing: DCY; Pins: 4; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 6.85; B0\n(mm): 7.3; K0\n(mm): 1.88; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q3"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 11 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Device: LM317DCYR; Package\nType: SOT-223; Package\nDrawing: DCY; Pins: 4; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 7.05; B0\n(mm): 7.4; K0\n(mm): 1.9; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Device: LM317DCYR; Package\nType: SOT-223; Package\nDrawing: DCY; Pins: 4; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 7.05; B0\n(mm): 7.4; K0\n(mm): 1.9; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q3"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 11 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Device: LM317DCYR; Package\nType: SOT-223; Package\nDrawing: DCY; Pins: 4; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 6.55; B0\n(mm): 7.25; K0\n(mm): 1.9; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q3"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Device: LM317DCYR; Package\nType: SOT-223; Package\nDrawing: DCY; Pins: 4; SPQ: 2500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 12.4; A0\n(mm): 6.55; B0\n(mm): 7.25; K0\n(mm): 1.9; P1\n(mm): 8.0; W\n(mm): 12.0; Pin1\nQuadrant: Q3"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 11 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Device: LM317KTTR; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 3; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Device: LM317KTTR; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 3; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
   },
   {
     "part_number": "LM317",
     "page_number": 32,
-    "section": "Table 11 (page 32)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 32] Device: LM317KTTR; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 3; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.8; B0\n(mm): 16.3; K0\n(mm): 5.11; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Device: LM317KTTR; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 3; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.8; B0\n(mm): 16.3; K0\n(mm): 5.11; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
-    "section": "Table 2 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 33] Device: LM317DCYR; Package Type: SOT-223; Package Drawing: DCY; Pins: 4; SPQ: 2500; Length (mm): 367.0; Width (mm): 367.0; Height (mm): 35.0"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 33] Device: LM317DCYR; Package Type: SOT-223; Package Drawing: DCY; Pins: 4; SPQ: 2500; Length (mm): 367.0; Width (mm): 367.0; Height (mm): 35.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
-    "section": "Table 2 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 33] Device: LM317DCYR; Package Type: SOT-223; Package Drawing: DCY; Pins: 4; SPQ: 2500; Length (mm): 340.0; Width (mm): 340.0; Height (mm): 38.0"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 33] Device: LM317DCYR; Package Type: SOT-223; Package Drawing: DCY; Pins: 4; SPQ: 2500; Length (mm): 340.0; Width (mm): 340.0; Height (mm): 38.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
-    "section": "Table 2 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 33] Device: LM317DCYR; Package Type: SOT-223; Package Drawing: DCY; Pins: 4; SPQ: 2500; Length (mm): 336.0; Width (mm): 336.0; Height (mm): 48.0"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 33] Device: LM317DCYR; Package Type: SOT-223; Package Drawing: DCY; Pins: 4; SPQ: 2500; Length (mm): 336.0; Width (mm): 336.0; Height (mm): 48.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
-    "section": "Table 2 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 33] Device: LM317KTTR; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 3; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 33] Device: LM317KTTR; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 3; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
   },
   {
     "part_number": "LM317",
     "page_number": 33,
-    "section": "Table 2 (page 33)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 33] Device: LM317KTTR; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 3; SPQ: 500; Length (mm): 340.0; Width (mm): 340.0; Height (mm): 38.0"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 33] Device: LM317KTTR; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 3; SPQ: 500; Length (mm): 340.0; Width (mm): 340.0; Height (mm): 38.0"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCY; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCY; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCY; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCY; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCY.A; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCY.A; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCY.A; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCY.A; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCY.B; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCY.B; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCY.B; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCY.B; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCYG3; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCYG3; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 559; W (mm): 8.6; T (\u00b5m): 500; B (mm): 3.6"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317DCYG3; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317DCYG3; Package Name: DCY; Package Type: SOT-223; Pins: 4; SPQ: 80; L (mm): 542.9; W (mm): 8.6; T (\u00b5m): 3606; B (mm): 2.67"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317KCS; Package Name: KCS; Package Type: TO-220; Pins: 3; SPQ: 50; L (mm): 532; W (mm): 34.1; T (\u00b5m): 700; B (mm): 9.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317KCS; Package Name: KCS; Package Type: TO-220; Pins: 3; SPQ: 50; L (mm): 532; W (mm): 34.1; T (\u00b5m): 700; B (mm): 9.6"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317KCS.A; Package Name: KCS; Package Type: TO-220; Pins: 3; SPQ: 50; L (mm): 532; W (mm): 34.1; T (\u00b5m): 700; B (mm): 9.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317KCS.A; Package Name: KCS; Package Type: TO-220; Pins: 3; SPQ: 50; L (mm): 532; W (mm): 34.1; T (\u00b5m): 700; B (mm): 9.6"
   },
   {
     "part_number": "LM317",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, table on page 34] Device: LM317KCSE3; Package Name: KCS; Package Type: TO-220; Pins: 3; SPQ: 50; L (mm): 532; W (mm): 34.1; T (\u00b5m): 700; B (mm): 9.6"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 34] Device: LM317KCSE3; Package Name: KCS; Package Type: TO-220; Pins: 3; SPQ: 50; L (mm): 532; W (mm): 34.1; T (\u00b5m): 700; B (mm): 9.6"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 40,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "table_row",
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 40] 2; 3"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 40,
+    "section": "PACKAGE OPTION ADDENDUM",
+    "type": "table_row",
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 40] 1"
   }
 ]

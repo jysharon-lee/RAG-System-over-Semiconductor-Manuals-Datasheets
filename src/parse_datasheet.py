@@ -167,10 +167,27 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
         "6\\nDevice Comparison Table (1)\\n"
     A bare numeric line is merged with the following line before testing
     for a header match to catch this case.
+
+    Also builds and returns a page_number -> section_name map. Table
+    extraction runs as a completely separate pass (pdfplumber, not PyMuPDF)
+    and has no concept of "section" on its own - without this map, every
+    table row got tagged with a generic "Table N (page P)" placeholder,
+    which meant a table row's content had zero lexical/semantic connection
+    to its actual section name (e.g. "Absolute Maximum Ratings"). That
+    caused real retrieval misses: a query asking about "absolute maximum"
+    values couldn't distinguish the actual ratings table from a similarly-
+    worded row in a different table (e.g. Recommended Operating Conditions)
+    on another page, since neither carried a real section label. This is a
+    page-level approximation (using whichever section was active by the
+    end of that page) - a table appearing right at a section boundary on
+    the same page could theoretically inherit the wrong neighboring
+    section's name, but this is a large improvement over no attribution
+    at all.
     """
     chunks = []
     current_section = "General / Overview"
     noise_filtered = 0
+    page_to_section = {}
 
     with fitz.open(pdf_path) as doc:
         for page_num, page in enumerate(doc, start=1):
@@ -237,10 +254,12 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
                             "content": content,
                         })
 
+            page_to_section[page_num] = current_section
+
     if noise_filtered:
         print(f"  filtered {noise_filtered} noise fragments (pin/graph labels)")
 
-    return chunks
+    return chunks, page_to_section
 
 
 MAX_ROW_LENGTH = 350  # a real electrical-characteristics row is short; a
@@ -263,10 +282,11 @@ def _is_junk_table_row(sentence: str) -> bool:
     return False
 
 
-def extract_table_chunks(pdf_path: Path, part_number: str):
+def extract_table_chunks(pdf_path: Path, part_number: str, page_to_section: dict = None):
     """Extract tables and serialize each row as a readable sentence."""
     chunks = []
     junk_filtered = 0
+    page_to_section = page_to_section or {}
 
     # text_x_tolerance widened from pdfplumber's default: some datasheet
     # PDFs (notably TI's newer template) embed characters with tighter
@@ -280,6 +300,7 @@ def extract_table_chunks(pdf_path: Path, part_number: str):
 
     with pdfplumber.open(pdf_path) as pdf:
         for page_num, page in enumerate(pdf.pages, start=1):
+            section = page_to_section.get(page_num, "General / Overview")
             tables = page.extract_tables(table_settings=table_settings)
             for table_idx, table in enumerate(tables):
                 if not table or len(table) < 2:
@@ -294,13 +315,33 @@ def extract_table_chunks(pdf_path: Path, part_number: str):
                     # Serialize as "Header1: val1, Header2: val2, ..." instead
                     # of a flattened grid - this reads far better for both
                     # embedding and for the LLM at generation time.
-                    pairs = [
-                        f"{h}: {v}" for h, v in zip(header, row) if h and v
-                    ]
+                    #
+                    # Some datasheet tables (notably Absolute Maximum Ratings
+                    # and ESD Ratings) don't print a header label above the
+                    # Symbol/Parameter columns at all - only MIN/MAX/UNIT get
+                    # a header. Requiring a non-empty header here used to
+                    # silently DROP those columns entirely, discarding the
+                    # actual parameter name (e.g. "Input voltage on LBI")
+                    # and leaving only "MIN: -0.3 3.6" with no idea what it's
+                    # a rating for. Now: use "Header: value" when a header
+                    # exists, otherwise keep the value on its own so the
+                    # information survives.
+                    pairs = []
+                    for h, v in zip(header, row):
+                        if not v:
+                            continue
+                        pairs.append(f"{h}: {v}" if h else v)
                     if not pairs:
                         continue
 
-                    sentence = f"[{part_number}, table on page {page_num}] " + "; ".join(pairs)
+                    # Section name baked into the indexed text itself (not
+                    # just metadata) - without this, a query like "absolute
+                    # maximum input voltage" has no lexical/semantic anchor
+                    # distinguishing this row from a similarly-worded row in
+                    # a totally different table (e.g. Recommended Operating
+                    # Conditions), since the raw parameter/value text alone
+                    # doesn't say which table it came from.
+                    sentence = f"[{part_number}, {section}, page {page_num}] " + "; ".join(pairs)
 
                     if _is_junk_table_row(sentence):
                         junk_filtered += 1
@@ -309,7 +350,7 @@ def extract_table_chunks(pdf_path: Path, part_number: str):
                     chunks.append({
                         "part_number": part_number,
                         "page_number": page_num,
-                        "section": f"Table {table_idx + 1} (page {page_num})",
+                        "section": section,
                         "type": "table_row",
                         "content": sentence,
                     })
@@ -324,8 +365,8 @@ def parse_datasheet(pdf_path: Path):
     part_number = pdf_path.stem
     print(f"Parsing {part_number}...")
 
-    text_chunks = extract_text_chunks(pdf_path, part_number)
-    table_chunks = extract_table_chunks(pdf_path, part_number)
+    text_chunks, page_to_section = extract_text_chunks(pdf_path, part_number)
+    table_chunks = extract_table_chunks(pdf_path, part_number, page_to_section)
 
     print(f"  {len(text_chunks)} text chunks, {len(table_chunks)} table-row chunks")
 

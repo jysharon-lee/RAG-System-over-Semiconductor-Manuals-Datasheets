@@ -6778,1485 +6778,1394 @@
   {
     "part_number": "LM2596",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[LM2596, table on page 1] PART NUMBER: LM2596; PACKAGE(: NDH (TO-220; 1) BODY SIZE (NOM): , 5) 14.986 mm \u00d7 10.16 mm"
+    "content": "[LM2596, Typical Application, page 1] PART NUMBER: LM2596; PACKAGE(: NDH (TO-220; 1) BODY SIZE (NOM): , 5) 14.986 mm \u00d7 10.16 mm"
   },
   {
     "part_number": "LM2596",
     "page_number": 1,
-    "section": "Table 1 (page 1)",
+    "section": "Typical Application",
     "type": "table_row",
-    "content": "[LM2596, table on page 1] PACKAGE(: KTT (TO-263,; 1) BODY SIZE (NOM): 5) 10.10 mm \u00d7 8.89 mm"
+    "content": "[LM2596, Typical Application, page 1] PACKAGE(: KTT (TO-263,; 1) BODY SIZE (NOM): 5) 10.10 mm \u00d7 8.89 mm"
   },
   {
     "part_number": "LM2596",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "6 Pin Configuration and Functions",
     "type": "table_row",
-    "content": "[LM2596, table on page 4] PIN: NO."
+    "content": "[LM2596, 6 Pin Configuration and Functions, page 4] PIN: NO.; NAME"
   },
   {
     "part_number": "LM2596",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "6 Pin Configuration and Functions",
     "type": "table_row",
-    "content": "[LM2596, table on page 4] PIN: 1; I/O: I; DESCRIPTION: This is the positive input supply for the IC switching regulator. A suitable input bypass\ncapacitor must be present at this pin to minimize voltage transients and to supply the\nswitching currents required by the regulator."
+    "content": "[LM2596, 6 Pin Configuration and Functions, page 4] PIN: 1; V\nIN; I/O: I; DESCRIPTION: This is the positive input supply for the IC switching regulator. A suitable input bypass\ncapacitor must be present at this pin to minimize voltage transients and to supply the\nswitching currents required by the regulator."
   },
   {
     "part_number": "LM2596",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "6 Pin Configuration and Functions",
     "type": "table_row",
-    "content": "[LM2596, table on page 4] PIN: 2; I/O: O; DESCRIPTION: Internal switch. The voltage at this pin switches between approximately (+V \u2212 V ) and\nIN SAT\napproximately \u22120.5 V, with a duty cycle of V / V . To minimize coupling to sensitive\nOUT IN\ncircuitry, the PCB copper area connected to this pin must be kept to a minimum."
+    "content": "[LM2596, 6 Pin Configuration and Functions, page 4] PIN: 3; Ground; I/O: \u2014; DESCRIPTION: Circuit ground"
   },
   {
     "part_number": "LM2596",
     "page_number": 4,
-    "section": "Table 1 (page 4)",
+    "section": "6 Pin Configuration and Functions",
     "type": "table_row",
-    "content": "[LM2596, table on page 4] PIN: 3; I/O: \u2014; DESCRIPTION: Circuit ground"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 4,
-    "section": "Table 1 (page 4)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 4] PIN: 4; I/O: I; DESCRIPTION: Senses the regulated output voltage to complete the feedback loop."
+    "content": "[LM2596, 6 Pin Configuration and Functions, page 4] PIN: 4; Feedback; I/O: I; DESCRIPTION: Senses the regulated output voltage to complete the feedback loop."
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 45; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Maximum supply voltage (V )\nIN; MIN: 45; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 6; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] SD/SS pin input voltage(3); MIN: 6; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 1.5; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Delay pin voltage(3); MIN: 1.5; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: \u20130.3 45; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Flag pin voltage; MIN: \u20130.3 45; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: \u20130.3 25; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Feedback pin voltage; MIN: \u20130.3 25; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: \u20131; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Output voltage to ground, steady-state; MIN: \u20131; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: Internally limited"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Power dissipation; MIN: Internally limited"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 215; UNIT: \u00b0C"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Lead temperature; KTW package; Vapor phase (60 s); MIN: 215; UNIT: \u00b0C"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 245"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Infrared (10 s); MIN: 245"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 260"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] NDZ package, soldering (10 s); MIN: 260"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 150; UNIT: \u00b0C"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Maximum junction temperature; MIN: 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 1 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: \u201365 150; UNIT: \u00b0C"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Storage temperature, T\nstg; MIN: \u201365 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 2 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] VALUE: \u00b12000; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] V Electrostatic discharge\n(ESD); Human-body model (HBM), per ANSI/ESDA/JEDEC JS-001(1); VALUE: \u00b12000; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 3 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: 4.5 40; UNIT: V"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Supply voltage; MIN: 4.5 40; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 3 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] MIN: \u201340 125; UNIT: \u00b0C"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] Temperature; MIN: \u201340 125; UNIT: \u00b0C"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: KTW (TO-263)"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] THERMAL METRIC(1); LM2596: KTW (TO-263); NDZ (TO-220); UNIT"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: 5 PINS"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] LM2596: 5 PINS; 5 PINS"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: \u2014"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] R\u03b8JA Junction-to-ambient thermal resistance(2) (3); See(4); LM2596: \u2014; 50; \u00b0C/W"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: 50"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] See(5); LM2596: 50; \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: 30"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] See(6); LM2596: 30; \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: 20"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] See(7); LM2596: 20; \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 5,
-    "section": "Table 4 (page 5)",
+    "section": "7.4 Thermal Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 5] LM2596: 2"
+    "content": "[LM2596, 7.4 Thermal Information, page 5] R\u03b8JC(top) Junction-to-case (top) thermal resistance; LM2596: 2; 2; \u00b0C/W"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: VOUT Output voltage; TEST CONDITIONS: 4.75 V \u2264 VIN \u2264 40 V,\n0.2 A \u2264 ILOAD \u2264 3 A; MIN(1): 3.168 3.3 3.432; UNIT: V"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: VOUT Output voltage; TEST CONDITIONS: 4.75 V \u2264 VIN \u2264 40 V,\n0.2 A \u2264 ILOAD \u2264 3 A; TJ = 25\u00b0C; MIN(1): 3.168 3.3 3.432; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] MIN(1): 3.135 3.465"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] \u201340\u00b0C \u2264 TJ \u2264 125\u00b0C; MIN(1): 3.135 3.465"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 1 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 12 V, ILOAD = 3 A; MIN(1): 73%"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 12 V, ILOAD = 3 A; MIN(1): 73%"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: VOUT Output voltage; TEST CONDITIONS: 7 V \u2264 VIN \u2264 40 V,\n0.2 A \u2264 ILOAD \u2264 3 A; MIN(1): 4.8 5 5.2; UNIT: V"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: VOUT Output voltage; TEST CONDITIONS: 7 V \u2264 VIN \u2264 40 V,\n0.2 A \u2264 ILOAD \u2264 3 A; TJ = 25\u00b0C; MIN(1): 4.8 5 5.2; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] MIN(1): 4.75 5.25"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] \u201340\u00b0C \u2264 TJ \u2264 125\u00b0C; MIN(1): 4.75 5.25"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 2 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 12 V, ILOAD = 3 A; MIN(1): 80%"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 12 V, ILOAD = 3 A; MIN(1): 80%"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: VOUT Output voltage; TEST CONDITIONS: 15 V \u2264 VIN \u2264 40 V,\n0.2 A \u2264 ILOAD \u2264 3 A; MIN(1): 11.52 12 12.48; UNIT: V"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: VOUT Output voltage; TEST CONDITIONS: 15 V \u2264 VIN \u2264 40 V,\n0.2 A \u2264 ILOAD \u2264 3 A; TJ = 25\u00b0C; MIN(1): 11.52 12 12.48; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] MIN(1): 11.4 12.6"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] \u201340\u00b0C \u2264 TJ \u2264 125\u00b0C; MIN(1): 11.4 12.6"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 3 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 25 V, ILOAD = 3 A; MIN(1): 90%"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 25 V, ILOAD = 3 A; MIN(1): 90%"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: SYSTEM PARAMETERS (3) (see Figure 9-13 for test circuit)"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: VFB Feedback voltage; TEST CONDITIONS: 4.5 V \u2264 VIN \u2264 40 V, 0.2 A \u2264 ILOAD \u2264 3 A; MIN(1): 1.23; UNIT: V"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: VFB Feedback voltage; TEST CONDITIONS: 4.5 V \u2264 VIN \u2264 40 V, 0.2 A \u2264 ILOAD \u2264 3 A; MIN(1): 1.23; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] TEST CONDITIONS: VOUT programmed for 3 V\n(see Figure 9-13 for test circuit); MIN(1): 1.193 1.267"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] TEST CONDITIONS: VOUT programmed for 3 V\n(see Figure 9-13 for test circuit); TJ = 25\u00b0C; MIN(1): 1.193 1.267"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] MIN(1): 1.18 1.28"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] \u201340\u00b0C \u2264 TJ \u2264 125\u00b0C; MIN(1): 1.18 1.28"
   },
   {
     "part_number": "LM2596",
     "page_number": 6,
-    "section": "Table 4 (page 6)",
+    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage Version",
     "type": "table_row",
-    "content": "[LM2596, table on page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 12 V, VOUT = 3 V, ILOAD = 3 A; MIN(1): 73%"
+    "content": "[LM2596, 7.8 Electrical Characteristics \u2013 Adjustable Voltage Version, page 6] PARAMETER: \u03b7 Efficiency; TEST CONDITIONS: VIN = 12 V, VOUT = 3 V, ILOAD = 3 A; MIN(1): 73%"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: DEVICE PARAMETERS"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: DEVICE PARAMETERS"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: I Feedback bias current\nb; TEST CONDITIONS: Adjustable version only,\nV = 1.3 V\nFB; MIN(1): 10 50; UNIT: nA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: I Feedback bias current\nb; TEST CONDITIONS: Adjustable version only,\nV = 1.3 V\nFB; T = 25\u00b0C\nJ; MIN(1): 10 50; UNIT: nA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 100"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 100"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: f Oscillator frequency(3)\nO; TEST CONDITIONS: T = 25\u00b0C\nJ; MIN(1): 127 150 173; UNIT: kHz"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: f Oscillator frequency(3)\nO; TEST CONDITIONS: T = 25\u00b0C\nJ; MIN(1): 127 150 173; UNIT: kHz"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] TEST CONDITIONS: \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 110 173"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] TEST CONDITIONS: \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 110 173"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: V Saturation voltage(4) (5)\nSAT; TEST CONDITIONS: I = 3 A\nOUT; MIN(1): 1.16 1.4; UNIT: V"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: V Saturation voltage(4) (5)\nSAT; TEST CONDITIONS: I = 3 A\nOUT; T = 25\u00b0C\nJ; MIN(1): 1.16 1.4; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 1.5"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 1.5"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: DC; MIN(1): 100%"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: DC; Max duty cycle (ON)(5); MIN(1): 100%"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 0%"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] Min duty cycle (OFF)(6); MIN(1): 0%"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: I Current limit(4) (5)\nCL; TEST CONDITIONS: Peak current; MIN(1): 3.6 4.5 6.9; UNIT: A"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: I Current limit(4) (5)\nCL; TEST CONDITIONS: Peak current; T = 25\u00b0C\nJ; MIN(1): 3.6 4.5 6.9; UNIT: A"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 3.4 7.5"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 3.4 7.5"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: Output leakage current(4)\nI\nL (6); TEST CONDITIONS: Output = 0 V, V = 40 V\nIN; MIN(1): 50; UNIT: \u03bcA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: Output leakage current(4)\nI\nL (6); TEST CONDITIONS: Output = 0 V, V = 40 V\nIN; MIN(1): 50; UNIT: \u03bcA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] TEST CONDITIONS: Output = \u20131 V; MIN(1): 2 30; UNIT: mA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] TEST CONDITIONS: Output = \u20131 V; MIN(1): 2 30; UNIT: mA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: Operating quiescent\nI\nQ current(6); TEST CONDITIONS: See (6); MIN(1): 5 10; UNIT: mA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: Operating quiescent\nI\nQ current(6); TEST CONDITIONS: See (6); MIN(1): 5 10; UNIT: mA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: Current standby\nI\nSTBY quiescent; TEST CONDITIONS: ON/OFF pin = 5 V (OFF)(7); MIN(1): 80 200; UNIT: \u03bcA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: Current standby\nI\nSTBY quiescent; TEST CONDITIONS: ON/OFF pin = 5 V (OFF)(7); T = 25\u00b0C\nJ; MIN(1): 80 200; UNIT: \u03bcA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 250; UNIT: \u03bcA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 250; UNIT: \u03bcA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: SHUTDOWN/SOFT-START CONTROL (see Figure 9-13 for test circuit)"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: SHUTDOWN/SOFT-START CONTROL (see Figure 9-13 for test circuit)"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: V\nIH; TEST CONDITIONS: Low (regulator ON); MIN(1): 1.3; UNIT: V"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: V\nIH; ON/OFF pin logic input\nthreshold voltage; TEST CONDITIONS: Low (regulator ON); T = 25\u00b0C\nJ; MIN(1): 1.3; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 0.6"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 0.6"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: V\nIL; TEST CONDITIONS: High (regulator OFF); MIN(1): 1.3; UNIT: V"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: V\nIL; TEST CONDITIONS: High (regulator OFF); T = 25\u00b0C\nJ; MIN(1): 1.3; UNIT: V"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] MIN(1): 2"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] \u201340\u00b0C \u2264 T \u2264 125\u00b0C\nJ; MIN(1): 2"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: I\nH; TEST CONDITIONS: V = 2.5 V (regulator OFF)\nLOGIC; MIN(1): 5 15; UNIT: \u03bcA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: I\nH; ON/OFF pin input current; TEST CONDITIONS: V = 2.5 V (regulator OFF)\nLOGIC; MIN(1): 5 15; UNIT: \u03bcA"
   },
   {
     "part_number": "LM2596",
     "page_number": 7,
-    "section": "Table 1 (page 7)",
+    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage Versions",
     "type": "table_row",
-    "content": "[LM2596, table on page 7] PARAMETER: I\nL; TEST CONDITIONS: V = 0.5 V (regulator ON)\nLOGIC; MIN(1): 0.02 5; UNIT: \u03bcA"
+    "content": "[LM2596, 7.9 Electrical Characteristics \u2013 All Output Voltage Versions, page 7] PARAMETER: I\nL; TEST CONDITIONS: V = 0.5 V (regulator ON)\nLOGIC; MIN(1): 0.02 5; UNIT: \u03bcA"
   },
   {
     "part_number": "LM2596",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "7.10 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM2596, table on page 8] Figure 7-1. Normalized Output Voltage: Figure 7-3. Efficiency; Figure 7-2. Line Regulation: Figure 7-4. Switch Saturation Voltage"
+    "content": "[LM2596, 7.10 Typical Characteristics, page 8] Figure 7-1. Normalized Output Voltage: Figure 7-3. Efficiency; Figure 7-2. Line Regulation: Figure 7-4. Switch Saturation Voltage"
   },
   {
     "part_number": "LM2596",
     "page_number": 8,
-    "section": "Table 1 (page 8)",
+    "section": "7.10 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM2596, table on page 8] Figure 7-1. Normalized Output Voltage: Figure 7-5. Switch Current Limit; Figure 7-2. Line Regulation: Figure 7-6. Dropout Voltage"
+    "content": "[LM2596, 7.10 Typical Characteristics, page 8] Figure 7-1. Normalized Output Voltage: Figure 7-5. Switch Current Limit; Figure 7-2. Line Regulation: Figure 7-6. Dropout Voltage"
   },
   {
     "part_number": "LM2596",
     "page_number": 9,
-    "section": "Table 1 (page 9)",
+    "section": "7.10 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM2596, table on page 9] Figure 7-7. Operating Quiescent Current: Figure 7-9. Minimum Operating Supply Voltage; Figure 7-8. Shutdown Quiescent Current: Figure 7-10. ON/OFF Threshold Voltage"
+    "content": "[LM2596, 7.10 Typical Characteristics, page 9] Figure 7-7. Operating Quiescent Current: Figure 7-9. Minimum Operating Supply Voltage; Figure 7-8. Shutdown Quiescent Current: Figure 7-10. ON/OFF Threshold Voltage"
   },
   {
     "part_number": "LM2596",
     "page_number": 9,
-    "section": "Table 1 (page 9)",
+    "section": "7.10 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM2596, table on page 9] Figure 7-7. Operating Quiescent Current: Figure 7-11. ON/OFF Pin Current (Sinking); Figure 7-8. Shutdown Quiescent Current: Figure 7-12. Switching Frequency"
+    "content": "[LM2596, 7.10 Typical Characteristics, page 9] Figure 7-7. Operating Quiescent Current: Figure 7-11. ON/OFF Pin Current (Sinking); Figure 7-8. Shutdown Quiescent Current: Figure 7-12. Switching Frequency"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 1 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] Figure 9-5. LM2596-3.3: Figure 9-7. LM2596-12; Figure 9-6. LM2596-5.0: Figure 9-8. LM2596-ADJ"
+    "content": "[LM2596, 9.1 Application Information, page 20] Figure 9-5. LM2596-3.3: Figure 9-7. LM2596-12; Figure 9-6. LM2596-5.0: Figure 9-8. LM2596-ADJ"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: (\u03bcH); CURRENT: (A); SCH OTT: THROUGH-\nHOLE; RENCO: THROUGH-\nHOLE; PULSE ENGINEERING: THROUGH-\nHOLE; COIL CRAFT: SURFACE-\nMOUNT"
+    "content": "[LM2596, 9.1 Application Information, page 20] INDUCTANCE: (\u03bcH); CURRENT: (A); SCH OTT: THROUGH-\nHOLE; SURFACE-\nMOUNT; RENCO: THROUGH-\nHOLE; SURFACE-\nMOUNT; PULSE ENGINEERING: THROUGH-\nHOLE; SURFACE-\nMOUNT; COIL CRAFT: SURFACE-\nMOUNT"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 22; CURRENT: 0.99; SCH OTT: 67148350; RENCO: RL-1284-22-4\n3; PULSE ENGINEERING: PE-53815; COIL CRAFT: DO3308-223"
+    "content": "[LM2596, 9.1 Application Information, page 20] L15; INDUCTANCE: 22; CURRENT: 0.99; SCH OTT: 67148350; 67148460; RENCO: RL-1284-22-4\n3; RL1500-22; PULSE ENGINEERING: PE-53815; PE-53815-S; COIL CRAFT: DO3308-223"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 68; CURRENT: 0.99; SCH OTT: 67144070; RENCO: RL-5471-5; PULSE ENGINEERING: PE-53821; COIL CRAFT: DO3316-683"
+    "content": "[LM2596, 9.1 Application Information, page 20] L21; INDUCTANCE: 68; CURRENT: 0.99; SCH OTT: 67144070; 67144450; RENCO: RL-5471-5; RL1500-68; PULSE ENGINEERING: PE-53821; PE-53821-S; COIL CRAFT: DO3316-683"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 47; CURRENT: 1.17; SCH OTT: 67144080; RENCO: RL-5471-6; PULSE ENGINEERING: PE-53822; COIL CRAFT: DO3316-473"
+    "content": "[LM2596, 9.1 Application Information, page 20] L22; INDUCTANCE: 47; CURRENT: 1.17; SCH OTT: 67144080; 67144460; RENCO: RL-5471-6; \u2014; PULSE ENGINEERING: PE-53822; PE-53822-S; COIL CRAFT: DO3316-473"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 33; CURRENT: 1.40; SCH OTT: 67144090; RENCO: RL-5471-7; PULSE ENGINEERING: PE-53823; COIL CRAFT: DO3316-333"
+    "content": "[LM2596, 9.1 Application Information, page 20] L23; INDUCTANCE: 33; CURRENT: 1.40; SCH OTT: 67144090; 67144470; RENCO: RL-5471-7; \u2014; PULSE ENGINEERING: PE-53823; PE-53823-S; COIL CRAFT: DO3316-333"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 22; CURRENT: 1.70; SCH OTT: 67148370; RENCO: RL-1283-22-4\n3; PULSE ENGINEERING: PE-53824; COIL CRAFT: DO3316-223"
+    "content": "[LM2596, 9.1 Application Information, page 20] L24; INDUCTANCE: 22; CURRENT: 1.70; SCH OTT: 67148370; 67148480; RENCO: RL-1283-22-4\n3; \u2014; PULSE ENGINEERING: PE-53824; PE-53825-S; COIL CRAFT: DO3316-223"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 15; CURRENT: 2.10; SCH OTT: 67148380; RENCO: RL-1283-15-4\n3; PULSE ENGINEERING: PE-53825; COIL CRAFT: DO3316-153"
+    "content": "[LM2596, 9.1 Application Information, page 20] L25; INDUCTANCE: 15; CURRENT: 2.10; SCH OTT: 67148380; 67148490; RENCO: RL-1283-15-4\n3; \u2014; PULSE ENGINEERING: PE-53825; PE-53824-S; COIL CRAFT: DO3316-153"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 330; CURRENT: 0.80; SCH OTT: 67144100; RENCO: RL-5471-1; PULSE ENGINEERING: PE-53826; COIL CRAFT: DO5022P-334"
+    "content": "[LM2596, 9.1 Application Information, page 20] L26; INDUCTANCE: 330; CURRENT: 0.80; SCH OTT: 67144100; 67144480; RENCO: RL-5471-1; \u2014; PULSE ENGINEERING: PE-53826; PE-53826-S; COIL CRAFT: DO5022P-334"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 220; CURRENT: 1.00; SCH OTT: 67144110; RENCO: RL-5471-2; PULSE ENGINEERING: PE-53827; COIL CRAFT: DO5022P-224"
+    "content": "[LM2596, 9.1 Application Information, page 20] L27; INDUCTANCE: 220; CURRENT: 1.00; SCH OTT: 67144110; 67144490; RENCO: RL-5471-2; \u2014; PULSE ENGINEERING: PE-53827; PE-53827-S; COIL CRAFT: DO5022P-224"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 150; CURRENT: 1.20; SCH OTT: 67144120; RENCO: RL-5471-3; PULSE ENGINEERING: PE-53828; COIL CRAFT: DO5022P-154"
+    "content": "[LM2596, 9.1 Application Information, page 20] L28; INDUCTANCE: 150; CURRENT: 1.20; SCH OTT: 67144120; 67144500; RENCO: RL-5471-3; \u2014; PULSE ENGINEERING: PE-53828; PE-53828-S; COIL CRAFT: DO5022P-154"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 100; CURRENT: 1.47; SCH OTT: 67144130; RENCO: RL-5471-4; PULSE ENGINEERING: PE-53829; COIL CRAFT: DO5022P-104"
+    "content": "[LM2596, 9.1 Application Information, page 20] L29; INDUCTANCE: 100; CURRENT: 1.47; SCH OTT: 67144130; 67144510; RENCO: RL-5471-4; \u2014; PULSE ENGINEERING: PE-53829; PE-53829-S; COIL CRAFT: DO5022P-104"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 68; CURRENT: 1.78; SCH OTT: 67144140; RENCO: RL-5471-5; PULSE ENGINEERING: PE-53830; COIL CRAFT: DO5022P-683"
+    "content": "[LM2596, 9.1 Application Information, page 20] L30; INDUCTANCE: 68; CURRENT: 1.78; SCH OTT: 67144140; 67144520; RENCO: RL-5471-5; \u2014; PULSE ENGINEERING: PE-53830; PE-53830-S; COIL CRAFT: DO5022P-683"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 47; CURRENT: 2.20; SCH OTT: 67144150; RENCO: RL-5471-6; PULSE ENGINEERING: PE-53831; COIL CRAFT: DO5022P-473"
+    "content": "[LM2596, 9.1 Application Information, page 20] L31; INDUCTANCE: 47; CURRENT: 2.20; SCH OTT: 67144150; 67144530; RENCO: RL-5471-6; \u2014; PULSE ENGINEERING: PE-53831; PE-53831-S; COIL CRAFT: DO5022P-473"
   },
   {
     "part_number": "LM2596",
     "page_number": 20,
-    "section": "Table 2 (page 20)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 20] INDUCTANCE: 33; CURRENT: 2.50; SCH OTT: 67144160; RENCO: RL-5471-7; PULSE ENGINEERING: PE-53932; COIL CRAFT: DO5022P-333"
+    "content": "[LM2596, 9.1 Application Information, page 20] L32; INDUCTANCE: 33; CURRENT: 2.50; SCH OTT: 67144160; 67144540; RENCO: RL-5471-7; \u2014; PULSE ENGINEERING: PE-53932; PE-53932-S; COIL CRAFT: DO5022P-333"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: (\u03bcH); CURRENT: (A); SCH OTT: THROUGH-\nHOLE; RENCO: THROUGH-\nHOLE; PULSE ENGINEERING: THROUGH-\nHOLE; COIL CRAFT: SURFACE-\nMOUNT"
+    "content": "[LM2596, 9.1 Application Information, page 21] INDUCTANCE: (\u03bcH); CURRENT: (A); SCH OTT: THROUGH-\nHOLE; SURFACE-\nMOUNT; RENCO: THROUGH-\nHOLE; SURFACE-\nMOUNT; PULSE ENGINEERING: THROUGH-\nHOLE; SURFACE-\nMOUNT; COIL CRAFT: SURFACE-\nMOUNT"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 22; CURRENT: 3.10; SCH OTT: 67148390; RENCO: RL-1283-22-4\n3; PULSE ENGINEERING: PE-53933; COIL CRAFT: DO5022P-223"
+    "content": "[LM2596, 9.1 Application Information, page 21] L33; INDUCTANCE: 22; CURRENT: 3.10; SCH OTT: 67148390; 67148500; RENCO: RL-1283-22-4\n3; \u2014; PULSE ENGINEERING: PE-53933; PE-53933-S; COIL CRAFT: DO5022P-223"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 15; CURRENT: 3.40; SCH OTT: 67148400; RENCO: RL-1283-15-4\n3; PULSE ENGINEERING: PE-53934; COIL CRAFT: DO5022P-153"
+    "content": "[LM2596, 9.1 Application Information, page 21] L34; INDUCTANCE: 15; CURRENT: 3.40; SCH OTT: 67148400; 67148790; RENCO: RL-1283-15-4\n3; \u2014; PULSE ENGINEERING: PE-53934; PE-53934-S; COIL CRAFT: DO5022P-153"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 220; CURRENT: 1.70; SCH OTT: 67144170; RENCO: RL-5473-1; PULSE ENGINEERING: PE-53935; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L35; INDUCTANCE: 220; CURRENT: 1.70; SCH OTT: 67144170; \u2014; RENCO: RL-5473-1; \u2014; PULSE ENGINEERING: PE-53935; PE-53935-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 150; CURRENT: 2.10; SCH OTT: 67144180; RENCO: RL-5473-4; PULSE ENGINEERING: PE-54036; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L36; INDUCTANCE: 150; CURRENT: 2.10; SCH OTT: 67144180; \u2014; RENCO: RL-5473-4; \u2014; PULSE ENGINEERING: PE-54036; PE-54036-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 100; CURRENT: 2.50; SCH OTT: 67144190; RENCO: RL-5472-1; PULSE ENGINEERING: PE-54037; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L37; INDUCTANCE: 100; CURRENT: 2.50; SCH OTT: 67144190; \u2014; RENCO: RL-5472-1; \u2014; PULSE ENGINEERING: PE-54037; PE-54037-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 68; CURRENT: 3.10; SCH OTT: 67144200; RENCO: RL-5472-2; PULSE ENGINEERING: PE-54038; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L38; INDUCTANCE: 68; CURRENT: 3.10; SCH OTT: 67144200; \u2014; RENCO: RL-5472-2; \u2014; PULSE ENGINEERING: PE-54038; PE-54038-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 47; CURRENT: 3.50; SCH OTT: 67144210; RENCO: RL-5472-3; PULSE ENGINEERING: PE-54039; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L39; INDUCTANCE: 47; CURRENT: 3.50; SCH OTT: 67144210; \u2014; RENCO: RL-5472-3; \u2014; PULSE ENGINEERING: PE-54039; PE-54039-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 33; CURRENT: 3.50; SCH OTT: 67144220; RENCO: RL-5472-4; PULSE ENGINEERING: PE-54040; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L40; INDUCTANCE: 33; CURRENT: 3.50; SCH OTT: 67144220; 67148290; RENCO: RL-5472-4; \u2014; PULSE ENGINEERING: PE-54040; PE-54040-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 22; CURRENT: 3.50; SCH OTT: 67144230; RENCO: RL-5472-5; PULSE ENGINEERING: PE-54041; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L41; INDUCTANCE: 22; CURRENT: 3.50; SCH OTT: 67144230; 67148300; RENCO: RL-5472-5; \u2014; PULSE ENGINEERING: PE-54041; PE-54041-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 150; CURRENT: 2.70; SCH OTT: 67148410; RENCO: RL-5473-4; PULSE ENGINEERING: PE-54042; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L42; INDUCTANCE: 150; CURRENT: 2.70; SCH OTT: 67148410; \u2014; RENCO: RL-5473-4; \u2014; PULSE ENGINEERING: PE-54042; PE-54042-S; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 100; CURRENT: 3.40; SCH OTT: 67144240; RENCO: RL-5473-2; PULSE ENGINEERING: PE-54043; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L43; INDUCTANCE: 100; CURRENT: 3.40; SCH OTT: 67144240; \u2014; RENCO: RL-5473-2; \u2014; PULSE ENGINEERING: PE-54043; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 21,
-    "section": "Table 1 (page 21)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 21] INDUCTANCE: 68; CURRENT: 3.40; SCH OTT: 67144250; RENCO: RL-5473-3; PULSE ENGINEERING: PE-54044; COIL CRAFT: \u2014"
+    "content": "[LM2596, 9.1 Application Information, page 21] L44; INDUCTANCE: 68; CURRENT: 3.40; SCH OTT: 67144250; \u2014; RENCO: RL-5473-3; \u2014; PULSE ENGINEERING: PE-54044; COIL CRAFT: \u2014"
   },
   {
     "part_number": "LM2596",
     "page_number": 23,
-    "section": "Table 1 (page 23)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 23] PARAMETER: Regulated Output Voltage (3.3 V, 5 V or 12 V),\nV\nOUT; EXAMPLE VALUE: 5 V"
+    "content": "[LM2596, 9.1 Application Information, page 23] PARAMETER: Regulated Output Voltage (3.3 V, 5 V or 12 V),\nV\nOUT; EXAMPLE VALUE: 5 V"
   },
   {
     "part_number": "LM2596",
     "page_number": 23,
-    "section": "Table 1 (page 23)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 23] PARAMETER: Maximum DC Input Voltage, V (max)\nIN; EXAMPLE VALUE: 12 V"
+    "content": "[LM2596, 9.1 Application Information, page 23] PARAMETER: Maximum DC Input Voltage, V (max)\nIN; EXAMPLE VALUE: 12 V"
   },
   {
     "part_number": "LM2596",
     "page_number": 23,
-    "section": "Table 1 (page 23)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 23] PARAMETER: Maximum Load Current, I (max)\nLOAD; EXAMPLE VALUE: 3 A"
+    "content": "[LM2596, 9.1 Application Information, page 23] PARAMETER: Maximum Load Current, I (max)\nLOAD; EXAMPLE VALUE: 3 A"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] OUTPUT CAPACITOR: THROUGH-HOLE ELECTROLYTIC"
+    "content": "[LM2596, 9.1 Application Information, page 25] OUTPUT CAPACITOR: THROUGH-HOLE ELECTROLYTIC; SURFACE-MOUNT TANTALUM"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] CONDITIONS: OUTPUT\nVOLTAGE\n(V); INDUCTOR: INDUCTANCE\n(\u03bcH); OUTPUT CAPACITOR: PANA SON IC\nHFQ SERIES\n(\u03bcF/V)"
+    "content": "[LM2596, 9.1 Application Information, page 25] CONDITIONS: OUTPUT\nVOLTAGE\n(V); LOAD\nCURRENT\n(A); MAX INPUT\nVOLTAGE\n(V); INDUCTOR: INDUCTANCE\n(\u03bcH); INDUCTOR\n(#); OUTPUT CAPACITOR: PANA SON IC\nHFQ SERIES\n(\u03bcF/V); NI CHIC ON\nPL SERIES\n(\u03bcF/V); AVX TPS\nSERIES\n(\u03bcF/V); S PRAGUE\n595D SERIES\n(\u03bcF/V)"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] CONDITIONS: 3.3; INDUCTOR: 22; OUTPUT CAPACITOR: 470/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] CONDITIONS: 3.3; 3; 5; INDUCTOR: 22; L41; OUTPUT CAPACITOR: 470/25; 560/16; 330/6.3; 390/6.3"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 22; OUTPUT CAPACITOR: 560/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 7; INDUCTOR: 22; L41; OUTPUT CAPACITOR: 560/35; 560/35; 330/6.3; 390/6.3"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 22; OUTPUT CAPACITOR: 680/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 10; INDUCTOR: 22; L41; OUTPUT CAPACITOR: 680/35; 680/35; 330/6.3; 390/6.3"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 33; OUTPUT CAPACITOR: 560/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 40; INDUCTOR: 33; L40; OUTPUT CAPACITOR: 560/35; 470/35; 330/6.3; 390/6.3"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 22; OUTPUT CAPACITOR: 470/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 6; INDUCTOR: 22; L33; OUTPUT CAPACITOR: 470/25; 470/35; 330/6.3; 390/6.3"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 33; OUTPUT CAPACITOR: 330/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 2; 10; INDUCTOR: 33; L32; OUTPUT CAPACITOR: 330/35; 330/35; 330/6.3; 390/6.3"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 47; OUTPUT CAPACITOR: 330/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 40; INDUCTOR: 47; L39; OUTPUT CAPACITOR: 330/35; 270/50; 220/10; 330/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] CONDITIONS: 5; INDUCTOR: 22; OUTPUT CAPACITOR: 470/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] CONDITIONS: 5; 3; 8; INDUCTOR: 22; L41; OUTPUT CAPACITOR: 470/25; 560/16; 220/10; 330/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 22; OUTPUT CAPACITOR: 560/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 10; INDUCTOR: 22; L41; OUTPUT CAPACITOR: 560/25; 560/25; 220/10; 330/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 33; OUTPUT CAPACITOR: 330/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 15; INDUCTOR: 33; L40; OUTPUT CAPACITOR: 330/35; 330/35; 220/10; 330/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 47; OUTPUT CAPACITOR: 330/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 40; INDUCTOR: 47; L39; OUTPUT CAPACITOR: 330/35; 270/35; 220/10; 330/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 22; OUTPUT CAPACITOR: 470/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 9; INDUCTOR: 22; L33; OUTPUT CAPACITOR: 470/25; 560/16; 220/10; 330/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 68; OUTPUT CAPACITOR: 180/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 2; 20; INDUCTOR: 68; L38; OUTPUT CAPACITOR: 180/35; 180/35; 100/10; 270/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 68; OUTPUT CAPACITOR: 180/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 40; INDUCTOR: 68; L38; OUTPUT CAPACITOR: 180/35; 180/35; 100/10; 270/10"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] CONDITIONS: 12; INDUCTOR: 22; OUTPUT CAPACITOR: 470/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] CONDITIONS: 12; 3; 15; INDUCTOR: 22; L41; OUTPUT CAPACITOR: 470/25; 470/25; 100/16; 180/16"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 33; OUTPUT CAPACITOR: 330/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 18; INDUCTOR: 33; L40; OUTPUT CAPACITOR: 330/25; 330/25; 100/16; 180/16"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 68; OUTPUT CAPACITOR: 180/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 30; INDUCTOR: 68; L44; OUTPUT CAPACITOR: 180/25; 180/25; 100/16; 120/20"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 68; OUTPUT CAPACITOR: 180/35"
+    "content": "[LM2596, 9.1 Application Information, page 25] 40; INDUCTOR: 68; L44; OUTPUT CAPACITOR: 180/35; 180/35; 100/16; 120/20"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 33; OUTPUT CAPACITOR: 330/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 15; INDUCTOR: 33; L32; OUTPUT CAPACITOR: 330/25; 330/25; 100/16; 180/16"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 68; OUTPUT CAPACITOR: 180/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 2; 20; INDUCTOR: 68; L38; OUTPUT CAPACITOR: 180/25; 180/25; 100/16; 120/20"
   },
   {
     "part_number": "LM2596",
     "page_number": 25,
-    "section": "Table 1 (page 25)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 25] INDUCTOR: 150; OUTPUT CAPACITOR: 82/25"
+    "content": "[LM2596, 9.1 Application Information, page 25] 40; INDUCTOR: 150; L42; OUTPUT CAPACITOR: 82/25; 82/25; 68/20; 68/25"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: SURFACE-MOUNT; 4-A TO 6-A DIODES: SURFACE-MOUNT"
+    "content": "[LM2596, 9.1 Application Information, page 26] VR; 3-A DIODES: SURFACE-MOUNT; THROUGH-HOLE; 4-A TO 6-A DIODES: SURFACE-MOUNT; THROUGH-HOLE"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: SCH OTT KY; 4-A TO 6-A DIODES: SCH OTT KY"
+    "content": "[LM2596, 9.1 Application Information, page 26] 3-A DIODES: SCH OTT KY; ULTRA FAST\nRECOVERY; SCH OTT KY; ULTRA FAST\nRECOVERY; 4-A TO 6-A DIODES: SCH OTT KY; ULTRA FAST\nRECOVERY; SCH OTT KY; ULTRA FAST\nRECOVERY"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: SK32"
+    "content": "[LM2596, 9.1 Application Information, page 26] 20 V; All of\nthese\ndiodes\nare\nrated to\nat least\n50V.; 1N5820; All of\nthese\ndiodes\nare\nrated to\nat least\n50V.; All of\nthese\ndiodes\nare\nrated to\nat least\n50V.; SR502; All of\nthese\ndiodes\nare\nrated to\nat least\n50V."
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: 30WQ03"
+    "content": "[LM2596, 9.1 Application Information, page 26] 3-A DIODES: SK32; SR302; 1N5823"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: SK33; 4-A TO 6-A DIODES: 50WQ03"
+    "content": "[LM2596, 9.1 Application Information, page 26] MBR320; SB520"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: SK34; 4-A TO 6-A DIODES: 50WQ04"
+    "content": "[LM2596, 9.1 Application Information, page 26] 30 V; 3-A DIODES: 30WQ03; 1N5821"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: MBRS340"
+    "content": "[LM2596, 9.1 Application Information, page 26] 3-A DIODES: SK33; MBR330; 4-A TO 6-A DIODES: 50WQ03; SR503"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: 30WQ04"
+    "content": "[LM2596, 9.1 Application Information, page 26] 31DQ03; 1N5824"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: SK35"
+    "content": "[LM2596, 9.1 Application Information, page 26] 1N5822; SB530"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: MBRS360; 4-A TO 6-A DIODES: 50WQ05"
+    "content": "[LM2596, 9.1 Application Information, page 26] 40 V; 3-A DIODES: SK34; SR304; 4-A TO 6-A DIODES: 50WQ04; SR504"
   },
   {
     "part_number": "LM2596",
     "page_number": 26,
-    "section": "Table 1 (page 26)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 26] 3-A DIODES: 30WQ05"
+    "content": "[LM2596, 9.1 Application Information, page 26] 3-A DIODES: MBRS340; MBR340; 1N5825"
+  },
+  {
+    "part_number": "LM2596",
+    "page_number": 26,
+    "section": "9.1 Application Information",
+    "type": "table_row",
+    "content": "[LM2596, 9.1 Application Information, page 26] 3-A DIODES: 30WQ04; MURS320; 31DQ04; MUR320; MURS620; SB540; MUR620"
+  },
+  {
+    "part_number": "LM2596",
+    "page_number": 26,
+    "section": "9.1 Application Information",
+    "type": "table_row",
+    "content": "[LM2596, 9.1 Application Information, page 26] 50 V; 3-A DIODES: SK35; 30WF10; SR305; 50WF10; HER601"
+  },
+  {
+    "part_number": "LM2596",
+    "page_number": 26,
+    "section": "9.1 Application Information",
+    "type": "table_row",
+    "content": "[LM2596, 9.1 Application Information, page 26] or; 3-A DIODES: MBRS360; MBR350; 4-A TO 6-A DIODES: 50WQ05; SB550"
+  },
+  {
+    "part_number": "LM2596",
+    "page_number": 26,
+    "section": "9.1 Application Information",
+    "type": "table_row",
+    "content": "[LM2596, 9.1 Application Information, page 26] More; 3-A DIODES: 30WQ05; 31DQ05; 50SQ080"
   },
   {
     "part_number": "LM2596",
     "page_number": 28,
-    "section": "Table 1 (page 28)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 28] PARAMETER: Regulated output voltage (3.3V, 5V or 12V), V\nOUT; EXAMPLE VALUE: 20 V"
+    "content": "[LM2596, 9.1 Application Information, page 28] PARAMETER: Regulated output voltage (3.3V, 5V or 12V), V\nOUT; EXAMPLE VALUE: 20 V"
   },
   {
     "part_number": "LM2596",
     "page_number": 28,
-    "section": "Table 1 (page 28)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 28] PARAMETER: Maximum DC input voltage, V (max)\nIN; EXAMPLE VALUE: 28 V"
+    "content": "[LM2596, 9.1 Application Information, page 28] PARAMETER: Maximum DC input voltage, V (max)\nIN; EXAMPLE VALUE: 28 V"
   },
   {
     "part_number": "LM2596",
     "page_number": 28,
-    "section": "Table 1 (page 28)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 28] PARAMETER: Maximum load current, I (max)\nLOAD; EXAMPLE VALUE: 3 A"
+    "content": "[LM2596, 9.1 Application Information, page 28] PARAMETER: Maximum load current, I (max)\nLOAD; EXAMPLE VALUE: 3 A"
   },
   {
     "part_number": "LM2596",
     "page_number": 28,
-    "section": "Table 1 (page 28)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 28] PARAMETER: Switching frequency, F; EXAMPLE VALUE: Fixed at a nominal 150 kHz"
+    "content": "[LM2596, 9.1 Application Information, page 28] PARAMETER: Switching frequency, F; EXAMPLE VALUE: Fixed at a nominal 150 kHz"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: VOLTAGE\n(V); THROUGH-HOLE OUTPUT CAPACITOR: PANA SON IC\nHFQ SERIES\n(\u03bcF/V); SURFACE-MOUNT OUTPUT CAPACITOR: AVX TPS\nSERIES\n(\u03bcF/V)"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: VOLTAGE\n(V); THROUGH-HOLE OUTPUT CAPACITOR: PANA SON IC\nHFQ SERIES\n(\u03bcF/V); NI CHIC ON PL\nSERIES\n(\u03bcF/V); FEED FORWARD\nCAPACITOR; SURFACE-MOUNT OUTPUT CAPACITOR: AVX TPS\nSERIES\n(\u03bcF/V); S PRAGUE\n595D SERIES\n(\u03bcF/V); FEED FORWARD\nCAPACITOR"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 2; THROUGH-HOLE OUTPUT CAPACITOR: 820/35; SURFACE-MOUNT OUTPUT CAPACITOR: 330/6.3"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 2; THROUGH-HOLE OUTPUT CAPACITOR: 820/35; 820/35; 33 nF; SURFACE-MOUNT OUTPUT CAPACITOR: 330/6.3; 470/4; 33 nF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 4; THROUGH-HOLE OUTPUT CAPACITOR: 560/35; SURFACE-MOUNT OUTPUT CAPACITOR: 330/6.3"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 4; THROUGH-HOLE OUTPUT CAPACITOR: 560/35; 470/35; 10 nF; SURFACE-MOUNT OUTPUT CAPACITOR: 330/6.3; 390/6.3; 10 nF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 6; THROUGH-HOLE OUTPUT CAPACITOR: 470/25; SURFACE-MOUNT OUTPUT CAPACITOR: 220/10"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 6; THROUGH-HOLE OUTPUT CAPACITOR: 470/25; 470/25; 3.3 nF; SURFACE-MOUNT OUTPUT CAPACITOR: 220/10; 330/10; 3.3 nF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 9; THROUGH-HOLE OUTPUT CAPACITOR: 330/25; SURFACE-MOUNT OUTPUT CAPACITOR: 100/16"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 9; THROUGH-HOLE OUTPUT CAPACITOR: 330/25; 330/25; 1.5 nF; SURFACE-MOUNT OUTPUT CAPACITOR: 100/16; 180/16; 1.5 nF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 1 2; THROUGH-HOLE OUTPUT CAPACITOR: 330/25; SURFACE-MOUNT OUTPUT CAPACITOR: 100/16"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 1 2; THROUGH-HOLE OUTPUT CAPACITOR: 330/25; 330/25; 1 nF; SURFACE-MOUNT OUTPUT CAPACITOR: 100/16; 180/16; 1 nF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 1 5; THROUGH-HOLE OUTPUT CAPACITOR: 220/35; SURFACE-MOUNT OUTPUT CAPACITOR: 68/20"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 1 5; THROUGH-HOLE OUTPUT CAPACITOR: 220/35; 220/35; 680 pF; SURFACE-MOUNT OUTPUT CAPACITOR: 68/20; 120/20; 680 pF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 2 4; THROUGH-HOLE OUTPUT CAPACITOR: 220/35; SURFACE-MOUNT OUTPUT CAPACITOR: 33/25"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 2 4; THROUGH-HOLE OUTPUT CAPACITOR: 220/35; 150/35; 560 pF; SURFACE-MOUNT OUTPUT CAPACITOR: 33/25; 33/25; 220 pF"
   },
   {
     "part_number": "LM2596",
     "page_number": 30,
-    "section": "Table 1 (page 30)",
+    "section": "9.1 Application Information",
     "type": "table_row",
-    "content": "[LM2596, table on page 30] OUTPUT: 2 8; THROUGH-HOLE OUTPUT CAPACITOR: 100/50; SURFACE-MOUNT OUTPUT CAPACITOR: 10/35"
+    "content": "[LM2596, 9.1 Application Information, page 30] OUTPUT: 2 8; THROUGH-HOLE OUTPUT CAPACITOR: 100/50; 100/50; 390 pF; SURFACE-MOUNT OUTPUT CAPACITOR: 10/35; 15/50; 220 pF"
   },
   {
     "part_number": "LM2596",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "9.4.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM2596, table on page 34] Inductor: Diode; Through-hole, Renco: Through-hole, 5-A 40-V, Sch ott ky"
+    "content": "[LM2596, 9.4.2 Layout Examples, page 34] Inductor: Diode; Through-hole, Renco: Through-hole, 5-A 40-V, Sch ott ky"
   },
   {
     "part_number": "LM2596",
     "page_number": 34,
-    "section": "Table 1 (page 34)",
+    "section": "9.4.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM2596, table on page 34] Inductor: PCB; Through-hole, Renco: 3-square inch, single-sided, 2-oz. copper (0.0028\u2033)"
+    "content": "[LM2596, 9.4.2 Layout Examples, page 34] Inductor: PCB; Through-hole, Renco: 3-square inch, single-sided, 2-oz. copper (0.0028\u2033)"
   },
   {
     "part_number": "LM2596",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "9.4.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM2596, table on page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): Capacitors"
+    "content": "[LM2596, 9.4.2 Layout Examples, page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): Capacitors; Surface-mount tantalum, molded D size"
   },
   {
     "part_number": "LM2596",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "9.4.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM2596, table on page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): Inductor"
+    "content": "[LM2596, 9.4.2 Layout Examples, page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): Inductor; Surface-mount, Pulse Engineering, 68 \u03bcH"
   },
   {
     "part_number": "LM2596",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "9.4.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM2596, table on page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): Diode"
+    "content": "[LM2596, 9.4.2 Layout Examples, page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): Diode; Surface-mount, 5-A 40-V, Sch ott ky"
   },
   {
     "part_number": "LM2596",
     "page_number": 34,
-    "section": "Table 2 (page 34)",
+    "section": "9.4.2 Layout Examples",
     "type": "table_row",
-    "content": "[LM2596, table on page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): PCB"
+    "content": "[LM2596, 9.4.2 Layout Examples, page 34] CIRCUIT DATA FOR TEMPERATURE RISE CURVE TO-263 PACKAGE (S): PCB; 9-square inch, single-sided, 2-oz. copper (0.0028\u2033)"
   },
   {
     "part_number": "LM2596",
     "page_number": 37,
-    "section": "Table 1 (page 37)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 37] Status\n(1): Active; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; RoHS\n(3): ROHS Exempt; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Part marking\n(6): LM2596S\n-ADJ P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-12/LF03; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-12/LF03.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-12/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-12/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-12 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-3.3/LF03; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-3.3/LF03.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-3.3/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-3.3/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-3.3 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-5.0/LF03; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-5.0/LF03.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-5.0/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-5.0/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-5.0 P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-ADJ/LF02; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NEB) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -; Part marking\n(6): LM2596T\n-ADJ P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-ADJ/LF02.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NEB) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-ADJ P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-ADJ/NOPB; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-ADJ P+"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 38,
-    "section": "Table 1 (page 38)",
-    "type": "table_row",
-    "content": "[LM2596, table on page 38] Order able part number: LM2596T-ADJ/NOPB.B; Status\n(1): Active; Material type\n(2): Production; Package | Pins: TO-220 (NDH) | 5; Package qty | Carrier: 45 | TUBE; RoHS\n(3): Yes; Lead finish/\nBall material\n(4): SN; MSL rating/\nPeak re flow\n(5): Level-1-NA-UNLIM; Op temp (\u00b0C): -40 to 125; Part marking\n(6): LM2596T\n-ADJ P+"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 37] Status\n(1): Active; Package | Pins: DDPAK/\nTO-263 (KTT) | 5; RoHS\n(3): ROHS Exempt; MSL rating/\nPeak re flow\n(5): Level-3-245C-168 HR; Part marking\n(6): LM2596S\n-ADJ P+"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 7 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 7 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 7 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 7 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 9 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] Q1: Q3; Q2: Q4"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] Q1: Q3; Q2: Q4"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 10 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] Q1: Q3; Q2: Q4"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] Q1: Q3; Q2: Q4"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 11 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] Device: LM2596SX-12/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] Device: LM2596SX-12/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 11 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] Device: LM2596SX-3.3/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] Device: LM2596SX-3.3/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 11 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] Device: LM2596SX-5.0/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] Device: LM2596SX-5.0/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
   },
   {
     "part_number": "LM2596",
     "page_number": 40,
-    "section": "Table 11 (page 40)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 40] Device: LM2596SX-ADJ/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 40] Device: LM2596SX-ADJ/NOPB; Package\nType: DDPAK/\nTO-263; Package\nDrawing: KTT; Pins: 5; SPQ: 500; Reel\nDiameter\n(mm): 330.0; Reel\nWidth\nW1 (mm): 24.4; A0\n(mm): 10.75; B0\n(mm): 14.85; K0\n(mm): 5.0; P1\n(mm): 16.0; W\n(mm): 24.0; Pin1\nQuadrant: Q2"
   },
   {
     "part_number": "LM2596",
     "page_number": 41,
-    "section": "Table 2 (page 41)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 41] Device: LM2596SX-12/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 41] Device: LM2596SX-12/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
   },
   {
     "part_number": "LM2596",
     "page_number": 41,
-    "section": "Table 2 (page 41)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 41] Device: LM2596SX-3.3/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 41] Device: LM2596SX-3.3/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
   },
   {
     "part_number": "LM2596",
     "page_number": 41,
-    "section": "Table 2 (page 41)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 41] Device: LM2596SX-5.0/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 41] Device: LM2596SX-5.0/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
   },
   {
     "part_number": "LM2596",
     "page_number": 41,
-    "section": "Table 2 (page 41)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 41] Device: LM2596SX-ADJ/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 41] Device: LM2596SX-ADJ/NOPB; Package Type: DDPAK/TO-263; Package Drawing: KTT; Pins: 5; SPQ: 500; Length (mm): 356.0; Width (mm): 356.0; Height (mm): 45.0"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-12/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-12/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-12/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-12/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-3.3/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-3.3/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-3.3/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-3.3/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-5.0/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-5.0/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-5.0/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-5.0/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-ADJ/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-ADJ/NOPB; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596S-ADJ/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596S-ADJ/NOPB.B; Package Name: KTT; Package Type: TO-263; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 25; T (\u00b5m): 8204.2; B (mm): 9.19"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-12/LF03; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-12/LF03; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-12/LF03.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-12/LF03.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-12/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-12/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-12/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-12/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-3.3/LF03; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-3.3/LF03; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-3.3/LF03.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-3.3/LF03.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-3.3/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-3.3/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-3.3/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-3.3/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-5.0/LF03; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-5.0/LF03; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-5.0/LF03.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-5.0/LF03.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-5.0/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-5.0/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-5.0/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-5.0/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-ADJ/LF02; Package Name: NEB; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-ADJ/LF02; Package Name: NEB; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-ADJ/LF02.B; Package Name: NEB; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-ADJ/LF02.B; Package Name: NEB; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-ADJ/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-ADJ/NOPB; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   },
   {
     "part_number": "LM2596",
     "page_number": 42,
-    "section": "Table 1 (page 42)",
+    "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM2596, table on page 42] Device: LM2596T-ADJ/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
+    "content": "[LM2596, PACKAGE OPTION ADDENDUM, page 42] Device: LM2596T-ADJ/NOPB.B; Package Name: NDH; Package Type: TO-220; Pins: 5; SPQ: 45; L (mm): 502; W (mm): 30; T (\u00b5m): 30048.2; B (mm): 10.74"
   }
 ]
