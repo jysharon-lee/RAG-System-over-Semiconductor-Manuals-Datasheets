@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "part_number": "LM317",
+    "question": "What is the maximum output current of the LM317?",
+    "expected_values": ["1.5"]
+  },
+  {
+    "id": 2,
+    "part_number": "TPS61030",
+    "question": "What is the junction-to-ambient thermal resistance for the TPS61030 in the PWP package?",
+    "expected_values": ["46.9"]
+  },
+  {
+    "id": 3,
+    "part_number": "TPS62840",
+    "question": "What is the typical quiescent current of the TPS62840?",
+    "expected_values": ["60"]
+  },
+  {
+    "id": 4,
+    "part_number": "TPS61030",
+    "question": "What is the recommended supply voltage range for the TPS61030?",
+    "expected_values": ["1.8", "5.5"]
+  },
+  {
+    "id": 5,
+    "part_number": "TPS61030",
+    "question": "What is the maximum input voltage on LBI for the TPS61030?",
+    "expected_values": ["3.6"]
+  }
+]
