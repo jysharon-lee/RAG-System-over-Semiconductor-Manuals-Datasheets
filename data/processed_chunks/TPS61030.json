@@ -6162,261 +6162,240 @@
   {
     "part_number": "TPS61030",
     "page_number": 3,
-    "section": "Pin Functions",
+    "section": "6 Device Comparison Table (1)",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] T\nA: -40\u00b0Cto85\u00b0C; OUTPUT VOLTAGE\nDC/DC: Adjustable; PACKAGE: 16-Pin TSSOP Power PAD\u2122; PART NUMBER(1): TPS61030"
+    "content": "[TPS61030, 6 Device Comparison Table (1), page 3] T\nA: -40\u00b0Cto85\u00b0C; OUTPUT VOLTAGE\nDC/DC: Adjustable; PACKAGE: 16-Pin TSSOP Power PAD\u2122; PART NUMBER(1): TPS61030"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "6 Device Comparison Table (1)",
+    "type": "table_row",
+    "content": "[TPS61030, 6 Device Comparison Table (1), page 3] OUTPUT VOLTAGE\nDC/DC: 3.3V; PART NUMBER(1): TPS61031"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "6 Device Comparison Table (1)",
+    "type": "table_row",
+    "content": "[TPS61030, 6 Device Comparison Table (1), page 3] OUTPUT VOLTAGE\nDC/DC: 5V; PART NUMBER(1): TPS61032"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "6 Device Comparison Table (1)",
+    "type": "table_row",
+    "content": "[TPS61030, 6 Device Comparison Table (1), page 3] OUTPUT VOLTAGE\nDC/DC: Adjustable; PACKAGE: 16-Pin QFN; PART NUMBER(1): TPS61030"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "6 Device Comparison Table (1)",
+    "type": "table_row",
+    "content": "[TPS61030, 6 Device Comparison Table (1), page 3] OUTPUT VOLTAGE\nDC/DC: 3.3V; PART NUMBER(1): TPS61031"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 3,
+    "section": "6 Device Comparison Table (1)",
+    "type": "table_row",
+    "content": "[TPS61030, 6 Device Comparison Table (1), page 3] OUTPUT VOLTAGE\nDC/DC: 5V; PART NUMBER(1): TPS61032"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] OUTPUT VOLTAGE\nDC/DC: 3.3V; PART NUMBER(1): TPS61031"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: EN; PIN NO PWP: 9; . RSA: 11; I/O: I; DESCRIPTION: Enable input.(1/VBAT enabled,0/GND disabled)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] OUTPUT VOLTAGE\nDC/DC: 5V; PART NUMBER(1): TPS61032"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: FB; PIN NO PWP: 12; . RSA: 14; I/O: I; DESCRIPTION: Voltage feedback of adjustable versions"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] OUTPUT VOLTAGE\nDC/DC: Adjustable; PACKAGE: 16-Pin QFN; PART NUMBER(1): TPS61030"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: GND; PIN NO PWP: 11; . RSA: 13; I/O: I/O; DESCRIPTION: Control/logic ground"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] OUTPUT VOLTAGE\nDC/DC: 3.3V; PART NUMBER(1): TPS61031"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: LBI; PIN NO PWP: 7; . RSA: 9; I/O: I; DESCRIPTION: Low battery comparator input(comparator enabled with EN)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] OUTPUT VOLTAGE\nDC/DC: 5V; PART NUMBER(1): TPS61032"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: LBO; PIN NO PWP: 10; . RSA: 12; I/O: O; DESCRIPTION: Low battery comparator output(open drain)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] NAME; PIN: NO; ."
+    "content": "[TPS61030, Pin Functions, page 3] NAME: NC; PIN NO PWP: 16; . RSA: 2; DESCRIPTION: Not connected"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] PIN: PWP; RSA"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: PGND; PIN NO PWP: 3,4,5; . RSA: 5,6,7; I/O: I/O; DESCRIPTION: Power ground"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] EN; PIN: 9; 11; I/O: I; DESCRIPTION: Enable input.(1/VBAT enabled,0/GND disabled)"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: Power PAD\u2122; DESCRIPTION: Must be soldered to achieve appropriate power dissipation.Should be connected to\nPGND."
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] FB; PIN: 12; 14; I/O: I; DESCRIPTION: Voltage feedback of adjustable versions"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: SYNC; PIN NO PWP: 8; . RSA: 10; I/O: I; DESCRIPTION: Enable/disable power save mode(1/VBAT disabled,0/GND enabled,clock signal for\nsynchronization)"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] GND; PIN: 11; 13; I/O: I/O; DESCRIPTION: Control/logic ground"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: SW; PIN NO PWP: 1,2; . RSA: 3,4; I/O: I; DESCRIPTION: Boost and rectifying switch input"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] LBI; PIN: 7; 9; I/O: I; DESCRIPTION: Low battery comparator input(comparator enabled with EN)"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: VBAT; PIN NO PWP: 6; . RSA: 8; I/O: I; DESCRIPTION: Supply voltage"
   },
   {
     "part_number": "TPS61030",
     "page_number": 3,
     "section": "Pin Functions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] LBO; PIN: 10; 12; I/O: O; DESCRIPTION: Low battery comparator output(open drain)"
+    "content": "[TPS61030, Pin Functions, page 3] NAME: VOUT; PIN NO PWP: 13,14,15; . RSA: 1,15,16; I/O: O; DESCRIPTION: DC/DC output"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] NC; PIN: 16; 2; DESCRIPTION: Not connected"
+    "content": "[TPS61030, 8.1 Absolute Maximum Ratings, page 4] V\nI; Input voltage on LBI; MIN: \u20130.3; MAX: 3.6; UNIT: V"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] PGND; PIN: 3,4,5; 5,6,7; I/O: I/O; DESCRIPTION: Power ground"
+    "content": "[TPS61030, 8.1 Absolute Maximum Ratings, page 4] Input voltage on SW,VOUT,LBO,VBAT,SYNC,EN,FB; MIN: \u20130.3; MAX: 7; UNIT: V"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] Power PAD\u2122; DESCRIPTION: Must be soldered to achieve appropriate power dissipation.Should be connected to\nPGND."
+    "content": "[TPS61030, 8.1 Absolute Maximum Ratings, page 4] T\nJ; Maximum junction temperature; MIN: \u201340; MAX: 150; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] SYNC; PIN: 8; 10; I/O: I; DESCRIPTION: Enable/disable power save mode(1/VBAT disabled,0/GND enabled,clock signal for\nsynchronization)"
+    "content": "[TPS61030, 8.1 Absolute Maximum Ratings, page 4] T\nstg; Storage temperature range; MIN: \u201365; MAX: 150"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.2 ESD Ratings",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] SW; PIN: 1,2; 3,4; I/O: I; DESCRIPTION: Boost and rectifying switch input"
+    "content": "[TPS61030, 8.2 ESD Ratings, page 4] V\n(ESD); Electrostatic discharge; Human body model(HBM),per AN SI/ESDA/JE DEC JS-001,all\npins(1); MIN: \u20132000; MAX: 2000; UNIT: V"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.2 ESD Ratings",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] VBAT; PIN: 6; 8; I/O: I; DESCRIPTION: Supply voltage"
+    "content": "[TPS61030, 8.2 ESD Ratings, page 4] Charged device model(CDM),per JE DEC specification J ESD22-\nC101,all pins(2); MIN: \u20131000; MAX: 1000"
   },
   {
     "part_number": "TPS61030",
-    "page_number": 3,
-    "section": "Pin Functions",
+    "page_number": 4,
+    "section": "8.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[TPS61030, Pin Functions, page 3] VOUT; PIN: 13,14,15; 1,15,16; I/O: O; DESCRIPTION: DC/DC output"
+    "content": "[TPS61030, 8.3 Recommended Operating Conditions, page 4] V Supply voltage at VBAT\nI; MIN: 1.8; MAX: 5.5; UNIT: V"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 4,
+    "section": "8.3 Recommended Operating Conditions",
+    "type": "table_row",
+    "content": "[TPS61030, 8.3 Recommended Operating Conditions, page 4] T Operating ambient temperature range\nA; MIN: -40; MAX: 85; UNIT: \u00b0C"
+  },
+  {
+    "part_number": "TPS61030",
+    "page_number": 4,
+    "section": "8.3 Recommended Operating Conditions",
+    "type": "table_row",
+    "content": "[TPS61030, 8.3 Recommended Operating Conditions, page 4] T Operating virtual junction temperature range\nJ; MIN: -40; MAX: 125; UNIT: \u00b0C"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] V\nI; Input voltage on LBI; MIN: \u20130.3 3.6; UNIT: V"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] TPS6 PWP: 16PINS; 103x RSA: 16PINS"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] Input voltage on SW,VOUT,LBO,VBAT,SYNC,EN,FB; MIN: \u20130.3 7; UNIT: V"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-ambient thermal resistance\n\u03b8JA; TPS6 PWP: 46.9; 103x RSA: 35.5; UNIT: \u00b0C/W"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] T\nJ; Maximum junction temperature; MIN: \u201340 150; UNIT: \u00b0C"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-case(top)thermal resistance\n\u03b8JC(top); TPS6 PWP: 25.8; 103x RSA: 36.7"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] T\nstg; Storage temperature range; MIN: \u201365 150"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-board thermal resistance\n\u03b8JB; TPS6 PWP: 19.4; 103x RSA: 12.9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] V\n(ESD); Electrostatic discharge; Human body model(HBM),per AN SI/ESDA/JE DEC JS-001,all\npins(1); MIN: \u20132000 2000; UNIT: V"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] \u03c8 Junction-to-top characterization parameter\nJT; TPS6 PWP: 0.8; 103x RSA: 0.5"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] Charged device model(CDM),per JE DEC specification J ESD22-\nC101,all pins(2); MIN: \u20131000 1000"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] \u03c8 Junction-to-board characterization parameter\nJB; TPS6 PWP: 19.3; 103x RSA: 12.9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 4,
     "section": "8.4 Thermal Information",
     "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] V Supply voltage at VBAT\nI; MIN: 1.8 5.5; UNIT: V"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] T Operating ambient temperature range\nA; MIN: -40 85; UNIT: \u00b0C"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] T Operating virtual junction temperature range\nJ; MIN: -40 125; UNIT: \u00b0C"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] TPS6: PWP; 103x: RSA"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] TPS6: 16PINS; 103x: 16PINS"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-ambient thermal resistance\n\u03b8JA; TPS6: 46.9; 103x: 35.5; UNIT: \u00b0C/W"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-case(top)thermal resistance\n\u03b8JC(top); TPS6: 25.8; 103x: 36.7"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-board thermal resistance\n\u03b8JB; TPS6: 19.4; 103x: 12.9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] \u03c8 Junction-to-top characterization parameter\nJT; TPS6: 0.8; 103x: 0.5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] \u03c8 Junction-to-board characterization parameter\nJB; TPS6: 19.3; 103x: 12.9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 4,
-    "section": "8.4 Thermal Information",
-    "type": "table_row",
-    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-case(bottom)thermal resistance\n\u03b8JC(bot); TPS6: 2.2; 103x: 3.8"
+    "content": "[TPS61030, 8.4 Thermal Information, page 4] R Junction-to-case(bottom)thermal resistance\n\u03b8JC(bot); TPS6 PWP: 2.2; 103x RSA: 3.8"
   },
   {
     "part_number": "TPS61030",
@@ -6430,42 +6409,42 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V Input voltage range\nI; MIN: 1.8 5.5; UNIT: V"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V Input voltage range\nI; MIN: 1.8; MAX: 5.5; UNIT: V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V TPS61030output voltage range\nO; MIN: 1.8 5.5; UNIT: V"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V TPS61030output voltage range\nO; MIN: 1.8; MAX: 5.5; UNIT: V"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V TPS61030feedback voltage\nFB; MIN: 490 500 510; UNIT: mV"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V TPS61030feedback voltage\nFB; MIN: 490; TYP: 500; MAX: 510; UNIT: mV"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] f Oscillator frequency; MIN: 500 600 700; UNIT: kHz"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] f Oscillator frequency; MIN: 500; TYP: 600; MAX: 700; UNIT: kHz"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Frequency range for synchronization; MIN: 500 700; UNIT: kHz"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Frequency range for synchronization; MIN: 500; MAX: 700; UNIT: kHz"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Switch current limit; TEST CONDITIONS: VOUT=5V; MIN: 3600 4000 4500; UNIT: mA"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Switch current limit; TEST CONDITIONS: VOUT=5V; MIN: 3600; TYP: 4000; MAX: 4500; UNIT: mA"
   },
   {
     "part_number": "TPS61030",
@@ -6493,7 +6472,7 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Total accuracy; MIN: -3% 3%"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Total accuracy; MIN: -3%; MAX: 3%"
   },
   {
     "part_number": "TPS61030",
@@ -6514,21 +6493,21 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Quiescent current; TER: VBAT; TEST CONDITIONS: I =0mA,V =VBAT=1.8V,\nO EN\nVOUT=5V; MIN: 10 25; UNIT: \u00b5A"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Quiescent current; TER: VBAT; TEST CONDITIONS: I =0mA,V =VBAT=1.8V,\nO EN\nVOUT=5V; MIN: 10; MAX: 25; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] TER: VOUT; TEST CONDITIONS: I =0mA,V =VBAT=1.8V,\nO EN\nVOUT=5V; MIN: 10 20; UNIT: \u00b5A"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] TER: VOUT; TEST CONDITIONS: I =0mA,V =VBAT=1.8V,\nO EN\nVOUT=5V; MIN: 10; MAX: 20; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Shutdown current; TEST CONDITIONS: V =0V,VBAT=2.4V\nEN; MIN: 0.1 1; UNIT: \u00b5A"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] Shutdown current; TEST CONDITIONS: V =0V,VBAT=2.4V\nEN; MIN: 0.1; MAX: 1; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS61030",
@@ -6549,7 +6528,7 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V\nIL; PARA ME: LBI voltage threshold; TEST CONDITIONS: V voltage decreasing\nLBI; MIN: 490 500 510; UNIT: mV"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] V\nIL; PARA ME: LBI voltage threshold; TEST CONDITIONS: V voltage decreasing\nLBI; MIN: 490; TYP: 500; MAX: 510; UNIT: mV"
   },
   {
     "part_number": "TPS61030",
@@ -6563,14 +6542,14 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: LBI input current; TEST CONDITIONS: EN=VBAT or GND; MIN: 0.01 0.1; UNIT: \u00b5A"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: LBI input current; TEST CONDITIONS: EN=VBAT or GND; MIN: 0.01; MAX: 0.1; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS61030",
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: LBO output low voltage; TEST CONDITIONS: V =3.3V,I =100\u00b5A\nO OI; MIN: 0.04 0.4; UNIT: V"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: LBO output low voltage; TEST CONDITIONS: V =3.3V,I =100\u00b5A\nO OI; MIN: 0.04; MAX: 0.4; UNIT: V"
   },
   {
     "part_number": "TPS61030",
@@ -6584,7 +6563,7 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: LBO output leakage current; TEST CONDITIONS: V =7V\nLBO; MIN: 0.01 0.1; UNIT: \u00b5A"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: LBO output leakage current; TEST CONDITIONS: V =7V\nLBO; MIN: 0.01; MAX: 0.1; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS61030",
@@ -6605,7 +6584,7 @@
     "page_number": 5,
     "section": "8.5 Electrical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: EN,SYNC input current; TEST CONDITIONS: Clamped on GND or VBAT; MIN: 0.01 0.1; UNIT: \u00b5A"
+    "content": "[TPS61030, 8.5 Electrical Characteristics, page 5] PARA ME: EN,SYNC input current; TEST CONDITIONS: Clamped on GND or VBAT; MIN: 0.01; MAX: 0.1; UNIT: \u00b5A"
   },
   {
     "part_number": "TPS61030",
@@ -6626,84 +6605,49 @@
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER: Maximum output current; vs Input voltage; FIGURE: Figure1,\nFigure2"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Output current(TPS61032)(V =5.0V,V =2.4V,3.3V,VSYNC=0V)\nO I; FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure5"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER: Efficiency; vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I; FIGURE: Figure3"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Input voltage(TPS61031)(I =10mA,100mA,1000mA,VSYNC=0V)\nO; FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure6"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I; FIGURE: Figure4"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Input voltage(TPS61032)(I =10mA,100mA,1000mA,VSYNC=0V)\nO; FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure7"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Output current(TPS61032)(V =5.0V,V =2.4V,3.3V,VSYNC=0V)\nO I; FIGURE: Figure5"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER Maximum output current Efficiency: Output voltage; vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Output current(TPS61031)(V =2.4V)\nI; FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure8"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Input voltage(TPS61031)(I =10mA,100mA,1000mA,VSYNC=0V)\nO; FIGURE: Figure6"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Output current(TPS61032)(V =3.3V)\nI; FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure9"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Input voltage(TPS61032)(I =10mA,100mA,1000mA,VSYNC=0V)\nO; FIGURE: Figure7"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER Maximum output current Efficiency: No-load supply current into VBAT; vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Input voltage(TPS61032); FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure10"
   },
   {
     "part_number": "TPS61030",
     "page_number": 6,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER: Output voltage; vs Output current(TPS61031)(V =2.4V)\nI; FIGURE: Figure8"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "8.6 Typical Characteristics",
-    "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] vs Output current(TPS61032)(V =3.3V)\nI; FIGURE: Figure9"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "8.6 Typical Characteristics",
-    "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER: No-load supply current into VBAT; vs Input voltage(TPS61032); FIGURE: Figure10"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "8.6 Typical Characteristics",
-    "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER: No-load supply current into VOUT; vs Input voltage(TPS61032); FIGURE: Figure11"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 6,
-    "section": "8.6 Typical Characteristics",
-    "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER: Minimum Load Resistance at\nStartup; vs Input voltage(TPS61032); FIGURE: Figure12"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "8.6 Typical Characteristics",
-    "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 7] V"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 6] DC/DC CONVERTER Maximum output current Efficiency: No-load supply current into VOUT; vs Input voltage vs Output current(TPS61030)(V =2.5V,V =1.8V,VSYNC=0V)\nO I vs Output current(TPS61031)(V =3.3V,V =1.8V,2.4V,VSYNC=0V)\nO I: vs Input voltage(TPS61032); FIGURE Figure1,\nFigure2 Figure3 Figure4: Figure11"
   },
   {
     "part_number": "TPS61030",
@@ -6759,13 +6703,6 @@
     "page_number": 7,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 7] IO= 10: IO"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 7,
-    "section": "8.6 Typical Characteristics",
-    "type": "table_row",
     "content": "[TPS61030, 8.6 Typical Characteristics, page 7] 0 mA: = 10 mA"
   },
   {
@@ -6773,7 +6710,7 @@
     "page_number": 7,
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
-    "content": "[TPS61030, 8.6 Typical Characteristics, page 7] IO= 10: IO= 1; 0 mA: 000 mA"
+    "content": "[TPS61030, 8.6 Typical Characteristics, page 7] IO= 10 IO: IO= 1; 0 mA: 000 mA"
   },
   {
     "part_number": "TPS61030",
@@ -6823,27 +6760,6 @@
     "section": "8.6 Typical Characteristics",
     "type": "table_row",
     "content": "[TPS61030, 8.6 Typical Characteristics, page 8] R1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 9,
-    "section": "10.2 Functional Block Diagram",
-    "type": "table_row",
-    "content": "[TPS61030, 10.2 Functional Block Diagram, page 9] Anti-: Ringing"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 12] VOUT: SW\nVBAT\nEN FB\nLBI\nSYNC\nLBO\nGND PGND"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 12,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 12] R1"
   },
   {
     "part_number": "TPS61030",
@@ -6899,42 +6815,21 @@
     "page_number": 14,
     "section": "11.2 Typical Application",
     "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 14] VENDOR: Sumida; INDUCTOR SERIES: CDRH124"
+    "content": "[TPS61030, 11.2 Typical Application, page 14] VENDOR Sumida: Wu rth Electron ik; INDUCTOR SERIES CDRH124 CDRH103R CDRH104R: 7447779___"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
     "section": "11.2 Typical Application",
     "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 14] INDUCTOR SERIES: CDRH103R"
+    "content": "[TPS61030, 11.2 Typical Application, page 14] INDUCTOR SERIES CDRH124 CDRH103R CDRH104R: 744771___"
   },
   {
     "part_number": "TPS61030",
     "page_number": 14,
     "section": "11.2 Typical Application",
     "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 14] INDUCTOR SERIES: CDRH104R"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 14] VENDOR: Wu rth Electron ik; INDUCTOR SERIES: 7447779___"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 14] INDUCTOR SERIES: 744771___"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 14,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 14] VENDOR: EPCOS; INDUCTOR SERIES: B82464G"
+    "content": "[TPS61030, 11.2 Typical Application, page 14] VENDOR Sumida: EPCOS; INDUCTOR SERIES CDRH124 CDRH103R CDRH104R: B82464G"
   },
   {
     "part_number": "TPS61030",
@@ -6952,27 +6847,6 @@
   },
   {
     "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 17] R1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 17,
-    "section": "11.2 Typical Application",
-    "type": "table_row",
-    "content": "[TPS61030, 11.2 Typical Application, page 17] R1"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "13.2 Layout Example",
-    "type": "table_row",
-    "content": "[TPS61030, 13.2 Layout Example, page 18] TABV"
-  },
-  {
-    "part_number": "TPS61030",
     "page_number": 18,
     "section": "13.2 Layout Example",
     "type": "table_row",
@@ -6983,7 +6857,7 @@
     "page_number": 18,
     "section": "13.2 Layout Example",
     "type": "table_row",
-    "content": "[TPS61030, 13.2 Layout Example, page 18] Exposed PAD"
+    "content": "[TPS61030, 13.2 Layout Example, page 18] TABV: Exposed PAD"
   },
   {
     "part_number": "TPS61030",
@@ -7015,20 +6889,6 @@
   },
   {
     "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "13.2 Layout Example",
-    "type": "table_row",
-    "content": "[TPS61030, 13.2 Layout Example, page 18] ed\nsi"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 18,
-    "section": "13.2 Layout Example",
-    "type": "table_row",
-    "content": "[TPS61030, 13.2 Layout Example, page 18] FB"
-  },
-  {
-    "part_number": "TPS61030",
     "page_number": 20,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
@@ -7039,42 +6899,7 @@
     "page_number": 22,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 22,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 22,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 22,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 22,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] Q1: Q3; Q2: Q4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 22,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] Q1: Q3; Q2: Q4"
+    "content": "[TPS61030, PACKAGE OPTION ADDENDUM, page 22] A0 B0 K0 W: P1; Dimension designed to accommodate the component width Dimension designed to accommodate the component length Dimension designed to accommodate the component thickness Overall width of the carrier tape: Pitch between successive cavity centers"
   },
   {
     "part_number": "TPS61030",

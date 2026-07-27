@@ -158,6 +158,20 @@ def _is_real_header(candidate: str) -> bool:
     return not (looks_like_sentence or looks_like_toc_entry)
 
 
+def _section_for_y(section_positions: list, y: float) -> str:
+    """Given a sorted list of (y_pos, section_name) tuples and a target
+    y-coordinate, return the section whose header is nearest above (or at) y.
+    This replaces the old page-level approximation with position-accurate
+    attribution - critical when multiple sections share a single page."""
+    best = "General / Overview"
+    for header_y, section_name in section_positions:
+        if header_y <= y:
+            best = section_name
+        else:
+            break
+    return best
+
+
 def extract_text_chunks(pdf_path: Path, part_number: str):
     """Extract text per page, tagging each chunk with the current section.
 
@@ -168,34 +182,40 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
     A bare numeric line is merged with the following line before testing
     for a header match to catch this case.
 
-    Also builds and returns a page_number -> section_name map. Table
+    Also builds and returns a page_section_positions map: for each page,
+    a sorted list of (y_coordinate, section_name) pairs recording the
+    vertical position of every section header found by PyMuPDF. Table
     extraction runs as a completely separate pass (pdfplumber, not PyMuPDF)
     and has no concept of "section" on its own - without this map, every
     table row got tagged with a generic "Table N (page P)" placeholder,
     which meant a table row's content had zero lexical/semantic connection
     to its actual section name (e.g. "Absolute Maximum Ratings"). That
-    caused real retrieval misses: a query asking about "absolute maximum"
-    values couldn't distinguish the actual ratings table from a similarly-
-    worded row in a different table (e.g. Recommended Operating Conditions)
-    on another page, since neither carried a real section label. This is a
-    page-level approximation (using whichever section was active by the
-    end of that page) - a table appearing right at a section boundary on
-    the same page could theoretically inherit the wrong neighboring
-    section's name, but this is a large improvement over no attribution
-    at all.
+    caused real retrieval misses. Originally this was a page-level
+    approximation (one section per page), but that mislabeled every table
+    on multi-section pages - e.g. TPS61030 page 4 has four sections each
+    with their own table, and the page-level shortcut stamped all of them
+    with the last section. The position-based approach matches each
+    table's vertical position against the nearest header above it on the
+    same page, fixing this entirely.
     """
     chunks = []
     current_section = "General / Overview"
     noise_filtered = 0
-    page_to_section = {}
+    page_section_positions = {}  # page_num -> [(y_pos, section_name), ...]
 
     with fitz.open(pdf_path) as doc:
         for page_num, page in enumerate(doc, start=1):
             blocks = page.get_text("blocks")  # (x0, y0, x1, y1, text, block_no, ...)
             blocks.sort(key=lambda b: (b[1], b[0]))  # reading order: top-to-bottom, left-to-right
 
+            # Seed this page with the section inherited from the previous
+            # page so tables appearing before the first header get the
+            # correct label.
+            page_section_positions[page_num] = [(-1.0, current_section)]
+
             for block in blocks:
                 raw = block[4].strip()
+                block_y = block[1]  # y0: top edge of this block
                 if not raw:
                     continue
 
@@ -232,6 +252,7 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
                                 })
                             segment_lines = []
                         current_section = candidate
+                        page_section_positions[page_num].append((block_y, current_section))
                         i += consumed
                         continue
 
@@ -254,12 +275,11 @@ def extract_text_chunks(pdf_path: Path, part_number: str):
                             "content": content,
                         })
 
-            page_to_section[page_num] = current_section
 
     if noise_filtered:
         print(f"  filtered {noise_filtered} noise fragments (pin/graph labels)")
 
-    return chunks, page_to_section
+    return chunks, page_section_positions
 
 
 MAX_ROW_LENGTH = 350  # a real electrical-characteristics row is short; a
@@ -282,11 +302,120 @@ def _is_junk_table_row(sentence: str) -> bool:
     return False
 
 
-def extract_table_chunks(pdf_path: Path, part_number: str, page_to_section: dict = None):
+# Labels identifying spec-value columns in datasheet tables.  When these
+# appear in the header row, we know the table has structured min/typ/max
+# data and can apply the merged-cell redistribution logic below.
+SPEC_LABELS = {'MIN', 'TYP', 'MAX', 'NOM'}
+
+_NUMERIC_LIKE = re.compile(r'^[\u2013\u2212-]?\d')  # starts with optional minus then digit
+
+
+def _looks_numeric(token: str) -> bool:
+    """Does this token look like a numeric value (possibly with unit suffix)?"""
+    return bool(_NUMERIC_LIKE.match(token.strip('(),')))
+
+
+def _has_numeric_value(cell: str) -> bool:
+    """Does this cell contain at least one standalone numeric token?"""
+    if not cell:
+        return False
+    for token in cell.replace('\n', ' ').split():
+        if _looks_numeric(token):
+            return True
+    return False
+
+
+def _merge_multi_row_header(table: list) -> tuple:
+    """Detect multi-row headers (common in thermal/package tables where
+    sub-headers like 'PWP / 16 PINS' span rows 1-2 beneath a generic row 0)
+    and merge them vertically into a single compound header.
+
+    Returns (merged_header, first_data_row_index).
+
+    Only activates when the first header row does NOT already contain
+    standard spec-column labels (MIN/TYP/MAX/NOM) - if it does, the
+    header is already well-formed and rows below it are data."""
+    if not table:
+        return [], 0
+
+    header = [str(h).strip() if h else '' for h in table[0]]
+
+    # If the header already has standard spec columns, it's complete.
+    if {h.upper() for h in header} & SPEC_LABELS:
+        return header, 1
+
+    # Otherwise, check subsequent rows for sub-headers (no numeric data).
+    data_start = 1
+    for i in range(1, min(len(table), 4)):
+        row = [str(c).strip() if c else '' for c in table[i]]
+        if any(_has_numeric_value(c) for c in row):
+            break  # first row with actual numeric data
+        # Merge this sub-header row into the compound header
+        for j in range(min(len(header), len(row))):
+            if row[j]:
+                header[j] = (header[j] + ' ' + row[j]).strip()
+        data_start = i + 1
+
+    return header, data_start
+
+
+def _redistribute_merged_cells(header: list, row: list) -> list:
+    """When pdfplumber merges MIN/TYP/MAX values into a single cell
+    (e.g. '-0.3 3.6' under the MIN column while MAX is empty), split
+    the space-separated tokens back out across the correct columns.
+
+    Handles two common patterns:
+      2 tokens across 2 spec cols:  MIN=-0.3, MAX=3.6
+      2 tokens across 3 spec cols:  MIN=1.8, MAX=5.5 (TYP/NOM stays empty)
+      3 tokens across 3 spec cols:  MIN=490, TYP=500, MAX=510
+    """
+    spec_indices = [i for i, h in enumerate(header) if h.upper().strip() in SPEC_LABELS]
+    if len(spec_indices) < 2:
+        return row  # need at least 2 spec columns
+
+    spec_start = spec_indices[0]
+    first_cell = row[spec_start] if spec_start < len(row) else ''
+    if not first_cell:
+        return row
+
+    # Only redistribute if the remaining spec columns are all empty
+    if not all((row[i] if i < len(row) else '') == '' for i in spec_indices[1:]):
+        return row  # values already in separate cells
+
+    tokens = first_cell.replace('\n', ' ').split()
+    if len(tokens) < 2:
+        return row  # single value, nothing to split
+
+    # All tokens must look numeric - otherwise it's a text value that
+    # happens to contain spaces (e.g. '0.4×I\nSW').
+    if not all(_looks_numeric(t) for t in tokens):
+        return row
+
+    new_row = list(row)
+    spec_count = len(spec_indices)
+
+    if len(tokens) == spec_count:
+        # Perfect match: one token per spec column (MIN/TYP/MAX)
+        for j, idx in enumerate(spec_indices):
+            new_row[idx] = tokens[j]
+    elif len(tokens) == 2 and spec_count >= 2:
+        # Two tokens → first and last spec column (MIN and MAX),
+        # middle columns (TYP/NOM) stay empty.
+        new_row[spec_indices[0]] = tokens[0]
+        new_row[spec_indices[-1]] = tokens[1]
+        for idx in spec_indices[1:-1]:
+            new_row[idx] = ''
+    else:
+        return row  # unexpected count, don't touch
+
+    return new_row
+
+
+def extract_table_chunks(pdf_path: Path, part_number: str, page_section_positions: dict = None):
     """Extract tables and serialize each row as a readable sentence."""
     chunks = []
     junk_filtered = 0
-    page_to_section = page_to_section or {}
+    page_section_positions = page_section_positions or {}
 
     # text_x_tolerance widened from pdfplumber's default: some datasheet
     # PDFs (notably TI's newer template) embed characters with tighter
@@ -300,15 +429,25 @@ def extract_table_chunks(pdf_path: Path, part_number: str, page_to_section: dict
 
     with pdfplumber.open(pdf_path) as pdf:
         for page_num, page in enumerate(pdf.pages, start=1):
-            section = page_to_section.get(page_num, "General / Overview")
-            tables = page.extract_tables(table_settings=table_settings)
-            for table_idx, table in enumerate(tables):
+            section_positions = page_section_positions.get(page_num, [])
+            found_tables = page.find_tables(table_settings=table_settings)
+            for table_idx, table_obj in enumerate(found_tables):
+                table = table_obj.extract()
                 if not table or len(table) < 2:
                     continue
 
-                header = [desegment_cell(str(h).strip()) if h else "" for h in table[0]]
-                for row in table[1:]:
+                # Use the table's vertical position to find the correct
+                # section header above it, instead of the old page-level
+                # approximation that mislabeled every table on multi-section
+                # pages (e.g. TPS61030 page 4 has 4 sections with 4 tables).
+                table_top_y = table_obj.bbox[1]
+                section = _section_for_y(section_positions, table_top_y)
+
+                header, data_start = _merge_multi_row_header(table)
+                header = [desegment_cell(h) for h in header]
+                for row in table[data_start:]:
                     row = [desegment_cell(str(c).strip()) if c else "" for c in row]
+                    row = _redistribute_merged_cells(header, row)
                     if not any(row):
                         continue
 
@@ -365,8 +504,8 @@ def parse_datasheet(pdf_path: Path):
     part_number = pdf_path.stem
     print(f"Parsing {part_number}...")
 
-    text_chunks, page_to_section = extract_text_chunks(pdf_path, part_number)
-    table_chunks = extract_table_chunks(pdf_path, part_number, page_to_section)
+    text_chunks, page_section_positions = extract_text_chunks(pdf_path, part_number)
+    table_chunks = extract_table_chunks(pdf_path, part_number, page_section_positions)
 
     print(f"  {len(text_chunks)} text chunks, {len(table_chunks)} table-row chunks")
 

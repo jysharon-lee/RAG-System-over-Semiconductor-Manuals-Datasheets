@@ -14,7 +14,10 @@ Usage:
 """
 
 import argparse
+import sys
+import io
 
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 import ollama
 
 from hybrid_query import load_retrieval_backend, retrieve_chunks

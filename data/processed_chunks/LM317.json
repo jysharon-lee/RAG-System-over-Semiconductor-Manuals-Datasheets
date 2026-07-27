@@ -6722,23 +6722,23 @@
   {
     "part_number": "LM317",
     "page_number": 1,
-    "section": "Typical Application",
+    "section": "Package Information",
     "type": "table_row",
-    "content": "[LM317, Typical Application, page 1] PART NUMBER: LM317; PACKAGE(1): DCY (SOT-223, 4); PACKAGE SIZE(2): 6.5mm \u00d7 7mm"
+    "content": "[LM317, Package Information, page 1] PART NUMBER: LM317; PACKAGE(1): DCY (SOT-223, 4); PACKAGE SIZE(2): 6.5mm \u00d7 7mm"
   },
   {
     "part_number": "LM317",
     "page_number": 1,
-    "section": "Typical Application",
+    "section": "Package Information",
     "type": "table_row",
-    "content": "[LM317, Typical Application, page 1] PACKAGE(1): KTT (TO-263, 3); PACKAGE SIZE(2): 10.16mm \u00d7 15.24mm"
+    "content": "[LM317, Package Information, page 1] PACKAGE(1): KTT (TO-263, 3); PACKAGE SIZE(2): 10.16mm \u00d7 15.24mm"
   },
   {
     "part_number": "LM317",
     "page_number": 1,
-    "section": "Typical Application",
+    "section": "Package Information",
     "type": "table_row",
-    "content": "[LM317, Typical Application, page 1] PACKAGE(1): KCS, KCT (TO-220, 3\n(3); PACKAGE SIZE(2): )\n10.16mm \u00d7 4.55mm"
+    "content": "[LM317, Package Information, page 1] PACKAGE(1): KCS, KCT (TO-220, 3\n(3); PACKAGE SIZE(2): )\n10.16mm \u00d7 4.55mm"
   },
   {
     "part_number": "LM317",
@@ -6927,161 +6927,126 @@
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: NAME; TO-220\n(Legacy Chip); TO-263; SOT-223; I/O; DESCRIPTION"
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN NAME: ADJ UST; TO-220\n(Legacy Chip): 1; TO-263: 1; SOT-223: 1; I/O: \u2014; DESCRIPTION: Output voltage adjustment pin. Connect to a\nresistor divider to set V .\nOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: ADJ UST; 1; 1; 1; \u2014; Output voltage adjustment pin. Connect to a\nresistor divider to set V .\nOUT"
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN NAME: INPUT; TO-220\n(Legacy Chip): 3; TO-263: 3; SOT-223: 3; I/O: I; DESCRIPTION: Input voltage pin for the regulator."
   },
   {
     "part_number": "LM317",
     "page_number": 5,
     "section": "Pin Functions, Metal Can Packages",
     "type": "table_row",
-    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: INPUT; 3; 3; 3; I; Input voltage pin for the regulator."
+    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN NAME: OUTPUT; TO-220\n(Legacy Chip): 2, TAB; TO-263: 2, TAB; SOT-223: 2, TAB; I/O: O; DESCRIPTION: Output voltage pin for the regulator."
   },
   {
     "part_number": "LM317",
-    "page_number": 5,
-    "section": "Pin Functions, Metal Can Packages",
+    "page_number": 6,
+    "section": "6.1 Absolute Maximum Ratings",
     "type": "table_row",
-    "content": "[LM317, Pin Functions, Metal Can Packages, page 5] PIN: OUTPUT; 2, TAB; 2, TAB; 2, TAB; O; Output voltage pin for the regulator."
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Power dissipation; MIN: Internally limited"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 6,
+    "section": "6.1 Absolute Maximum Ratings",
+    "type": "table_row",
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Input-output voltage differential; MIN: \u22120.3; MAX: 40; UNIT: V"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 6,
+    "section": "6.1 Absolute Maximum Ratings",
+    "type": "table_row",
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Storage temperature, T\nstg; MIN: \u221265; MAX: 150; UNIT: \u00b0C"
+  },
+  {
+    "part_number": "LM317",
+    "page_number": 6,
+    "section": "6.1 Absolute Maximum Ratings",
+    "type": "table_row",
+    "content": "[LM317, 6.1 Absolute Maximum Ratings, page 6] Operating virtual junction temperature, T (legacy chip)\nJ; MIN: \u221265; MAX: 150; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Power dissipation; MIN: Internally limited"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V\nO; Output voltage; MIN: 1.25; MAX: 37; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Input-output voltage differential; MIN: \u22120.3 40; UNIT: V"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V \u2013 V\nI O; Input-to-output differential voltage; MIN: 3; MAX: 40; UNIT: V"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Storage temperature, T\nstg; MIN: \u221265 150; UNIT: \u00b0C"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] I\nO; Output current; MIN: 0.01; MAX: 1.5; UNIT: A"
   },
   {
     "part_number": "LM317",
     "page_number": 6,
     "section": "6.3 Recommended Operating Conditions",
     "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Operating virtual junction temperature, T (legacy chip)\nJ; MIN: \u221265 150; UNIT: \u00b0C"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] VALUE: Legacy\nChip; New\nChip; UNIT"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V\n(ESD); Electrostatic discharge; Human body model (HBM), per ANSI/ESDA/JEDEC JS-001(1); VALUE: \u00b12500; \u00b13000; V"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] Charged device model (CDM), per JEDEC specification JESD22-\nC101(2); VALUE: \u00b11000; NA"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V\nO; Output voltage; MIN: 1.25 37; UNIT: V"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] V \u2013 V\nI O; Input-to-output differential voltage; MIN: 3 40; UNIT: V"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] I\nO; Output current; MIN: 0.01 1.5; UNIT: A"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 6,
-    "section": "6.3 Recommended Operating Conditions",
-    "type": "table_row",
-    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] T\nJ; Operating virtual junction temperature; MIN: 0 125; UNIT: \u00b0C"
+    "content": "[LM317, 6.3 Recommended Operating Conditions, page 6] T\nJ; Operating virtual junction temperature; MIN: 0; MAX: 125; UNIT: \u00b0C"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] THERMAL METRIC(1); LM317: DCY\n(SOT-223); KCS\n(TO-220); KCT\n(TO-220); KTT\n(TO-263); UNIT"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] LM317 DCY\n(SOT-223): 4 PINS; KCS\n(TO-220): 3 PINS; KCT\n(TO-220): 3 PINS; KTT\n(TO-263): 3 PINS"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] LM317: 4 PINS; 3 PINS; 3 PINS; 3 PINS"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] THERMAL METRIC(1): R\n\u03b8(JA); Junction-to-ambient thermal resistance; LM317 DCY\n(SOT-223): 66.8; KCS\n(TO-220): 23.5; KCT\n(TO-220): 37.9; KTT\n(TO-263): 38.0; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8(JA); Junction-to-ambient thermal resistance; LM317: 66.8; 23.5; 37.9; 38.0; \u00b0C/W"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] THERMAL METRIC(1): R\n\u03b8JC(top); Junction-to-case (top) thermal resistance; LM317 DCY\n(SOT-223): 43.2; KCS\n(TO-220): 15.9; KCT\n(TO-220): 51.1; KTT\n(TO-263): 36.5; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JC(top); Junction-to-case (top) thermal resistance; LM317: 43.2; 15.9; 51.1; 36.5; \u00b0C/W"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] THERMAL METRIC(1): R\n\u03b8JB; Junction-to-board thermal resistance; LM317 DCY\n(SOT-223): 16.9; KCS\n(TO-220): 7.9; KCT\n(TO-220): 23.2; KTT\n(TO-263): 18.9; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JB; Junction-to-board thermal resistance; LM317: 16.9; 7.9; 23.2; 18.9; \u00b0C/W"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] THERMAL METRIC(1): \u03c8\nJT; Junction-to-top characterization parameter; LM317 DCY\n(SOT-223): 3.6; KCS\n(TO-220): 3.0; KCT\n(TO-220): 13.0; KTT\n(TO-263): 6.9; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] \u03c8\nJT; Junction-to-top characterization parameter; LM317: 3.6; 3.0; 13.0; 6.9; \u00b0C/W"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] THERMAL METRIC(1): \u03c8\nJB; Junction-to-board characterization parameter; LM317 DCY\n(SOT-223): 16.8; KCS\n(TO-220): 7.8; KCT\n(TO-220): 22.8; KTT\n(TO-263): 17.9; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
     "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
+    "section": "6.4 Thermal Information (Legacy Chip)",
     "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] \u03c8\nJB; Junction-to-board characterization parameter; LM317: 16.8; 7.8; 22.8; 17.9; \u00b0C/W"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 7,
-    "section": "6.5 Thermal Information (New Chip)",
-    "type": "table_row",
-    "content": "[LM317, 6.5 Thermal Information (New Chip), page 7] R\n\u03b8JC(bot); Junction-to-case (bottom) thermal resistance; LM317: NA; 0.1; 4.2; 1.1; \u00b0C/W"
+    "content": "[LM317, 6.4 Thermal Information (Legacy Chip), page 7] THERMAL METRIC(1): R\n\u03b8JC(bot); Junction-to-case (bottom) thermal resistance; LM317 DCY\n(SOT-223): NA; KCS\n(TO-220): 0.1; KCT\n(TO-220): 4.2; KTT\n(TO-263): 1.1; UNIT: \u00b0C/W"
   },
   {
     "part_number": "LM317",
@@ -7151,21 +7116,21 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V,\nIN OUT\n10mA \u2264 I \u2264 1500mA, P \u2264 20W\nOUT D; MIN: 1.2 1.25 1.3"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V,\nIN OUT\n10mA \u2264 I \u2264 1500mA, P \u2264 20W\nOUT D; MIN: 1.2; TYP: 1.25; MAX: 1.3"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Line regulation(2); TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V(4)\nIN OUT; T = 25\u00b0C\nJ; MIN: 0.01 0.04; UNIT: %/V"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Line regulation(2); TEST CONDITIONS(1): 3V \u2264 (V \u2212 V ) \u2264 40V(4)\nIN OUT; T = 25\u00b0C\nJ; MIN: 0.01; MAX: 0.04; UNIT: %/V"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] (over full operating\ntemperature range); MIN: 0.02 0.07"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] (over full operating\ntemperature range); MIN: 0.02; MAX: 0.07"
   },
   {
     "part_number": "LM317",
@@ -7179,56 +7144,56 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V \u2265 5V\nO; MIN: 0.1 0.5; UNIT: %V\nO"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V \u2265 5V\nO; MIN: 0.1; MAX: 0.5; UNIT: %V\nO"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] I = 10mA to\nO\n1500mA, T =\nJ\n0\u00b0C to 125\u00b0C; V \u2264 5V\nO; MIN: 20 70; UNIT: mV"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] I = 10mA to\nO\n1500mA, T =\nJ\n0\u00b0C to 125\u00b0C; V \u2264 5V\nO; MIN: 20; MAX: 70; UNIT: mV"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V \u2265 5V\nO; MIN: 0.3 1.5; UNIT: %V\nO"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V \u2265 5V\nO; MIN: 0.3; MAX: 1.5; UNIT: %V\nO"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): New chip; 10mA \u2264 I \u2264\nOUT\nI (5)\nMAX; T = 25\u00b0C\nJ; MIN: 0.1 0.5"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): New chip; 10mA \u2264 I \u2264\nOUT\nI (5)\nMAX; T = 25\u00b0C\nJ; MIN: 0.1; MAX: 0.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] (over full operating\ntemperature range); MIN: 0.3 1.5"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] (over full operating\ntemperature range); MIN: 0.3; MAX: 1.5"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Thermal regulation; TEST CONDITIONS(1): 20ms pulse; MIN: 0.04 0.07; UNIT: %/W"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Thermal regulation; TEST CONDITIONS(1): 20ms pulse; MIN: 0.04; MAX: 0.07; UNIT: %/W"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Adjustment pin current; TEST CONDITIONS(1): Over full operating temperature range; MIN: 50 100; UNIT: \u03bcA"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Adjustment pin current; TEST CONDITIONS(1): Over full operating temperature range; MIN: 50; MAX: 100; UNIT: \u03bcA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Adjustment pin current change; TEST CONDITIONS(1): 10mA \u2264 I \u2264 I (4)\nOUT MAX\n3V \u2264 (V \u2212 V ) \u2264 40V\nIN OUT; Over full operating\ntemperature range; MIN: 0.2 5; UNIT: \u03bcA"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Adjustment pin current change; TEST CONDITIONS(1): 10mA \u2264 I \u2264 I (4)\nOUT MAX\n3V \u2264 (V \u2212 V ) \u2264 40V\nIN OUT; Over full operating\ntemperature range; MIN: 0.2; MAX: 5; UNIT: \u03bcA"
   },
   {
     "part_number": "LM317",
@@ -7249,21 +7214,21 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Minimum load current; TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; Over full operating\ntemperature range; MIN: 3.5 10; UNIT: mA"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Minimum load current; TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; Over full operating\ntemperature range; MIN: 3.5; MAX: 10; UNIT: mA"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Current limit; TEST CONDITIONS(1): (V \u2212 V ) \u2264 15V\nIN OUT; P < P (3)\nD MAX; MIN: 1.5 2.2; UNIT: A"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Current limit; TEST CONDITIONS(1): (V \u2212 V ) \u2264 15V\nIN OUT; P < P (3)\nD MAX; MIN: 1.5; MAX: 2.2; UNIT: A"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; P < P (3), T = 25\u00b0C\nD MAX J; MIN: 0.15 0.4"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] TEST CONDITIONS(1): (V \u2212 V ) = 40V\nIN OUT; P < P (3), T = 25\u00b0C\nD MAX J; MIN: 0.15; MAX: 0.4"
   },
   {
     "part_number": "LM317",
@@ -7284,7 +7249,7 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V = 10V, f = 120Hz, C = 10\u03bcF(4)\nOUT ADJ; MIN: 62 64"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V = 10V, f = 120Hz, C = 10\u03bcF(4)\nOUT ADJ; MIN: 62; MAX: 64"
   },
   {
     "part_number": "LM317",
@@ -7298,14 +7263,14 @@
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V = 10V, f = 120Hz, C = 10\u03bcF (over\nOUT ADJ\nfull operating temperature range); MIN: 66 80"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] V = 10V, f = 120Hz, C = 10\u03bcF (over\nOUT ADJ\nfull operating temperature range); MIN: 66; MAX: 80"
   },
   {
     "part_number": "LM317",
     "page_number": 8,
     "section": "6.6 Electrical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Long-term stability; TEST CONDITIONS(1): T = 25\u00b0C\nJ; MIN: 0.3 1; UNIT: %/1k hr"
+    "content": "[LM317, 6.6 Electrical Characteristics, page 8] PARAMETER: Long-term stability; TEST CONDITIONS(1): T = 25\u00b0C\nJ; MIN: 0.3; MAX: 1; UNIT: %/1k hr"
   },
   {
     "part_number": "LM317",
@@ -7354,14 +7319,7 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOU; T"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] VOU; T"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOU: VOU; T: T"
   },
   {
     "part_number": "LM317",
@@ -7375,21 +7333,14 @@
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOUT"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOUT: VOUT"
   },
   {
     "part_number": "LM317",
     "page_number": 9,
     "section": "6.7 Typical Characteristics",
     "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] VOUT"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 9,
-    "section": "6.7 Typical Characteristics",
-    "type": "table_row",
-    "content": "[LM317, 6.7 Typical Characteristics, page 9] CADJ= 1"
+    "content": "[LM317, 6.7 Typical Characteristics, page 9] IOUT: CADJ= 1"
   },
   {
     "part_number": "LM317",
@@ -7519,13 +7470,6 @@
   },
   {
     "part_number": "LM317",
-    "page_number": 15,
-    "section": "8.2 Typical Application",
-    "type": "table_row",
-    "content": "[LM317, 8.2 Typical Application, page 15] R2"
-  },
-  {
-    "part_number": "LM317",
     "page_number": 20,
     "section": "8.2 Typical Application",
     "type": "table_row",
@@ -7606,42 +7550,7 @@
     "page_number": 32,
     "section": "PACKAGE OPTION ADDENDUM",
     "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: B0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component length"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: K0; Dimension designed to accommodate the component width: Dimension designed to accommodate the component thickness"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: W; Dimension designed to accommodate the component width: Overall width of the carrier tape"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0: P1; Dimension designed to accommodate the component width: Pitch between successive cavity centers"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Q1: Q3; Q2: Q4"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 32,
-    "section": "PACKAGE OPTION ADDENDUM",
-    "type": "table_row",
-    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] Q1: Q3; Q2: Q4"
+    "content": "[LM317, PACKAGE OPTION ADDENDUM, page 32] A0 B0 K0 W: P1; Dimension designed to accommodate the component width Dimension designed to accommodate the component length Dimension designed to accommodate the component thickness Overall width of the carrier tape: Pitch between successive cavity centers"
   },
   {
     "part_number": "LM317",
