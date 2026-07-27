@@ -319,35 +319,7 @@
     "page_number": 2,
     "section": "Typical Application",
     "type": "text",
-    "content": "Device Functional Modes........................................ 15\nApplication and Implementation ........................ 16"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Features.................................................................. 1\nApplications ........................................................... 1\nDescription ............................................................. 1\nRevision History..................................................... 2\nDevice Comparison Table..................................... 3\nPin Configuration and Functions......................... 4\nSpecifications......................................................... 6"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Application Information............................................ 16\nTypical Application ................................................. 16\nSystem Example ..................................................... 27\nPower Supply Recommendations ..................... 28\nLayout................................................................... 28\n11.1\nLayout Guidelines ................................................. 28\n11.2\nLayout Example .................................................... 28\nDevice and Documentation Support ................. 30\n12.1\nDevice Support...................................................... 30\n12.2\nSupport Resources ............................................... 30\n12.3\nTrademarks........................................................... 30\n12.4\nElectrostatic Discharge Caution............................ 30\n12.5\nGlossary................................................................ 30\nMechanical, Packaging, and Orderable\nInformation ........................................................... 30"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Absolute Maximum Ratings ...................................... 6\nESD Ratings.............................................................. 6\nRecommended Operating Conditions....................... 6\nThermal Information.................................................. 6\nElectrical Characteristics........................................... 7\nTypical Characteristics.............................................. 9\nDetailed Description ............................................ 11"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Overview ................................................................. 11\nFunctional Block Diagram ....................................... 11\nFeature Description................................................. 12"
+    "content": "11.1\n11.2\n12.1\n12.2\n12.3\n12.4\n12.5\nMechanical, Packaging, and Orderable"
   },
   {
     "part_number": "TPS62840",
@@ -368,20 +340,6 @@
     "page_number": 2,
     "section": "Typical Application",
     "type": "text",
-    "content": "Updated the Device Comparison Table ................................................................................................................................ 3"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added efficiency graphs to the Application Curves.............................................................................................................. 20"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
     "content": "Changes from Revision B (August 2019) to Revision C\nPage"
   },
   {
@@ -389,91 +347,7 @@
     "page_number": 2,
     "section": "Typical Application",
     "type": "text",
-    "content": "Added SON-8, WCSP-6, and thermally enhanced HVSSOP-8 to Features.......................................................................... 1"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added ATEX / Intrinsic safety to Applications ....................................................................................................................... 1"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Updated Typical Application image to show TPS62842DGR device ..................................................................................... 1"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added orderable part number TPS62841DGR to Device Comparison Table ....................................................................... 3"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added orderable part number TPS62842DGR to Device Comparison Table ....................................................................... 3"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Updated Thermal Information values to support TPS62842DGR .......................................................................................... 6"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added low-side MOSFET switch current limit to Electrical Characteristics ........................................................................... 8"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added TPS62841DGR to Output Voltage Selection ........................................................................................................... 13"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Updated Efficiency Power Save graphs in Application Curves ............................................................................................ 20"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Updated Load Transient waveform in Application Curves ................................................................................................... 24"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Added PCB layout for DGR package ................................................................................................................................... 29"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
     "content": "Changes from Revision A (July 2019) to Revision B\nPage"
-  },
-  {
-    "part_number": "TPS62840",
-    "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "Changed Advance Information marketing status to Production Data ................................................................................... 1"
   },
   {
     "part_number": "TPS62840",

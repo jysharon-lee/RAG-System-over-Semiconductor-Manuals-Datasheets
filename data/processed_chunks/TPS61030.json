@@ -319,91 +319,63 @@
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "10.3\nFeature Description............................................... 10\nFeatures.................................................................. 1"
+    "content": "10.3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "10.4\nDevice Functional Modes...................................... 10\nApplications ........................................................... 1"
+    "content": "10.4"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "Application and Implementation........................ 12\nDescription ............................................................. 1"
+    "content": "11.1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "11.1\nApplication Information.......................................... 12\nSimplified Schematic............................................. 1"
+    "content": "11.2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "11.2\nTypical Application ............................................... 12\nRevision History..................................................... 2"
+    "content": "13.1\n13.2\n13.3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "Power Supply Recommendations ..................... 18\nDevice Comparison Table..................................... 3"
+    "content": "14.1"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "Layout................................................................... 18\nPin Configuration and Functions......................... 3"
+    "content": "14.2"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "13.1\nLayout Considerations .......................................... 18\nSpecifications......................................................... 4\n13.2\nLayout Example .................................................... 18\nAbsolute Maximum Ratings ...................................... 4\n13.3\nThermal Considerations........................................ 18\nESD Ratings ............................................................ 4"
+    "content": "14.3"
   },
   {
     "part_number": "TPS61030",
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "Device and Documentation Support ................. 19\nRecommended Operating Conditions....................... 4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "14.1\nDevice Support...................................................... 19\nThermal Information.................................................. 4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "14.2\nRelated Links ........................................................ 19\nElectrical Characteristics........................................... 5"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "14.3\nTrademarks........................................................... 19\nTypical Characteristics.............................................. 6"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "14.4\nElectrostatic Discharge Caution............................ 19\nParameter Measurement Information .................. 8\n14.5\nGlossary................................................................ 19\nDetailed Description ............................................. 9\nMechanical, Packaging, and Orderable\n10.1\nOverview ................................................................. 9\nInformation ........................................................... 19\n10.2\nFunctional Block Diagram ....................................... 9"
+    "content": "14.4\n14.5\nMechanical, Packaging, and Orderable\n10.1\n10.2"
   },
   {
     "part_number": "TPS61030",
@@ -424,20 +396,6 @@
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "Moved Tstg spec to the Absolute Maximum Ratings table. Changed Handling Ratings to ESD Ratings............................... 4"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "Added System Examples .................................................................................................................................................... 16"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
     "content": "Changes from Revision E (January 2012) to Revision F\nPage"
   },
   {
@@ -445,7 +403,7 @@
     "page_number": 2,
     "section": "General / Overview",
     "type": "text",
-    "content": "Added Device Information and Handling Rating tables, Feature Description section, Device Functional Modes,\nApplication and Implementation section, Power Supply Recommendations section, Layout section, Device and\nDocumentation Support section, and Mechanical, Packaging, and Orderable Information section ..................................... 1"
+    "content": "Added Device Information and Handling Rating tables, Feature Description section, Device Functional Modes,\nApplication and Implementation section, Power Supply Recommendations section, Layout section, Device and"
   },
   {
     "part_number": "TPS61030",
@@ -453,13 +411,6 @@
     "section": "General / Overview",
     "type": "text",
     "content": "Changes from Revision D (April 2004) to Revision E\nPage"
-  },
-  {
-    "part_number": "TPS61030",
-    "page_number": 2,
-    "section": "General / Overview",
-    "type": "text",
-    "content": "Changed the temperature range From: 40\u00b0C to 85\u00b0C To: -40\u00b0C to 85\u00b0C.............................................................................. 3"
   },
   {
     "part_number": "TPS61030",

@@ -113,6 +113,13 @@ CONTROL_CHAR_PATTERN = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
 # (W, H, L) and graph axis unit labels (dB, VI). Real text, but a standalone
 # block of just "dB" has no retrievable meaning on its own.
 SHORT_LABEL_PATTERN = re.compile(r"^[A-Za-z°ΩµμΔ]{1,3}$")
+# Table of Contents entries like "Related Links ........................ 19"
+# - dot leaders ending in a page number. These previously only blocked
+# false-positive header detection; they were still being kept as ordinary
+# body text afterward, which let irrelevant ToC noise leak into retrieval
+# (e.g. outranking real content for a generic query like "electrical
+# characteristics" since the ToC line contains that exact phrase).
+TOC_LINE_PATTERN = re.compile(r"\.{2,}\s*\d+\s*$")
 
 
 def is_noise(text: str) -> bool:
@@ -122,6 +129,8 @@ def is_noise(text: str) -> bool:
     if CONTROL_CHAR_PATTERN.search(stripped):
         return True
     if NOISE_PATTERN.match(stripped) or SHORT_LABEL_PATTERN.match(stripped):
+        return True
+    if TOC_LINE_PATTERN.search(stripped):
         return True
     # Single stray symbol with no alphanumeric content at all (e.g. "_", "|")
     if len(stripped) <= 2 and not any(ch.isalnum() for ch in stripped):

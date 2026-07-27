@@ -142,30 +142,9 @@
   {
     "part_number": "LM2596",
     "page_number": 2,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "1 Features............................................................................1\n2 Applications.....................................................................1\n3 Description.......................................................................1\n4 Revision History.............................................................. 2\n5 Description (continued).................................................. 3\n6 Pin Configuration and Functions...................................4\n7 Specifications.................................................................. 5\n7.1 Absolute Maximum Ratings........................................ 5\n7.2 ESD Ratings............................................................... 5\n7.3 Operating Conditions.................................................. 5\n7.4 Thermal Information....................................................5\n7.5 Electrical Characteristics \u2013 3.3-V Version...................6\n7.6 Electrical Characteristics \u2013 5-V Version......................6\n7.7 Electrical Characteristics \u2013 12-V Version....................6"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 2,
-    "section": "7.8 Electrical Characteristics \u2013 Adjustable Voltage",
-    "type": "text",
-    "content": "Version.......................................................................... 6"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 2,
     "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
     "type": "text",
-    "content": "Versions.........................................................................7\n7.10 Typical Characteristics..............................................8"
-  },
-  {
-    "part_number": "LM2596",
-    "page_number": 2,
-    "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
-    "type": "text",
-    "content": "8 Detailed Description......................................................11\n8.1 Overview................................................................... 11\n8.2 Functional Block Diagram......................................... 11\n8.3 Feature Description...................................................11\n8.4 Device Functional Modes..........................................14\n9 Application and Implementation..................................16\n9.1 Application Information............................................. 16\n9.2 Typical Applications.................................................. 23\n9.3 Power Supply Recommendations.............................31\n9.4 Layout....................................................................... 31\n10 Device and Documentation Support..........................35\n10.1 Device Support....................................................... 35\n10.2 Receiving Notification of Documentation Updates..35\n10.3 Support Resources................................................. 35\n10.4 Trademarks.............................................................35\n10.5 Electrostatic Discharge Caution..............................35\n10.6 Glossary..................................................................35\n11 Mechanical, Packaging, and Orderable\nInformation.................................................................... 36"
+    "content": "11 Mechanical, Packaging, and Orderable"
   },
   {
     "part_number": "LM2596",
@@ -179,35 +158,35 @@
     "page_number": 2,
     "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
     "type": "text",
-    "content": "Changes from Revision F (April 2021) to Revision G (March 2023)\nPage\nAdded link to LMR51430 and TLVM13630 product folders in the Features ...................................................... 1\nUpdated trademark information........................................................................................................................ 18"
+    "content": "Changes from Revision F (April 2021) to Revision G (March 2023)\nPage"
   },
   {
     "part_number": "LM2596",
     "page_number": 2,
     "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
     "type": "text",
-    "content": "Changes from Revision E (February 2020) to Revision F (April 2021)\nPage\nRemoved reference to device comparison table................................................................................................ 1\nUpdated the numbering format for tables, figures, and cross-references throughout the document. ................1"
+    "content": "Changes from Revision E (February 2020) to Revision F (April 2021)\nPage"
   },
   {
     "part_number": "LM2596",
     "page_number": 2,
     "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
     "type": "text",
-    "content": "Changes from Revision D (May 2016) to Revision E (February 2020)\nPage\nAdded link to the LMR33630 product folder in the Section 1 .............................................................................1\nUpdated Section 3 to include the LMR33630 product page, device comparison table, and WEBENCH link ....1\nChanged the package from 7 pins to 5 pins ...................................................................................................... 1"
+    "content": "Changes from Revision D (May 2016) to Revision E (February 2020)\nPage"
   },
   {
     "part_number": "LM2596",
     "page_number": 2,
     "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
     "type": "text",
-    "content": "Changes from Revision C (April 2013) to Revision D (February 2016)\nPage\nAdded ESD Ratings table, Feature Description section, Device Functional Modes, Application and\nImplementation section, Power Supply Recommendations section, Layout section, Device and\nDocumentation Support section, and Mechanical, Packaging, and Orderable Information section................... 1\nRemoved all references to design software Switchers Made Simple ................................................................1"
+    "content": "Changes from Revision C (April 2013) to Revision D (February 2016)\nPage\nAdded ESD Ratings table, Feature Description section, Device Functional Modes, Application and\nImplementation section, Power Supply Recommendations section, Layout section, Device and"
   },
   {
     "part_number": "LM2596",
     "page_number": 2,
     "section": "7.9 Electrical Characteristics \u2013 All Output Voltage",
     "type": "text",
-    "content": "Changes from Revision B (April 2013) to Revision C (April 2013)\nPage\nChanged layout of National Semiconductor Data Sheet to TI format............................................................... 11"
+    "content": "Changes from Revision B (April 2013) to Revision C (April 2013)\nPage"
   },
   {
     "part_number": "LM2596",

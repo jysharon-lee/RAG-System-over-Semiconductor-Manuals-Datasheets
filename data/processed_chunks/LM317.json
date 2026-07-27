@@ -305,14 +305,7 @@
     "page_number": 3,
     "section": "Typical Application",
     "type": "text",
-    "content": "1 Features............................................................................1\n2 Applications.....................................................................1\n3 Description.......................................................................1\n4 Device Comparison Table...............................................4\n5 Pin Configuration and Functions...................................5\n6 Specifications.................................................................. 6\n6.1 Absolute Maximum Ratings........................................ 6\n6.2 ESD Ratings............................................................... 6\n6.3 Recommended Operating Conditions.........................6\n6.4 Thermal Information (Legacy Chip)............................ 7\n6.5 Thermal Information (New Chip).................................7\n6.6 Electrical Characteristics.............................................8\n6.7 Typical Characteristics................................................9\n7 Detailed Description......................................................13\n7.1 Overview...................................................................13\n7.2 Functional Block Diagram.........................................13\n7.3 Feature Description...................................................13"
-  },
-  {
-    "part_number": "LM317",
-    "page_number": 3,
-    "section": "Typical Application",
-    "type": "text",
-    "content": "7.4 Device Functional Modes..........................................14\n8 Application and Implementation..................................15\n8.1 Application Information............................................. 15\n8.2 Typical Application.................................................... 15\n8.3 System Examples..................................................... 17\n8.4 Power Supply Recommendations.............................23\n8.5 Layout....................................................................... 23\n9 Device and Documentation Support............................28\n9.1 Device Support......................................................... 28\n9.2 Receiving Notification of Documentation Updates....28\n9.3 Support Resources................................................... 28\n9.4 Trademarks...............................................................28\n9.5 Electrostatic Discharge Caution................................28\n9.6 Glossary....................................................................28\n10 Revision History.......................................................... 29\n11 Mechanical, Packaging, and Orderable\nInformation.................................................................... 29"
+    "content": "11 Mechanical, Packaging, and Orderable"
   },
   {
     "part_number": "LM317",
@@ -4750,14 +4743,14 @@
     "page_number": 29,
     "section": "specifications.",
     "type": "text",
-    "content": "Changes from Revision Y (April 2020) to Revision Z (April 2025)\nPage\nUpdated the numbering format for tables, figures, and cross-references throughout the document................. 1\nAdded new silicon devices to document.............................................................................................................1\nAdded new silicon curves to Typical Characteristics section .............................................................................1\nChanged Features, Applications, and Description sections............................................................................... 1\nAdded LM317 (New Chip) column to Device Comparison Table ...................................................................... 4\nChanged DCY pinout drawing and INPUT and OUTPUT description in Pin Functions table.............................5\nAdded Power dissipation row to Absolute Maximum Ratings table....................................................................6\nAdded new chip information to ESD Ratings table.............................................................................................6\nAdded Thermal Information (New Chip) table.................................................................................................... 7\nChanged Electrical Characteristics table............................................................................................................8\nChanged ADJUST pin current discussion in second paragraph of Overview section......................................13\nAdded effect of CADJ on ripple rejection discussion to second bullet of Design Requirements .......................15\nAdded new silicon curves to Application Curves .............................................................................................16\nDeleted \u221210V from Equation 2......................................................................................................................... 19\nChanged The NPNs to The PNP (2N2905) and NPN (2N6486) in High-Current Adjustable Regulator Circuit\nsection.............................................................................................................................................................. 22\nAdded Thermal Considerations section and subsections.................................................................................23"
+    "content": "Changes from Revision Y (April 2020) to Revision Z (April 2025)\nPage\nChanged The NPNs to The PNP (2N2905) and NPN (2N6486) in High-Current Adjustable Regulator Circuit"
   },
   {
     "part_number": "LM317",
     "page_number": 29,
     "section": "specifications.",
     "type": "text",
-    "content": "Changes from Revision X (September 2016) to Revision Y (April 2020)\nPage\nAdded Device Comparison Table ...................................................................................................................... 4\nChanged VIN to IOUT in Load Transient Response figures..................................................................................9\nAdded missing caption to second y-axis in second Load Transient Response figure........................................9\nChanged VOUT and output impedance equations in Battery-Charger Circuit section.......................................19"
+    "content": "Changes from Revision X (September 2016) to Revision Y (April 2020)\nPage"
   },
   {
     "part_number": "LM317",
