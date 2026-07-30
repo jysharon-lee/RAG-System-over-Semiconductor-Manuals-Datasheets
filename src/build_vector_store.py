@@ -1,19 +1,9 @@
 """
-Builds the vector store: loads every data/processed_chunks/*.json file,
-embeds each chunk's content, and upserts it into a persistent Chroma
-collection with metadata (part_number, section, page_number, type) attached
-so results can be filtered/cited later.
-
-Embedding model: BAAI/bge-small-en-v1.5 (~130MB, runs fully locally, no API
-key or cost). Good accuracy-per-size tradeoff for a portfolio project - see
-README for why this was chosen over a larger model.
+Loads every data/processed_chunks/*.json file, embeds each chunk's content, and upserts it into a persistent Chroma
+collection with metadata attached
 
 Usage:
     python src/build_vector_store.py
-
-Re-running this script is safe: chunk IDs are deterministic
-(part_number + chunk index), so re-running after re-parsing a datasheet
-will just overwrite that datasheet's old vectors rather than duplicating.
 """
 
 from pathlib import Path
@@ -27,10 +17,7 @@ VECTOR_DB_DIR = Path(__file__).parent.parent / "data" / "chroma_db"
 COLLECTION_NAME = "semiconductor_datasheets"
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
-# BGE models were trained with an instruction prefix on the DOCUMENT side
-# for asymmetric retrieval setups in some variants, but bge-small-en-v1.5
-# specifically only needs the prefix on the QUERY side at search time (see
-# query_rag.py) - documents are embedded as-is.
+# BGE models were trained with an instruction prefix on the DOCUMENT side for asymmetric retrieval setups in some variants
 BATCH_SIZE = 64
 
 
@@ -49,7 +36,6 @@ def build_vector_store():
     print("\nConnecting to Chroma...")
     client = chromadb.PersistentClient(path=str(VECTOR_DB_DIR))
     # Recreate the collection each run so stale/removed chunks don't linger
-    # from a previous parse of the same datasheet.
     try:
         client.delete_collection(COLLECTION_NAME)
     except Exception:

@@ -2,7 +2,7 @@ import json
 import sys
 import os
 
-# Ensure we can import from src
+# Ensure this babeh can import from src
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src"))
 from generate_answer import get_answer_data
 from hybrid_query import load_retrieval_backend
@@ -37,10 +37,10 @@ def run_evaluation():
         success = all(str(val) in answer for val in expected)
         
         if success:
-            print("  ✅ PASS")
+            print(" PASS")
             passed += 1
         else:
-            print("  ❌ FAIL (Hallucination or Miss)")
+            print(" FAIL (Hallucination or Miss)")
             failed += 1
             failed_details.append({
                 "question": question,

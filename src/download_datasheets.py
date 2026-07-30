@@ -5,13 +5,8 @@ Usage:
     python src/download_datasheets.py
 
 Notes:
-- Run this on your own machine, not in a restricted sandbox - manufacturer
-  sites are not always reachable from locked-down network environments.
-- Manufacturer sites occasionally change their PDF URL structure or block
-  scripted requests. If a download fails, open the product page in a
-  browser, grab the correct PDF link, and update manifest.csv.
-- Be a good citizen: this adds a short delay between requests and a real
-  User-Agent header so you don't hammer manufacturer servers.
+- Run this on a machine, not in a restricted sandbox as manufacturer sites are not always reachable from locked-down network environments
+- Manufacturer sites occasionally change their PDF URL structure or block scripted requests
 """
 
 import csv

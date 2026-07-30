@@ -1,7 +1,7 @@
 """
-Dumps raw PyMuPDF text blocks for a page range, unfiltered, so you can see
-exactly how a given page's headings and text are being extracted - before
-any section-detection or noise-filtering logic touches them.
+Dumps raw PyMuPDF text blocks for a page range, unfiltered, so can see
+exactly how a given page's headings and text are being extracted before
+any section-detection or noise-filtering logic touches them
 
 Usage:
     python src/dump_raw_blocks.py data/raw_pdfs/LM317.pdf 2 4

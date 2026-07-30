@@ -1,12 +1,11 @@
 """
-End-to-end RAG: hybrid retrieval (Phase 5) + LLM generation with citations,
-using a local model via Ollama - no API key, no cost, runs on your machine.
+End-to-end RAG: hybrid retrieval + LLM generation with citations,
+using a local model via Ollama, no API key, no cost, runs on own machine
 
-Setup (one-time):
+Setup:
     1. Install Ollama: https://ollama.com/download
     2. Pull a model:   ollama pull llama3.1:8b
-    3. Make sure Ollama is running (it starts automatically after install,
-       or run `ollama serve` manually)
+    3. Make sure Ollama is running
 
 Usage:
     python src/generate_answer.py "what is the maximum output current of the LM317"
@@ -24,19 +23,17 @@ from hybrid_query import load_retrieval_backend, retrieve_chunks
 
 DEFAULT_MODEL = "llama3.1:8b"
 
-# The instruction discipline here is the whole point of RAG over a
-# semiconductor datasheet: the model must NEVER state a specific number,
-# voltage, current, or rating from its own training data - only from the
-# retrieved excerpts - and must say so plainly when the excerpts don't
-# cover the question, rather than guessing at a plausible-sounding value.
-SYSTEM_PROMPT = """You are a semiconductor datasheet assistant. You answer questions ONLY using the excerpts provided below - never from your own general knowledge of these parts.
+# The instruction discipline here is the whole point of RAG over a semiconductor datasheet
+# the model must NEVER state a specific number, voltage, current, or rating from its own training data
+# only from the retrieved excerpts and must say so plainly when the excerpts don't cover the question rather than guessing at a plausible-sounding value.
+SYSTEM_PROMPT = """You are a semiconductor datasheet assistant. You answer questions ONLY using the excerpts provided below, never from your own general knowledge of these parts.
 
 Rules:
-- Every specific number, voltage, current, temperature, or rating you state MUST come from the excerpts, and MUST be followed by a citation like [Source 2].
-- If you find the answer in the excerpts, provide it directly. Do NOT start your response with "The provided excerpts don't cover this" if you are going to provide the answer anyway. Only say "The provided excerpts don't cover this" if you are completely unable to answer the question.
-- Do NOT guess or fill in a plausible-sounding value from training data.
+- Every specific number, voltage, current, temperature, or rating you state must come from the excerpts, and must be followed by a citation like [Source 2].
+- If you find the answer in the excerpts, provide it directly. Do not start your response with "The provided excerpts don't cover this" if you are going to provide the answer anyway. Only say "The provided excerpts don't cover this" if you are completely unable to answer the question.
+- Do not guess or fill in a plausible-sounding value from training data.
 - Often, datasheets specify different values for different conditions (e.g., Min/Typ/Max values, different packages like PWP vs RSA, or different modes like Active vs Sleep). These are NOT "discrepancies" or contradictions. Do not state there is a discrepancy in the datasheet; instead, list the values alongside their specific conditions or modes.
-- Keep the answer concise and direct - this is for an engineer who wants the spec, not a lecture."""
+- Keep the answer concise and direct, this is for an engineer who wants the spec, not a lecture."""
 
 
 def build_context(results: list) -> str:

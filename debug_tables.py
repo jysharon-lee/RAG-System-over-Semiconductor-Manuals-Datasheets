@@ -1,4 +1,3 @@
-"""Diagnostic: dump what pdfplumber actually extracts for tables on a given page."""
 import sys
 import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')

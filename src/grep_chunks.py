@@ -1,7 +1,5 @@
 """
-Searches the raw processed_chunks JSON directly for keyword matches -
-bypasses retrieval entirely, so you can check whether data actually made it
-into the pipeline before suspecting a retrieval/ranking problem.
+Searches the raw processed_chunks JSON directly for keyword matches bypasses retrieval entirely
 
 Usage:
     python src/grep_chunks.py TPS61030 "voltage"

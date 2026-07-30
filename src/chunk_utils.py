@@ -1,10 +1,6 @@
 """
 Shared chunk-loading logic used by both build_vector_store.py and
-build_bm25_index.py. Having ONE canonical place that assigns chunk IDs
-matters a lot here: hybrid retrieval fuses rankings from two separate
-systems (Chroma and BM25) by matching on chunk ID, so if the two build
-scripts ever computed IDs differently, fusion would silently misalign
-results without erroring.
+build_bm25_index.py
 """
 
 import json
@@ -12,14 +8,6 @@ from pathlib import Path
 
 PROCESSED_CHUNKS_DIR = Path(__file__).parent.parent / "data" / "processed_chunks"
 
-# Chunks like "Figure 2. Quiescent Current into VOS" or "100% Mode Quiescent
-# Current (nA)" are chart captions/axis labels from Typical Characteristics
-# pages. They're short and keyword-dense, which makes BM25 rank them very
-# highly for exactly the kind of query they're captioning (e.g. "quiescent
-# current") - but they contain no actual value, just a label pointing at a
-# graph we never ingested. Left in, they crowd out the real electrical
-# characteristics table row that actually has the number. Filtered here
-# (not at parse time) so re-running this doesn't require re-parsing PDFs.
 CAPTION_SECTION_MARKER = "typical characteristics"
 CAPTION_MAX_LENGTH = 80
 

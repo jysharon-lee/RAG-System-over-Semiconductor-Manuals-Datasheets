@@ -1,9 +1,4 @@
 """
-Query the vector store to test retrieval quality before building the full
-RAG pipeline. This does NOT call an LLM yet - it just shows you what chunks
-get retrieved for a given question, so you can sanity-check the embeddings
-and vector store before adding generation on top.
-
 Usage:
     python src/query_rag.py "what is the maximum output current of the LM317"
     python src/query_rag.py "TPS62840 quiescent current" --part TPS62840
@@ -19,11 +14,6 @@ from sentence_transformers import SentenceTransformer
 VECTOR_DB_DIR = Path(__file__).parent.parent / "data" / "chroma_db"
 COLLECTION_NAME = "semiconductor_datasheets"
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-
-# bge-small-en-v1.5 was trained expecting this instruction prefix on the
-# QUERY side only (not on documents) for retrieval tasks - it measurably
-# improves retrieval accuracy for this model family. Skipping it still
-# works, just somewhat less accurately.
 QUERY_INSTRUCTION = "Represent this sentence for searching relevant passages: "
 
 

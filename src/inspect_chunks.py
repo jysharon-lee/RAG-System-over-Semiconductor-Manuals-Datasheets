@@ -1,6 +1,6 @@
 """
-Quick diagnostic: inspect chunk counts, section detection, and raw content
-for a parsed datasheet. Helps debug over-fragmented or mis-sectioned output.
+inspect chunk counts, section detection, and raw content
+for a parsed datasheet. Helps debug over-fragmented or mis-sectioned output
 
 Usage:
     python src/inspect_chunks.py data/processed_chunks/LM317.json

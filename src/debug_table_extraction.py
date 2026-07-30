@@ -1,10 +1,7 @@
 """
-Tests pdfplumber's table detection with different strategies on one page,
+Tests pdfplumber's table detection with different strategies on one page
 to diagnose why a real table (e.g. Absolute Maximum Ratings) didn't get
-extracted. pdfplumber's default strategy looks for visible ruling lines;
-many datasheet tables are borderless (whitespace-aligned only), which the
-default silently misses - "text" strategy detects column/row boundaries
-from text alignment instead, which often works better for these.
+extracted
 
 Usage:
     python src/debug_table_extraction.py data/raw_pdfs/TPS61030.pdf 4
