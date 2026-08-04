@@ -2,23 +2,23 @@
 
 ![Datasheet RAG Web Interface](assets/screenshot.png)
 
-An engineering-grade Retrieval-Augmented Generation (RAG) system specifically designed for navigating and extracting highly accurate numerical specifications from complex semiconductor datasheets (PDFs).
+An engineering-grade Retrieval-Augmented Generation (RAG) system specifically designed for navigating and extracting highly accurate numerical specifications from complex semiconductor datasheets (PDFs)
 
 ## Architecture
 
 This project has evolved into a modern, two-tier web application:
 
 1. **Parser & RAG Engine (`src/`)**: 
-   - Uses `pdfplumber` for advanced table extraction, intelligently resolving multi-row spanning headers and accurately distributing merged MIN/TYP/MAX cells into discrete values.
-   - Combines BM25 lexical search with ChromaDB dense vector embeddings (BAAI/bge-small-en-v1.5) for hybrid retrieval.
-   - Leverages a local `llama3.1:8b` via Ollama to generate exact, heavily-prompted answers devoid of hallucinations.
+   - Uses `pdfplumber` for advanced table extraction, intelligently resolving multi-row spanning headers and accurately distributing merged MIN/TYP/MAX cells into discrete values
+   - Combines BM25 lexical search with ChromaDB dense vector embeddings (BAAI/bge-small-en-v1.5) for hybrid retrieval
+   - Leverages a local `llama3.1:8b` via Ollama to generate exact, heavily-prompted answers devoid of hallucinations
 
 2. **Backend API (`app/api/`)**: 
-   - A lightning-fast **FastAPI** server that loads the Vector DB into memory and exposes the RAG logic via a REST API.
+   - A lightning-fast **FastAPI** server that loads the Vector DB into memory and exposes the RAG logic via a REST API
 
 3. **Frontend UI (`app/ui/`)**: 
-   - A highly polished **React + Vite** single-page application.
-   - Features a premium dark-mode aesthetic with glassmorphism, dynamic gradients, and hoverable citation cards.
+   - A highly polished **React + Vite** single-page application
+   - Features a premium dark-mode aesthetic with glassmorphism, dynamic gradients, and hoverable citation cards
 
 ## Project Structure
 
